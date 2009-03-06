@@ -5,6 +5,11 @@ class JobTweetsController < ApplicationController
     else
       @tweets = JobTweet.search params[:q], :page => params[:page], :per_page => 50, :order => 'created_at DESC'
     end
+    
+    respond_to do |format|
+      format.html 
+      format.atom
+    end
   end
   
   def edit

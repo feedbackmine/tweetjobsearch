@@ -1,5 +1,5 @@
 atom_feed do |feed|
-  feed.title "Tweets" 
+  feed.title "tweetjobsearch" 
   feed.updated @tweets.first.created_at
   @tweets.each do |tweet|
   

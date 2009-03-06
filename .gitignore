@@ -1,0 +1,5 @@
+config/database.yml
+log/*.log
+tmp/**/*
+db/sphinx/**/*
+*~

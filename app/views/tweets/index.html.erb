@@ -1,0 +1,29 @@
+<h1>Non job related tweets:</h1>
+
+<%= render :partial => 'tweets/search' %>
+
+<table>
+<% @tweets.each do |tweet| %>
+<% if tweet %>
+  <tr>
+  <td>
+  <%= render :partial => 'tweets/tweet', :locals => {:tweet => tweet} %>
+  </td>
+  <td>
+    <%= link_to 'IsJobPost', :controller => 'training_tweets', 
+                            :action => 'create', 
+                            :status_id => tweet.status_id,
+                            :label => 1 %>
+  </td>
+  <td>
+    <%= link_to 'NotJobPost', :controller => 'training_tweets', 
+                            :action => 'create', 
+                            :status_id => tweet.status_id,
+                            :label => 0 %>
+  </td>
+  </tr>
+<% end %>
+<% end %>
+</table>
+
+<%= will_paginate @tweets %>

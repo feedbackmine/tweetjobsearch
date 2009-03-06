@@ -1,0 +1,17 @@
+<h1>Jobs posted on Twitter:</h1>
+
+<%= render :partial => 'tweets/search' %>
+
+<table>
+<% @tweets.each do |tweet| %>
+<% if tweet %>
+  <tr>
+  <td>
+    <%= render :partial => 'tweets/tweet', :locals => {:tweet => tweet} %>
+  </td>
+  </tr>
+<% end %>
+<% end %>
+</table>
+
+<%= will_paginate @tweets %>

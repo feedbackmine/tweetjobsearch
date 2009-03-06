@@ -1,0 +1,18 @@
+<h1>Job posts on Twitter:</h1>
+
+<%= render :partial => 'tweets/search' %>
+
+<table>
+<% @tweets.each do |tweet| %>
+  <tr>
+  <td>
+    <%= render :partial => 'tweets/tweet', :locals => {:tweet => tweet} %>
+  </td>
+  <td>
+    <%= link_to 'Delete', tweet, :method => :delete %>
+  </td>
+  </tr>
+<% end %>
+</table>
+
+<%= will_paginate @tweets %>

@@ -1,0 +1,19 @@
+<hr/>
+
+<p>
+<image src="<%= tweet.profile_image_url %>" class="top pull-1 left" height="48" width="48"/>
+<%= tweet.text %><br>
+
+<small>
+<%= time_ago_in_words(tweet.created_at) + ' ago' %>
+By <%= link_to tweet.screen_name, "http://twitter.com/#{tweet.screen_name}" %>
+
+<% unless tweet.location.blank? %>
+From <%= tweet.location %>
+<% end %>
+
+- <%= link_to 'View', "http://twitter.com/#{tweet.screen_name}/statuses/#{tweet.status_id}" %>
+</small>
+
+</p>
+

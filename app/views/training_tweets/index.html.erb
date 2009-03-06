@@ -1,0 +1,23 @@
+<h1>Training data:</h1>
+
+<%= render :partial => 'tweets/search' %>
+
+<table>
+<% @tweets.each do |tweet| %>
+<% if tweet %>
+  <tr>
+    <td>
+    <%= tweet.text %>
+    </td>
+    <td>
+    <%= tweet.label %>
+    </td>
+    <td>
+    <%= link_to 'Delete', :action => 'destroy', :id => tweet.id, :method => :delete %>
+    </td>
+  </tr>
+<% end %>
+<% end %>
+</table>
+
+<%= will_paginate @tweets %>

@@ -1,0 +1,25 @@
+== Welcome
+
+TweetJobSearch is search engine for jobs posted on twitter.
+
+The website is at http://tweetjobsearch.com
+
+== Getting Started
+
+#start web server
+vi config/database.yml
+rake db:create
+rake db:migrate
+sudo rake gems:install
+script/server
+
+#start sphinx
+rake ts:in
+rake ts:start
+
+#start crawler
+jobs/crawler.rb
+
+#train classifier
+jobs/classifier.rb train
+

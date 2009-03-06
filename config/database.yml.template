@@ -1,0 +1,18 @@
+development:
+  adapter: mysql
+  database: tweetjobsearch_dev
+  host: localhost
+  username: root
+
+test:
+  adapter: mysql
+  database: tweetjobsearch_test
+  host: localhost
+  username: root
+
+production:
+  adapter: mysql
+  database: tweetjobsearch
+  host: localhost
+  username: root
+

@@ -15,7 +15,7 @@ namespace :deploy do
   desc "Restarting mod_rails/crawler/sphinx"
   task :restart, :roles => :app, :except => { :no_release => true } do
     run "touch #{current_path}/tmp/restart.txt"
-    run "touch /tmp/restart-cralwer.txt"
+    run "touch /tmp/restart-crawler.txt"
     restart_sphinx
   end
 

@@ -2,7 +2,13 @@
 
 TweetJobSearch is search engine for jobs posted on twitter.
 
-The website is at http://tweetjobsearch.com
+The demo website is at http://tweetjobsearch.com
+
+A few hightlights: 
+* uses twitter data mining feeds to collect data 
+* uses libsvm classifier and a few hardcoed twitter id to identify 
+job posts 
+* it is a rails web app and uses sphinx for search
 
 == Getting Started
 
@@ -23,3 +29,6 @@ jobs/crawler.rb
 #train classifier
 jobs/classifier.rb train
 
+== Follow us on twitter
+
+http://twitter.com/feedbackmine

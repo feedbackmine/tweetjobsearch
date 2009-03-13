@@ -90,7 +90,7 @@ class Classifier
   def predict text
     words = tokenize(text)
     features = words.map {|word| @feature_dictionary[word]}
-    features.sort
+    features.sort!
     @model.predict(features).to_i
   end
   

@@ -84,27 +84,6 @@ class Crawler
       finance_news
       freephptutorial
   }
-  
-  COLUMNS = [:created_at,
-              :status_id,
-              :text,
-              :source,
-              :truncated,
-              :in_reply_to_status_id,
-              :in_reply_to_user_id,
-              :favorited,
-              
-              :user_id,
-              :name,
-              :screen_name,
-              :description,
-              :location,
-              :profile_image_url,
-              :url,
-              :protected,
-              :followers_count,
-              
-              :language]
               
   JOB_COLUMNS = [:created_at,
               :status_id,
@@ -148,7 +127,6 @@ class Crawler
     count = 0
     min_id = 0
     max_id = 0
-    tweets = []
     job_tweets = []
     @logger.info "new round started: " + start_time.to_s
     
@@ -158,13 +136,12 @@ class Crawler
 
       doc = Nokogiri::XML(xml).xpath("//status").each do |status|
         count += 1
-        status_id = parse(status, tweets, job_tweets)
+        status_id = parse(status, job_tweets)
         min_id = status_id if status_id < min_id or min_id == 0
         max_id = status_id if status_id > max_id or max_id == 0
       end
       parse_time = Time.now
       
-      Tweet.import(COLUMNS, tweets, {:validate => false, :timestamps => false, :ignore => true}) unless tweets.empty?
       JobTweet.import(JOB_COLUMNS, job_tweets, {:validate => false, :timestamps => false, :ignore => true}) unless job_tweets.empty?
       end_time = Time.now
       
@@ -222,7 +199,7 @@ private
     end
   end
 
-  def parse(status, tweets, job_tweets)
+  def parse(status, job_tweets)
     created_at = Time.zone.parse(status.at("./created_at").content)
     status_id = status.at("./id").content.to_i
     text = status.at("./text").content
@@ -270,8 +247,6 @@ private
     elsif is_job_tweet?(text, screen_name)
       tweet << JobTweet::CLASSIFIER
       job_tweets.push tweet
-    else
-      tweets.push tweet
     end
     
     return status_id

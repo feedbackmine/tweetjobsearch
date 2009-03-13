@@ -4,7 +4,7 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 require 'logger'
-require 'whatlanguage'
+require 'language_detector'
 require 'ar-extensions/adapters/mysql'
 require 'ar-extensions/import/mysql'
 require File.dirname(__FILE__) + '/classifier.rb'
@@ -13,6 +13,7 @@ class Crawler
   
   TRUSTED_SOURCES = %w{
       AtlantaTechJobs
+      ATX_Jobs
       computer_jobs 
       chicagowebjobs
       eComjobs
@@ -137,6 +138,7 @@ class Crawler
     TRUSTED_SOURCES.each {|s| @trusted_sources[s] = true}
     @untrusted_sources = {}
     UNTRUSTED_SOURCES.each {|s| @untrusted_sources[s] = true}
+    @language_detector = LanguageDetector.new
   end
   
   def run(start_time)
@@ -260,7 +262,7 @@ private
               (user_protected == "true"),
               followers_count,
               
-              text.language.to_s]
+              @language_detector.detect(text)]
        
     if is_trusted_source?(screen_name)
       tweet << JobTweet::TRUSTED

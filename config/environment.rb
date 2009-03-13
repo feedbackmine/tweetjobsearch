@@ -33,7 +33,7 @@ Rails::Initializer.run do |config|
     :source => 'http://gems.github.com'
   config.gem 'ferret'
   config.gem 'tomz-libsvm-ruby-swig', :lib => 'svm', :source => 'http://gems.github.com'
-  config.gem 'peterc-whatlanguage', :lib => 'whatlanguage', :source => 'http://gems.github.com'
+  config.gem 'feedbackmine-language_detector', :lib => 'language_detector', :source => 'http://gems.github.com'
 
   # Only load the plugins named here, in the order given. By default, all plugins 
   # in vendor/plugins are loaded in alphabetical order.

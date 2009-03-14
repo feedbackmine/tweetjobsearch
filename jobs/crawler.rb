@@ -107,7 +107,7 @@ class Crawler
               :language,
               :reason]
               
-  CLASSIFIER_FILE = File.join(File.dirname(__FILE__), '../job.classifier')
+  CLASSIFIER_FILE = File.join(File.dirname(__FILE__), '../job.model')
           
   def initialize
     @classifier = Classifier.load

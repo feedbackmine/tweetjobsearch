@@ -5,6 +5,18 @@ require 'ferret'
 require 'svm'
 require 'yaml'
 
+#replace the one in svm.rb
+def _convert_to_svm_node_array(a)  
+  data = svm_node_array(a.size + 1)
+  svm_node_array_set(data,a.size,-1,0)
+  i = 0
+  a.each {|x|
+    svm_node_array_set(data, i, x, 1)
+    i += 1
+  }
+  return data
+end
+
 def tokenize(text)
   result = []
   analyzer = Ferret::Analysis::StandardAnalyzer.new([], true)
@@ -46,12 +58,12 @@ end
 
 class TrainingData
   def self.convert(text, feature_dictionary)
-    words = {}
     words = tokenize(text)
     words.uniq!
     words.each {|word| feature_dictionary.add(word)}
     features = words.map {|word| feature_dictionary[word]}
     features.sort!
+    features.reject! {|x| x == 0}
     return features
   end
 end
@@ -88,10 +100,7 @@ class Classifier
   end
   
   def predict text
-    words = tokenize(text)
-    features = words.map {|word| @feature_dictionary[word]}
-    features.sort!
-    @model.predict(features).to_i
+    @model.predict(TrainingData.convert(text, @feature_dictionary)).to_i
   end
   
   def self.load

@@ -62,7 +62,7 @@ desc "import training data"
 task :import, :roles => :app do
   run "mysqldump -u root tweetjobsearch training_tweets | gzip -c > training_tweets.sql.gz"
   `scp root@tweetjobsearch.com:~/training_tweets.sql.gz training_tweets.sql.gz`
-  `gzip -d training_tweets.sql.gz`
+  `gzip -f -d training_tweets.sql.gz`
   `mysql -u root tweetjobsearch_dev < training_tweets.sql`
 end  
 

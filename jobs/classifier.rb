@@ -1,7 +1,7 @@
 #!/usr/bin/env ./script/runner
 
 require 'rubygems'
-require 'ferret'
+require 'tokenizer'
 require 'svm'
 require 'yaml'
 
@@ -19,12 +19,9 @@ end
 
 def tokenize(text)
   result = []
-  analyzer = Ferret::Analysis::StandardAnalyzer.new([], true)
-  stream = analyzer.token_stream(:nouse, text)
-  token = stream.next
-  while token
-    result << token.text
-    token = stream.next
+  tokenizer = Tokenizer.new(text)
+  while token = tokenizer.next
+    result << token.downcase
   end
   return result
 end

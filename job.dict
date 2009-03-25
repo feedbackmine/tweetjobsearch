@@ -1,4111 +1,2838 @@
 --- !ruby/object:FeatureDictionary 
-i: 3377
+i: 2836
 map: 
-  minutes: 114
-  being: 519
-  "ngo\xC3\xA0i": 2373
-  tough: 2085
-  ethanbauley: 3235
-  15-ti: 1950
-  home: 791
-  jobsearch: 1850
-  sau: 2248
-  ? !binary "5r6z6ZaA5YGH6JuL5LqL5Lu25Zq06YeN5omT5pOK6Zu25ZSu55Sf5oSP\n"
-  : 1157
-
-  tinyurl.com/c3khuq: 1128
-  sysadmin: 1663
-  instead: 1566
-  ? !binary "6IO95p2l6aKE57qm5LqG\n"
-  : 1207
-
-  programming: 498
-  ? !binary "4Lij4Liy4Lii4Lir4Lil4Lix4LiH4Lij4Lix4Lia4Lib4Lij4Liw4LiX4Liy\n\
-    4LiZ4LmA4LiE4Lij4Li34LmI4Lit4LiH4LmD4LiZ4Lir4Lih4Li54LiX4Li1\n\
-    4LmI4LiI4Li14LiZ\n"
-  : 1470
-
-  yep: 2695
-  ? !binary "6Iqx5peX6YqA6KGM6Kq/5L2O5Lit5rW355+z5rK55YyW5a24\n"
-  : 1117
-
-  trainee: 743
-  sterling: 1616
-  say: 143
-  gorgeous: 3141
-  "yes": 51
-  disclosure: 2928
-  ? !binary "6YG/5YWN6KOB5ZOh\n"
-  : 1126
-
-  direction: 2694
-  yet: 2997
-  "ch\xC6\xB0\xC6\xA1ng": 2325
-  china: 2582
-  "val\xC3\xB3s\xC3\xA1g": 2296
-  submarine: 1910
-  bookmarklets: 2800
-  nerves: 93
-  anything: 3196
-  bright: 1860
-  nite: 1382
-  wihtin: 1831
-  "\xC4\x91\xE1\xBB\xA5c": 2008
-  warm: 3113
-  austin: 3238
-  ? !binary "5Y2B5rKz\n"
-  : 1363
-
-  newspaper: 739
-  ? !binary "44Ki44OL44Oh44O844K344On44Oz44KS5Ya344KE44GX44G+44GZ\n"
-  : 891
-
-  portal: 2111
-  tinyurl.com/alsue5: 1164
-  brought: 2876
-  white: 2359
-  annapolis: 3037
-  project: 1760
-  gadgets.boingbo: 897
-  didnt: 2761
-  tinyurl.com/b9tl5y: 650
-  paul: 2816
-  director: 1508
-  sxsw: 2830
-  wars: 500
-  file: 2527
-  organisation: 1774
-  died: 3347
-  momif: 2810
-  moment: 2717
-  adesoji: 2955
-  "nh\xE1\xBB\xAFng": 2240
-  ? !binary "6bq76Jas44Gu5Y6f5paZ\n"
-  : 1402
-
-  fsecure: 1569
-  tinyurl.com/d5vpyy: 878
-  users: 1923
-  indian: 768
-  much: 424
-  perez: 1077
-  last: 1843
-  stop: 374
-  newest: 1539
-  ? !binary "4LiX4Lix4LmI4Lin4Lib4Lij4Liw4LmA4LiX4Lio\n"
-  : 1240
-
-  sunday: 2757
-  bushaw: 2977
-  black: 1047
-  memoryline: 1322
-  upper: 3021
-  high: 282
-  "\xE3\x81\xBE\xE3\x81\x9Fwikipedia\xE8\xAA\xAD\xE3\x82\x93\xE3\x81\xA7\xE3\x82\x8B": 1318
-  anybody: 1691
-  nation: 261
-  positions: 2572
-  avoid: 2879
-  nynew: 849
-  attacks: 3005
-  thing: 1708
-  film: 2777
-  brettdsharp: 2559
-  tinyurl.com/ddt6sj: 1550
-  walked: 2652
-  preventitive: 3006
-  ? !binary "5bm/5Lic56e75Yqo\n"
-  : 1151
-
-  offender: 568
-  ? !binary "5q+O5pel5paw6IGe\n"
-  : 1395
-
-  friends: 2956
-  "\xB0\xE5\xA1\x91\xE9\x9B\x86\xE5\x9C\x98\xE7\x8F\xBE\xE9\x87\x91\xE8\x82\xA1\xE6\x81\xAF\xE9\x99\x8D1-3": 984
-  merseyside: 1889
-  providing: 3232
-  think: 479
-  whiplashdesign: 1705
-  tinyurl.com/djsqf7: 1611
-  walmart: 2188
-  tinyurl.com/aatpld: 1256
-  brand: 37
-  extras: 2705
-  wal: 2189
-  ? !binary "56qT5out44GN44Gf44Gh44GM6KaL44Gf5aSi\n"
-  : 1370
-
-  coachposted: 1702
-  faster: 124
-  www.asksaurabh.com/listings/36: 1861
-  probably: 423
-  creator: 3132
-  we're: 819
-  20-2: 2311
-  education/teachingjobs: 2421
-  tinyurl.com/bfbel4: 1186
-  "v\xE1\xBA\xADt": 1960
-  roblanning: 2619
-  gamer: 2779
-  "\xE5\x8C\x97\xE4\xBA\xAC\xE5\x9C\xB0\xE9\x90\xB5\xE5\x8E\xBB\xE5\xB9\xB4\xE6\xAA\xA23\xE8\x90\xAC\xE9\x81\x95\xE7\xA6\x81\xE5\x93\x81": 1129
-  war: 333
-  class.got: 3129
-  dressed: 2755
-  games: 654
-  was: 50
-  indoors: 529
-  heard: 211
-  were: 201
-  tinyurl.com/ccx749: 1775
-  grab: 3333
-  resources: 2174
-  bleep: 293
-  side: 371
-  tinyurl.com/d2qqpg: 965
-  tinyurl.com/bsxrw8: 3153
-  grad: 2444
-  artist: 653
-  ? !binary "5LiN5q2j6Ly45Ye6\n"
-  : 1401
-
-  ? !binary "z4DOuc64zrHOvc6/zq8=\n"
-  : 1452
-
-  thought: 397
-  way: 336
-  hexaware: 276
-  ? !binary "z4PPhM+Mz4fOv8+C\n"
-  : 1430
-
-  magazine: 2546
-  mississauga: 1511
-  interesting: 1779
-  ",": 861
-  tinyurl.com/camvwy: 1218
-  tinyurl.com/ak2lj4: 877
-  "-": 1852
-  insurance: 42
-  twurl.nl/hdkpve: 2856
-  tinyurl.com/bavfav: 1017
-  16-33: 2604
-  estate: 1546
-  tefflox: 2089
-  tanto: 2350
-  "b\xC3\xA0": 1989
-  graphic/web: 1510
-  intelligent: 1906
-  ? !binary "5Y2D6JGJ55yM6Yqa5a2Q5rKW44Gn5Lmx5rCX5rWB44Gr5be744GN6L6844G+\n\
-    44KM44Gf\n"
-  : 927
-
-  server: 644
-  "0": 154
-  touch: 3197
-  marketer: 2196
-  errors: 2069
-  "1": 884
-  your: 141
-  ? !binary "57Wx5ZCI\n"
-  : 1261
-
-  "2": 2702
-  hawaiian: 1692
-  lexus: 2308
-  milwaukee: 1602
-  wanted: 1877
-  insult: 339
-  "3": 816
-  "4": 3151
-  poloroid: 2776
-  tinyurl.com/af2qlw: 3349
-  starbucks: 3125
-  "5": 121
-  roland: 1658
-  practicing: 2223
-  with: 237
-  "6": 2924
-  head: 2433
-  contribute: 490
-  framework: 1896
-  heart: 3004
-  less: 338
-  "7": 255
-  property: 3268
-  finish: 403
-  tinyurl.com/arhrsv: 977
-  roxxx_wwf: 2923
-  "8": 1652
-  "s\xC3\xA2u": 2005
-  ? !binary "hw==\n"
-  : 1094
-
-  officially: 2696
-  ? !binary "iA==\n"
-  : 970
-
-  "b\xC3\xA9": 2278
-  small: 1795
-  coding: 817
-  designer: 635
-  morning: 48
-  bridal: 2610
-  ? !binary "ig==\n"
-  : 1109
-
-  brengt: 438
-  setting: 1883
-  camera: 3331
-  "\xC4\x91\xE1\xBB\xABng": 2318
-  yay: 544
-  object: 202
-  surfs: 3138
-  ? !binary "jA==\n"
-  : 1130
-
-  "b\xC3\xAD": 2303
-  federal: 514
-  "ng\xC3\xA0n": 2378
-  lengths: 532
-  perfect: 1803
-  ? !binary "jQ==\n"
-  : 967
-
-  oldschool: 238
-  yummy: 1027
-  breaking: 524
-  tomorrow: 547
-  ceos: 2475
-  "r\xE1\xBB\x93i": 2021
-  years: 2645
-  note: 1696
-  want: 180
-  sweater: 215
-  int23: 2194
-  www.tweetluck.org: 2948
-  twitter: 59
-  ? !binary "jw==\n"
-  : 983
-
-  highway: 3344
-  nela: 2347
-  ? !binary "5bCP5a625LyZ5omN5LiA5Liq5Y2K5pyI\n"
-  : 1170
-
-  christmas: 47
-  publications: 2828
-  hear: 2969
-  "tr\xC4\x83m": 2379
-  affiliate: 1532
-  ? !binary "lA==\n"
-  : 972
-
-  ? !binary "zrTOtc+Nz4TOtc+Bzrc=\n"
-  : 1410
-
-  from: 206
-  ? !binary "4Liq4LiZ4LmD4LiI4LmC4Lib4Lij4LiU4LiV4Li04LiU4LiV4LmI4Lit\n"
-  : 1241
-
-  "\xB33.3": 1122
-  round: 2952
-  once: 304
-  pgolubwordpress: 3373
-  "ng\xC3\xA0y": 1981
-  "ng\xE1\xBA\xAFn": 2400
-  twurl.nl/tfe7bj: 2382
-  dirty: 2231
-  dream: 626
-  london-london-w1w: 1907
-  twttr: 2837
-  open: 2564
-  chasing: 3142
-  mdowney: 608
-  jobfeedr.c: 1797
-  during: 457
-  iamruinous: 3052
-  "\xE3\x82\x82\xE3\x81\x864\xE5\xB9\xB4\xE5\x89\x8D\xE3\x81\xAE\xE6\x98\xA5\xE3\x81\xAE\xE3\x81\x93\xE3\x81\xA8\xE3\x81\xAB\xE3\x81\xAA\xE3\x82\x8B\xE3\x81\x8C": 1368
-  tinyurl.com/cnuo2h: 1019
-  teams: 2754
-  president: 253
-  ? !binary "6KW/5YyX6Iiq56m65LiA5p6255Sx6I+y5b6L6LOT6aOb5b6A5pel5pys55qE\n\
-    54+t5qmf\n"
-  : 1140
-
-  walk: 1754
-  successfully: 1577
-  greenville: 2614
-  medical: 1598
-  erstmal: 2791
-  control: 2882
-  ? !binary "5ZCJ54i+5ZCJ5pav5ZyL5pyD6YCa6YGO\n"
-  : 1220
-
-  "141952": 2523
-  php4: 2066
-  visual: 634
-  personas: 1104
-  turned: 43
-  does: 2157
-  myfirstpaycheck: 2158
-  ? !binary "16nXnA==\n"
-  : 1483
-
-  through: 3312
-  exp: 1526
-  "s\xE1\xBA\xA3o": 2030
-  bug: 455
-  lamp: 1869
-  ? !binary "5Zu+\n"
-  : 1034
-
-  ? !binary "44Oh44Or44Kx44Or6Zu76Kmx5rOV546L\n"
-  : 914
-
-  green: 2857
-  hours: 217
-  password: 1669
-  ? !binary "6aas5oWL5bqm5by356Gs\n"
-  : 1225
-
-  megyay: 49
-  tinyurl.com/d6mxap: 1474
-  using: 1916
-  espero: 2352
-  twitterers: 31
-  "bu\xC3\xB4n": 2380
-  birmingham: 1789
-  looked: 1726
-  tinyurl.com/afq3rp: 3376
-  simpl: 1540
-  list: 27
-  colleges: 3112
-  having: 486
-  smell: 3181
-  "\xE6\x9C\x8971\xE4\xBA\xBA\xE5\x9B\xA0\xE8\x80\x8C\xE6\x8B\x98\xE7\x95\x99": 1137
-  jobsurl.com/c5b: 863
-  ? !binary "5omN5oCq\n"
-  : 1345
-
-  tinyurl.com/c3exla: 2276
-  ? !binary "6IO95YGa55qE5Y+q5pyJ562J5b6F\n"
-  : 1351
-
-  ? !binary "15HXkNeg15LXnNeZ16o=\n"
-  : 1489
-
-  ? !binary "5YyX5rW36YGT5paw6IGe\n"
-  : 1267
-
-  a: 73
-  leon: 3264
-  cutest: 3242
-  whoa: 3147
-  tinyurl.com/cdbgk4: 1233
-  dewey: 2976
-  coyotes: 1498
-  ? !binary "5Y+w57O75ZOB54mM5piO5Z+65Li75omT6auY56uv\n"
-  : 1181
-
-  b: 1964
-  geeky: 2146
-  it&: 559
-  c: 647
-  cosmocatalano: 209
-  utterli: 1025
-  timelines: 3000
-  ruby19: 452
-  tinyurl.com/c2gycy: 2541
-  d: 1335
-  junior/senior: 2448
-  eve: 3323
-  but: 128
-  patient: 321
-  lake: 2984
-  fund: 585
-  tinyurl.com/bfjdm2: 2892
-  e: 1542
-  went: 448
-  tr.im/gzrm: 641
-  diego: 2972
-  palladium: 2500
-  pcamp09: 2673
-  f: 1570
-  looking: 582
-  wimilwaukee: 1600
-  tinyurl.com/cb9nps: 1647
-  anytime: 3327
-  cause: 341
-  tuned: 1828
-  "h\xC3\xA0": 2258
-  visualcv.com: 1650
-  i: 33
-  hairy: 2177
-  buy: 204
-  essential: 1809
-  j: 2333
-  ? !binary "z4PPhM6x\n"
-  : 1412
-
-  silence: 11
-  ? !binary "5paw6I+v56S+5aCx6YGT\n"
-  : 1146
-
-  projects: 1780
-  "kh\xC3\xA1c": 2020
-  talented: 733
-  m: 2825
-  while: 401
-  locales: 2086
-  brink: 2877
-  docs: 2171
-  whom: 4
-  siemens: 1416
-  susanwilke: 2621
-  n: 1575
-  condo: 3019
-  communications: 840
-  o: 64
-  glassfish: 2130
-  midnight: 299
-  developments: 1819
-  p: 2337
-  "c\xC4\x83n": 1957
-  we'll: 3053
-  robbery: 45
-  are: 565
-  ? !binary "5aSn6JmQ5q665YiX\n"
-  : 913
-
-  jobfeedr.com: 1617
-  r: 1576
-  don't: 178
-  carogonza: 3111
-  "m\xC6\xA1": 2054
-  s: 561
-  results: 1711
-  t: 110
-  continue: 2357
-  dehora: 2124
-  values: 3269
-  u: 447
-  "s\xE1\xBB\x91ng": 2042
-  well: 462
-  v: 1949
-  tinyurl.com/dcn7wl: 1115
-  000s: 2836
-  please: 813
-  w: 2331
-  "c\xC3\xB9ng": 2375
-  50th: 56
-  ? !binary "5byg6Im66LCL5LiK6K+J6KqT57u05oqk5aWz5YS/5YiY5L+h6L6+\n"
-  : 1032
-
-  ? !binary "z4PPhM6/\n"
-  : 1449
-
-  girth: 2990
-  y: 2122
-  ? !binary "z4bOsc66zq3Ou86/z4XPgg==\n"
-  : 1409
-
-  sitting: 618
-  rails: 1623
-  question: 3077
-  wine: 3320
-  tinyurl.com/b3tjou: 2105
-  capital: 591
-  etc: 830
-  "j\xC3\xA1": 2348
-  gfudolobxywx: 1185
-  minervity: 2797
-  enthralled: 2481
-  "v\xE1\xBA\xA5n": 2262
-  boquete: 1816
-  treating: 1607
-  tumblr.com/xt01bsbqk: 2404
-  art: 1507
-  frisbee: 1011
-  arkansas: 741
-  word: 825
-  ? !binary "55Sx5Y6f5L6G55qE\n"
-  : 1088
-
-  talking: 1673
-  geektopeak: 2980
-  tinyurl.com/bufmo6: 120
-  minneapolis: 1847
-  ? !binary "z4DPgc+Mz4PPic+AzrE=\n"
-  : 1461
-
-  huge: 165
-  fun: 399
-  people: 177
-  also: 2588
-  planning: 3097
-  "\xE1\xBB\x85n": 1951
-  central: 1535
-  full: 1529
-  tinyurl.com/d6bar9: 1284
-  friday: 2155
-  over: 554
-  yahoo: 1020
-  work: 75
-  ? !binary "44Oa44Oz44Ku44Oz6LuN\n"
-  : 910
-
-  blog/twitter/facebook: 1690
-  meatballs: 2147
-  fundraiser: 2811
-  applewha1: 2844
-  homepage: 2163
-  ? !binary "5Y2r55Sf6YOo5YGl5bq35pWZ6IKy6aaW5bit5LiT5a625rSq5pit5YWJ5bqU\n\
-    6YKA5Yiw5bm/5bee5Li+5Yqe5YGl5bq36K6y5bqn\n"
-  : 1273
-
-  share: 1072
-  rate: 2450
-  wefollow: 2778
-  methods: 228
-  melissalmcinnis: 2153
-  api: 1918
-  created: 3078
-  primaryposition: 2460
-  "l\xC3\xA0": 2403
-  ? !binary "6Iqs6Jit5aSu6KGM6KGM6ZW3\n"
-  : 978
-
-  ? !binary "15zXqdec15XXmA==\n"
-  : 1481
-
-  ? !binary "6K6p5aaI5aaI5p2l5omT5Y+R6Zey5pqH5pe26Ze0\n"
-  : 1168
-
-  ? !binary "4Lir4LiZ4LmJ4Liy4LmD4Liq\n"
-  : 1213
-
-  ? !binary "6JCs6aSY5Lu25ZCE6aGe5piT54eD5piT54iG6YGV56aB5ZOB\n"
-  : 1132
-
-  later: 1756
-  great: 766
-  "\xC3\xB4m": 1996
-  tinyurl.com/bbju8t: 323
-  industry: 1710
-  tinyurl.com/b2oljv: 1156
-  "2.500": 2369
-  nyc: 2913
-  yr: 2963
-  copywriter: 2412
-  position: 1533
-  test: 3365
-  flex: 616
-  tinyurl.com/apd4k4: 1921
-  btech: 780
-  ? !binary "z4M=\n"
-  : 1462
-
-  wild: 773
-  august: 3040
-  offline: 3294
-  counseling: 788
-  virtualassistantadvantage.blogspot.com: 1656
-  tinyurl.com/d973uc: 3208
-  app: 601
-  world: 258
-  maddow: 687
-  radersrus: 86
-  granddaughter: 2480
-  2ndomo: 2739
-  "irre\xC3\xA1lis": 2291
-  ? !binary "576O5p6X5LiK6Kq/5Yip6LGQ6KmV57Sa6Iez6LK35YWl\n"
-  : 1084
-
-  00-21: 2135
-  tinyurl.com/d2kxpw: 2222
-  "l\xC3\xAA": 2265
-  ? !binary "5Q==\n"
-  : 966
-
-  pelican: 1039
-  paid: 738
-  cry: 2682
-  cleaning: 2443
-  wants: 376
-  ? !binary "5g==\n"
-  : 969
-
-  chrisilluminati: 3354
-  ? !binary "44GM44Gp44GG44GE44GG44G144GG44Gr5L2/44KP44KM44Gm44GE44KL44Gu\n\
-    44GL44KI44GP55+l44KJ44Gq44GE44GR44KM44Gp\n"
-  : 954
-
-  anniversary: 145
-  ? !binary "6A==\n"
-  : 1093
-
-  ? !binary "4KSv4KSw4KS4\n"
-  : 933
-
-  will: 156
-  closer: 1080
-  ff.im: 1851
-  ? !binary "44GV44KT5ZCN56ew44Gn44Gv44Gq44GL44Gj44Gf772X\n"
-  : 1067
-
-  apartments: 2783
-  twurl.nl/ixtffw: 2259
-  we: 162
-  cravat: 394
-  ? !binary "5Lit5bO25YGl5Lq6\n"
-  : 1070
-
-  "\xE8\xBB\xBD\xE7\x97\x8716\xE4\xBA\xBA": 923
-  fijiwater: 2455
-  and: 14
-  anywhere: 395
-  wi: 1601
-  massage: 2561
-  ? !binary "4Lic4Li04Lin4LiC4Liy4Lin\n"
-  : 1212
-
-  january: 79
-  session: 2916
-  processing: 994
-  "b\xE1\xBB\x8B": 2312
-  dvds: 2181
-  tinyurl.com/d86zal: 798
-  company: 609
-  ? !binary "4LmB4Lil4Liw4Lij4Lix4Lia4LiC4LmJ4Lit4LmB4LiZ4Liw4LiZ4Liz4LiI\n\
-    4Liy4LiB4LmA4Lig\n"
-  : 1217
-
-  whole: 2179
-  ? !binary "z4bOv8+Bz4TOt86zzqw=\n"
-  : 1442
-
-  things: 3228
-  every: 454
-  ? !binary "zrHPg8+Ez4XOvc6/zrzOuc66zqw=\n"
-  : 1456
-
-  come: 2566
-  hoax: 517
-  watchin: 2647
-  tinyurl.com/at8jdj: 2829
-  valleyfield: 1013
-  "n\xE1\xBB\x99i": 1995
-  linux: 1866
-  wolff: 3048
-  2.23.09: 976
-  aint: 3184
-  "b\xE1\xBB\x91": 2255
-  jojo: 3072
-  located: 1631
-  tumblr.com/xsm1bk7ds: 1885
-  oxf: 3063
-  tinyurl.com/bcyuuo: 1100
-  disgusted: 2362
-  jimmyjimjoes: 3350
-  rhymefest: 1714
-  1st: 2578
-  offers: 1672
-  tinyurl.com/d8emfk: 2283
-  "1983": 663
-  colleagues: 2515
-  jus: 2727
-  like: 216
-  education: 322
-  portland: 2808
-  health: 1604
-  post: 325
-  "\xB6\xE5\xA0\xB14633.94": 1005
-  ww: 2891
-  databasedevelopment/administrationjobs: 1794
-  onofre: 3139
-  "b\xE1\xBB\x99": 1983
-  doe: 649
-  its: 89
-  cheaper: 1557
-  everybody: 3049
-  page: 242
-  aceconcierge: 2715
-  tinyurl.com/bzffqn: 1046
-  "n\xC3\xB3": 2401
-  israel: 764
-  ? !binary "44GX44KF44O844GL44Gk5Lit44Gu55S344Gu5a2Q44Gu44K544O844OE44Gr\n\
-    44GX44Gk44GR44GE44Go44Gk44GE44Gf44G+44G+44Gg44GK\n"
-  : 111
-
-  "fel\xC3\xBClm\xC3\xBAl\xC3\xA1sa": 2289
-  levis: 2605
-  issues: 2097
-  tinyurl.com/d8h53u: 572
-  tinyurl.com/bvxelv: 975
-  eind: 435
-  tinyurl.com/bv9zzl: 896
-  tinyurl.com/auedzn: 790
-  "gi\xC3\xA1": 2246
-  psion: 875
-  "\xC4\x91o\xC3\xA0n": 1968
-  any: 212
-  etanowitz: 3170
-  ? !binary "5Zyw6Zu3\n"
-  : 1134
-
-  educational: 1679
-  ? !binary "5YKy5oWi6Zmi6ZW3\n"
-  : 1074
-
-  jeffkang: 445
-  ? !binary "zq3Phs6/zrTOvw==\n"
-  : 1411
-
-  www.quirk.biz/career/opportunity/23: 2555
-  free: 1666
-  ? !binary "0LLQuNC00LbQtdGC0LU=\n"
-  : 1304
-
-  town: 3092
-  parnellk63: 3290
-  ? !binary "772J772U5YuJ5by35Lya44Kr44Os44Oz44OA44O857S55LuL\n"
-  : 1061
-
-  message: 2744
-  bit.ly/nduij: 2801
-  williams: 2926
-  honest: 3275
-  look: 1556
-  uk: 1905
-  honey: 3194
-  clemente: 3140
-  discussion: 488
-  interested: 2608
-  "l\xE1\xBA\xA5y": 1997
-  though: 485
-  "ph\xC3\xA2n": 2027
-  top/the: 494
-  celebrate: 2993
-  cnn: 3149
-  administering: 1609
-  follow: 372
-  reneewiggins: 2626
-  yeah: 149
-  star: 1822
-  design: 632
-  excuse: 2992
-  john: 621
-  photo: 2895
-  take: 476
-  up: 25
-  settled: 3229
-  wont: 3214
-  revision: 319
-  all: 294
-  mcknight: 3073
-  idol: 136
-  ? !binary "44Go44GE44GG5oOF5aCx44KS5o6i44GX44Gm44GE44G+44GZ\n"
-  : 936
-
-  doing: 1801
-  advance: 2737
-  situation: 2711
-  tinyurl.com/cayhs8: 1426
-  tinyurl.com/adx7ht: 892
-  ? !binary "5pyd5pel5paw6IGe\n"
-  : 1060
-
-  special: 396
-  neuen: 1022
-  "\xC4\x91\xE1\xBA\xBFn": 2046
-  tinyurl.com/bbkglt: 1538
-  us: 81
-  ultimate: 1010
-  death: 1642
-  esta: 184
-  ow.ly/vku: 2729
-  animation: 656
-  fulltime: 1621
-  ? !binary "5q275b6X6LaK5b+r\n"
-  : 1278
-
-  ? !binary "5bCx6aG65L6/57uZ5oiR5a625LqG5LiA5Y+q\n"
-  : 1167
-
-  stick: 728
-  end: 531
-  stay: 1827
-  kevincupp: 2159
-  ? !binary "z4DOv867zrnPhM65zrrOrA==\n"
-  : 1460
-
-  crime: 1856
-  mp3: 3070
-  mxm03: 2087
-  winning: 2224
-  year: 3168
-  pffft: 900
-  school: 240
-  subscribing: 3083
-  warned: 516
-  hedge: 3359
-  chatting: 2805
-  engineers: 1559
-  magically: 3317
-  ended: 2934
-  attention: 2845
-  darren: 2435
-  certain: 2632
-  sc: 2615
-  sd: 3137
-  best: 836
-  vars: 2129
-  killed: 3343
-  32gb: 1040
-  www.rayandbarney.com: 2629
-  "m\xE1\xBA\xB9": 2056
-  ottawa: 1504
-  se: 186
-  sf: 2900
-  it'd: 398
-  package: 466
-  experts: 1689
-  fashion: 2657
-  settles: 2191
-  for: 3
-  "ch\xE1\xBB\x89": 2038
-  event: 472
-  video: 629
-  curler: 3328
-  private: 3086
-  "n\xE1\xBA\xBFu": 2037
-  ? !binary "56C06ZaA44Go44GL5aCV6JC944Go44GL6Z2i5YCS44GP44GV44GE44GK5L2c\n\
-    5rOV44GM44GC44Gj44Gf44KT44Gg44Gq\n"
-  : 1234
-
-  ? !binary "44GZ44G544Gm44KS5ZGz5pa5\n"
-  : 907
-
-  carter: 273
-  ? !binary "5pS/5YuZ5Y+46ZW35ZSQ6Iux5bm05YaN5qyh5ZG857Gy5YOx5Li754+N5oOc\n\
-    5ZOh5bel\n"
-  : 1125
-
-  starting: 463
-  commission: 771
-  2pm: 3045
-  doesn't: 20
-  sydney: 1736
-  recruitment: 724
-  "th\xE1\xBB\x83": 1961
-  creativity: 2726
-  driver: 2663
-  daylife: 2930
-  three: 3028
-  outsource: 2591
-  developers: 807
-  hoping: 221
-  so: 269
-  tinyurl.com/bxfjn8: 822
-  induced: 329
-  ? !binary "44GZ44G544Gm44GM5ZGz5pa5\n"
-  : 908
-
-  important: 1765
-  sq: 796
-  ? !binary "56K644GL44Gr5ZOy5a2m44Gn5L2/44GG\n"
-  : 955
-
-  mustard: 360
-  erst: 2794
-  sr: 615
-  rogers: 350
-  analysis: 2529
-  goals: 2685
-  edge: 2666
-  shall: 755
-  wife: 142
-  level: 1937
-  "hi\xC3\xAAn": 2271
-  st: 2815
-  tinyurl.com/amo677: 1015
-  "l\xE1\xBA\xA1i": 2388
-  dashboard: 1699
-  specialized: 3231
-  poor: 2127
-  ? !binary "5ZSQ6Iux5bm05ouS6KmV6Zu755uI5YaN6KOB5ZOh5raI5oGv\n"
-  : 1124
-
-  developernew: 1886
-  ? !binary "5ZCJ5bKh44GV44KT5LuW\n"
-  : 1064
-
-  specific: 2197
-  sw: 3297
-  surveying: 772
-  otoplasty: 320
-  deze: 436
-  delayed: 3056
-  reynir@hugsmidjan.is: 737
-  "l\xE1\xBA\xA1m": 2319
-  tinyurl.com/bhrgod: 1188
-  says: 2186
-  "l\xE1\xBA\xA1n": 2011
-  wednesday: 420
-  coldfusion: 1865
-  tinyurl.com/ae52ev: 85
-  crawler: 417
-  "c\xC3\xA1c": 1942
-  nashville: 1586
-  ? !binary "5Lq66LaK6IWQ6LSl\n"
-  : 1277
-
-  tinyurl.com/cg53ea: 2221
-  tinyurl.com/dazn2a: 127
-  job: 620
-  playing: 2518
-  mortgage: 244
-  shirt: 3051
-  tinyurl.com/awp5t7: 1330
-  "x\xC6\xB0a": 2050
-  really: 246
-  put: 94
-  durham: 3298
-  how: 451
-  livema: 2795
-  schemers: 2517
-  already: 67
-  when: 659
-  fleece: 3103
-  ? !binary "6YC85Yue5bel5LiK6KGX6aCt\n"
-  : 1075
-
-  ginger: 757
-  comforce: 710
-  status: 418
-  bmassey: 3065
-  salary: 2587
-  20/02/52: 1467
-  big: 288
-  sampler: 2826
-  datacenter: 3237
-  announced: 254
-  "\xC4\x91\xC3\xACnh": 2377
-  tinyurl.com/54ccs8: 1334
-  number: 2227
-  ? !binary "6LeR6Ly45aSn5biC\n"
-  : 1089
-
-  two: 2957
-  marketing: 595
-  "30273": 2094
-  seattlegirl: 2622
-  burris: 1659
-  nsw: 2101
-  training: 63
-  conducted: 2864
-  english: 2942
-  fran: 1682
-  tr.im/hnsa: 2788
-  loko: 945
-  "\x963.72": 971
-  breakingnewson: 2870
-  time: 77
-  ? !binary "4Liq4LmB4LiV4LiZ4Lif4Lit4Lij4LmM4LiU4LmB4Lil4LmJ4Lin\n"
-  : 1476
-
-  ? !binary "6L+Y5Zyo6L+Z6L65\n"
-  : 345
-
-  fellow: 2516
-  developing/desiging: 1782
-  "\xC3\x9Fstab": 2796
-  run: 2998
-  tinyurl.com/cba95t: 1695
-  lounge: 3174
-  "thi\xE1\xBB\x87t": 1976
-  lges: 1567
-  tikkers: 2945
-  wide: 3304
-  docs/shyouhei/ruby: 2095
-  depressed: 1581
-  woman: 3342
-  plenty: 1930
-  bit: 487
-  tinyurl.com/cv4nzk: 1063
-  grossing: 1677
-  "n\xC3\xA0y": 2014
-  charity: 467
-  ? !binary "4LmA4LiU4Lil4Lil4LmM4Lii4Li34LmI4LiZ4LmA4Lij4Li34LmI4Lit4LiH\n\
-    4LiC4Lit4LmD4Lir4LmJ4Lii4LiB4LmA4Lil4Li04LiB4LmA4LiE4Lij4Li3\n\
-    4LmI4Lit4LiH4Lir4Lih4Liy4Lii4LiX4Liy4LiH4LiB4Liy4Lij4LiE4LmJ\n\
-    4Liy\n"
-  : 872
-
-  very: 129
-  afford: 2440
-  did: 32
-  tinyurl.com/ad9ra7: 871
-  racists: 2364
-  cha: 2057
-  hollywood: 3133
-  tweets: 1836
-  18-million: 3270
-  nil17: 3258
-  klosayhtoo: 1491
-  menu: 2428
-  "x\xC3\xA0": 2387
-  django/python: 1796
-  gallery: 760
-  mph: 2820
-  experiance: 2169
-  description: 1530
-  dig: 1056
-  salesforce.com: 1764
-  since: 3085
-  ? !binary "5Zu95Lqk55yB\n"
-  : 924
-
-  meanings: 2635
-  pleeease: 1859
-  log: 2526
-  tinyurl.com/bhhtgz: 784
-  insomniacs: 2512
-  of: 10
-  antonkovalyov: 1301
-  phone: 726
-  going: 357
-  gown: 193
-  getting: 536
-  ? !binary "5rK95ZSu\n"
-  : 1120
-
-  tinyurl.com/d6qxz5: 1150
-  oh: 461
-  adversity: 385
-  "\xC4\x91\xE1\xBB\x91i": 1953
-  ? !binary "44K844OO44Ku44Ki44K5\n"
-  : 1319
-
-  phong: 1946
-  chi: 2273
-  ripa: 1525
-  direct: 382
-  lead: 652
-  lol: 497
-  students: 3281
-  shots: 3029
-  throwing: 2230
-  ok: 402
-  ? !binary "0LLRgw==\n"
-  : 1311
-
-  ? !binary "6LWk5aOB\n"
-  : 1285
-
-  pilkington: 3362
-  ol: 2161
-  security: 2229
-  warns: 510
-  "g\xC3\xA1i": 2395
-  words: 2720
-  track: 3171
-  experiencing: 1706
-  covington: 3127
-  "on": 58
-  rens: 2742
-  dir: 720
-  cho: 2053
-  quickbooks: 991
-  looks: 3351
-  housemate: 758
-  rent: 3013
-  fanta: 2701
-  have: 68
-  southwest: 3282
-  gagchokepuke: 2860
-  obama: 243
-  premises: 2915
-  contracts: 1830
-  ? !binary "z4DOtc62zq3Pgg==\n"
-  : 1435
-
-  lot: 74
-  ill: 3179
-  tinyurl.com/ddkyef: 607
-  ? !binary "5LiW55WM44KS5LiN5ZCJ44Gq44K944OV44OI44Km44Kn44Ki5bid5Zu944GL\n\
-    44KJ6Kej5pS+44GZ44KL44GT44Go\n"
-  : 911
-
-  tinyurl.com/c4prnh: 1268
-  local: 3245
-  or: 310
-  tinyurl.com/b99oup: 906
-  str: 443
-  metro: 2521
-  army: 406
-  kiruba.com: 2152
-  wartime: 332
-  myfabolouslife: 3176
-  ot: 1045
-  asking: 727
-  tweetluck: 2947
-  jobs: 631
-  eradication: 1750
-  mind: 3305
-  "nhi\xE1\xBB\x85m": 1979
-  tinyurl.com/cowt7k: 2204
-  affili: 1541
-  ov: 1875
-  outsourcing: 2802
-  british: 421
-  mine: 274
-  cards: 1079
-  party: 3100
-  ziglar: 2724
-  php/mysql: 1719
-  sorry: 3195
-  ma: 640
-  several: 806
-  hackernews: 3372
-  minneapolisst: 2814
-  favorite: 192
-  tinyurl.com/bo74hd: 894
-  mb: 2824
-  ? !binary "4Lia4Lij4Li04Lip4Lix4LiX\n"
-  : 1242
-
-  "5397611": 231
-  tragic: 1187
-  md: 3042
-  problem: 2745
-  part-time/contract: 1688
-  minnepy: 1922
-  more: 425
-  northern: 610
-  experience: 1685
-  took: 1565
-  me: 95
-  non: 588
-  shoulder: 2681
-  senior: 633
-  ehm: 3010
-  tool: 1725
-  bed: 2698
-  slept: 3329
-  advocacy: 2690
-  jeffbarr: 2964
-  especially: 2549
-  mh: 3012
-  tooo: 3200
-  epatientdave: 2868
-  editor: 625
-  add: 2096
-  celebrity: 2545
-  "ti\xE1\xBA\xBFt": 2274
-  fit: 1804
-  "c\xE1\xBB\xA7a": 2243
-  chinese: 508
-  tinyurl.com/b5ffff: 1500
-  not: 52
-  tinyurl.com/dx5bxf: 1876
-  ? !binary "44K744Of44OK44O85qGI5YaF\n"
-  : 1379
-
-  netbeans: 1915
-  mins: 3277
-  "\xB320.44": 1095
-  www.macupdate.com/info.php/id/30345/submarine: 1913
-  kvanh: 2646
-  ? !binary "z4PPhc69zr/Pgc65zrHOus+Ozr0=\n"
-  : 1445
-
-  what: 87
-  "k\xC3\xADch": 2316
-  now: 205
-  annum: 2418
-  developing: 604
-  hate: 132
-  lizzeann: 2689
-  mn: 1846
-  bem: 944
-  energy: 855
-  ? !binary "6Zu35Lq655qE5Y+w6K+N\n"
-  : 1287
-
-  aids: 787
-  onewho: 2849
-  sonoma: 2927
-  "meglehet\xC5\x91sen": 2290
-  fixing: 2068
-  replied: 2943
-  one: 235
-  praise: 392
-  tinyurl.com/dd2358: 1123
-  ? !binary "15DXk9eh16DXoQ==\n"
-  : 1485
-
-  tinyurl.com/ct7jlk: 285
-  mr: 349
-  bristol: 2414
-  omniti: 824
-  guys: 1637
-  aaron: 316
-  gossip: 198
-  ? !binary "5LiN5pWi6LK36JuL\n"
-  : 1160
-
-  mt: 2338
-  weberp: 1879
-  writers: 2233
-  him: 275
-  deadline: 302
-  ? !binary "6Zec6ZaJ576O5ZyL5Zyo6aas57SN5pav55qE56m66LuN5Z+65Zyw\n"
-  : 1221
-
-  "gi\xE1\xBA\xBFt": 2306
-  dmbsfgirl: 271
-  monster: 839
-  vote: 3246
-  tinyurl.com/dlzxpv: 1076
-  alcohol: 2746
-  dancers: 1563
-  ads: 2999
-  interview: 799
-  tinyurl.com/d8d2hn: 1681
-  centre: 3058
-  mastercards: 2966
-  sites: 2498
-  scala/java: 2092
-  tinyurl.com/bc7dfz: 1000
-  my: 18
-  dee: 427
-  niphal: 2165
-  alicia: 3202
-  python: 1568
-  bit.ly/hmfiw: 2987
-  americans: 504
-  "\xC4\x91\xE1\xBB\x8Dc": 2017
-  mdash: 3375
-  his: 389
-  kc: 3071
-  bca: 778
-  nasty: 2659
-  hit: 1552
-  "s\xE1\xBB\x91": 2272
-  followe: 2839
-  camcorders: 899
-  rtjobs: 812
-  www.getaplumjob.net: 1531
-  decisions: 3213
-  idea: 2565
-  hiv: 786
-  ? !binary "57eP5ZCI\n"
-  : 1393
-
-  according: 2889
-  scare: 2484
-  products: 2208
-  engineerin: 2220
-  "3000": 1838
-  tried: 837
-  twurl.nl/dcfufd: 853
-  "2\xE6\x97\xA5\xE9\x96\x93\xE3\x81\xA7\xE5\xA4\xA7\xE5\xB0\x8F\xE3\x81\x82\xE3\x82\x8F\xE3\x81\x9B\xE3\x81\xA613\xE3\x81\xAE\xE3\x82\xBB\xE3\x83\x9F\xE3\x83\x8A\xE3\x83\xBC": 1386
-  dealt: 2643
-  ? !binary "4YGC\n"
-  : 1494
-
-  arrested: 2490
-  digital: 40
-  tinyurl.com/csxmdy: 1069
-  stuck: 3284
-  ? !binary "5Zyn5YCS55qE44Gq54ax6YeP\n"
-  : 1201
-
-  consultants: 2497
-  rates: 2592
-  startup: 637
-  ? !binary "5pel5YmN\n"
-  : 1272
-
-  canceled: 3286
-  menny: 2285
-  screamingeagle1: 2716
-  ? !binary "4LmA4Lih4Li34LmI4Lit4Liq4Lit4LiH4LmA4LiU4Li34Lit4LiZ4LiB4LmI\n\
-    4Lit4LiZ4LiX4Li14LmI\n"
-  : 874
-
-  kenya: 789
-  after: 2644
-  jacquelinestone: 2706
-  ? !binary "44Kq44O844K544OI44Op44Oq44Ki5aSn54Gr54G954qg54my6ICF5pWw44Gv\n"
-  : 1001
-
-  middle: 1730
-  ? !binary "5Lit5aSu56S+\n"
-  : 1113
-
-  der: 196
-  tqp: 942
-  hard: 368
-  pervy: 3338
-  ? !binary "6LK35YWl\n"
-  : 1091
-
-  puke: 2863
-  significant: 2887
-  tinyurl.com/dkoj5r: 1320
-  ? !binary "157XldeT16LXldeq\n"
-  : 1484
-
-  "vi\xE1\xBA\xBFt": 2026
-  netbook: 873
-  ? !binary "5pif5pyf5LqU6aKE5ryU\n"
-  : 1206
-
-  feb: 1703
-  old: 239
-  times: 2853
-  ron: 2488
-  fed: 3221
-  ? !binary "5LiL6Z2i6K+35aSn5a6255yL5LiA57uE6Kem55uu5oOK5b+D55qE57uE5Zu+\n"
-  : 1352
-
-  "twitter\xE6\x9C\xAC\xE3\x82\xA2\xE3\x83\xB3\xE3\x82\xB1\xE3\x83\xBC\xE3\x83\x88\xE5\x9B\x9E\xE7\xAD\x94\xE5\x8B\x9F\xE9\x9B\x86\xE4\xB8\xADhttp://\xB3\xE3\x81\xAF\xE3\x81\xAA\xE3\x81\x84\xE3\x82\x89\xE3\x81\xAA\xE3\x81\x84\xE3\x81\x91\xE3\x82\x8C\xE3\x81\xA9\xE0\xB8\x9C\xE0\xB8\xB9\xE0\xB9\x89\xE0\xB8\x9C": 961
-  slips: 278
-  yuck: 3289
-  laerwen: 3218
-  you'd: 3217
-  ? !binary "44K544O844OR44O86Yqt5rmv44Gn5Lit5a2m55Sf44KJ77yW5Lq644GM5aOy\n\
-    5pil\n"
-  : 1244
-
-  fee: 3014
-  tinyurl.com/bwbbvs: 2063
-  guess: 224
-  guest: 2570
-  ? !binary "44Go44GL\n"
-  : 957
-
-  anymore: 53
-  officer: 1788
-  spv: 2636
-  "10\xE4\xBA\xBA\xE3\x81\x8C\xE9\x87\x8D\xE7\x97\x87": 930
-  ? !binary "5riv5YWD\n"
-  : 1096
-
-  ? !binary "6L+Z5bey57uP5piv6L+Z5LiA5ZGo5Lul5p2l55qE56ys5LqM5qyh\n"
-  : 1349
-
-  adding: 2631
-  probation: 1579
-  makes: 2166
-  undergrad: 2447
-  microsoft: 636
-  talaja: 2297
-  embody: 2209
-  ? !binary "6Iux6Kqe44Gu\n"
-  : 952
-
-  djhenry123: 2061
-  taught: 2175
-  ky: 3206
-  scary: 3188
-  ? !binary "4Lih4Li14Lic4Li54LmJ4Lib4LmI4Lin4Lii4LmA4LiB4Li34Lit4Lia\n"
-  : 1468
-
-  krupuk: 818
-  exists: 1936
-  gymnatics: 3156
-  ? !binary "5a6d\n"
-  : 1174
-
-  hbaaagosodbyzhayk: 1247
-  argh: 1583
-  male/female: 2599
-  memories: 331
-  manufacture: 229
-  ? !binary "6ICM5oOg5pmu5ZKM5oi05bCU5LiK5oql5py65Z6L56iN6LS1\n"
-  : 1179
-
-  "v\xC3\xA0o": 2280
-  under: 3105
-  "nhi\xE1\xBB\x81u": 2321
-  if: 150
-  bad: 90
-  teacher: 2478
-  featured: 3166
-  preparing: 2872
-  ig: 759
-  trying: 104
-  tech: 2195
-  mong: 2267
-  "\xC4\x91i\xE1\xBB\x87n": 2247
-  trump: 2185
-  firetown: 3134
-  khi: 1991
-  wearing: 526
-  tinyurl.com/d7ewtd: 948
-  ahogy: 2295
-  manager/project: 745
-  spent: 102
-  ? !binary "zrHPgw==\n"
-  : 1432
-
-  keith: 3291
-  ? !binary "5rKz56ul44Go44KC44Gj44Gf44GE44Gq44GE44GK5YyW44GR\n"
-  : 1258
-
-  ? !binary "5L+D6KuL5pS/5bqc55uh5b+r5p+l5piO55yf55u4\n"
-  : 1163
-
-  ? !binary "zrrOtc69z4TPgc65zrrOrA==\n"
-  : 1413
-
-  software: 70
-  too: 677
-  few: 2718
-  tinyurl.com/impsoljob: 1722
-  dreaming: 3371
-  im: 3180
-  ups: 2170
-  almost: 1826
-  licensed: 30
-  top: 1676
-  tinyurl.com/bfuukx: 3272
-  book: 3167
-  in: 26
-  windsurfing: 895
-  c&: 1840
-  without: 828
-  hunters: 1814
-  www.barcamp.org: 3263
-  pizza: 2699
-  despise: 2442
-  is: 259
-  types: 2236
-  mart: 2190
-  ? !binary "w7Q=\n"
-  : 1978
-
-  socially: 3368
-  yourself: 563
-  oficina: 183
-  it: 91
-  area: 1721
-  dann: 2792
-  tuition: 1667
-  tomorrow.question-can: 161
-  "\xE4\xB8\x89\xE6\xAC\xBE\xE5\x9E\x8B\xE5\x8F\xB7\xE5\x94\xAE\xE4\xBB\xB7\xE4\xB8\xB4\xE8\xBF\x913500\xE5\x85\x83": 1182
-  good: 340
-  iv: 434
-  thrasherscoyotes: 1496
-  "h\xC3\xB4m": 2309
-  forward: 2505
-  "\xE6\x9C\x80\xE4\xBD\x8E\xE4\xBB\xB7\xE6\x8E\xA5\xE8\xBF\x913000\xE5\x85\x83": 1180
-  tinyurl.com/c9qq3x: 1208
-  panama: 1817
-  collection: 459
-  poet: 2905
-  acumen: 584
-  "r\xE1\xBA\xA5t": 2402
-  wondering: 3292
-  ? !binary "5Lit5p2x5ZCR44GR6LKo54mp44GL44KJ\n"
-  : 1404
-
-  twurl.nl/m62qnl: 1687
-  ga: 712
-  pictures: 3352
-  second: 765
-  intro: 1572
-  hahaha: 2994
-  "163": 859
-  drive: 3041
-  her: 2366
-  ? !binary "5a2Z5Y+U6LSi\n"
-  : 1297
-
-  midtosr: 613
-  tinyurl.com/b9q5z7: 1003
-  here: 553
-  apple: 1627
-  ? !binary "w70=\n"
-  : 2322
-
-  www.realwebjobs.com/view/371.php: 1509
-  "ki\xE1\xBA\xBFn": 2323
-  "google\xE7\xA7\xB0": 962
-  typeamom: 2425
-  library: 557
-  customer: 2676
-  unbelievably: 1758
-  tamronhall: 692
-  approved: 1825
-  emails: 518
-  tinyurl.com/cklmdk: 1503
-  california: 579
-  atlanta: 713
-  python/php: 1938
-  ready: 296
-  hey: 446
-  reporters: 2548
-  "\xC4\x91\xC6\xB0\xE1\xBB\xA3c": 2251
-  ? !binary "5pyJ5biC5rCR6KGo56S6\n"
-  : 1159
-
-  secure: 1571
-  waiting: 306
-  fweez: 3224
-  again: 305
-  daily: 307
-  ide: 2540
-  team: 660
-  same: 1707
-  seems: 2834
-  "th\xC4\x83m": 2048
-  tinyurl.com/4lqgqc: 2552
-  tinyurl.com/bbgn4b: 1071
-  months: 2216
-  "ti\xE1\xBA\xBFng": 2055
-  katie: 2749
-  falls: 1701
-  hand: 1049
-  process: 732
-  intuit: 990
-  tinyurl.com/aexvsp: 1227
-  faces: 3339
-  vojha: 148
-  jobsurl.com/29bf: 1842
-  go: 533
-  "th\xE1\xBB\xB1c": 2270
-  excellent: 1900
-  newton/stillwater: 2775
-  touched: 280
-  least: 483
-  orlando.15: 2919
-  slr: 41
-  gr: 1269
-  notes: 2084
-  role: 1735
-  politics: 699
-  dreaming&nbsp: 3374
-  day: 464
-  tinyurl.com/cswaaop: 1315
-  gt: 597
-  been: 412
-  pim: 1783
-  finally: 286
-  ? !binary "zrrOu865zrzOrM66zrnOvw==\n"
-  : 1421
-
-  apply: 672
-  meds: 1610
-  associates: 2120
-  preopening: 2579
-  lgriffen: 2898
-  ? !binary "0LTQsNC90L3Ri9C1\n"
-  : 1308
-
-  beer: 3334
-  background: 706
-  roll: 2672
-  itms: 1555
-  billion: 3267
-  gekarameliseerde: 949
-  "ch\xC3\xADnh": 2252
-  "th\xE1\xBA\xAFng": 2264
-  solution: 3233
-  ed: 2664
-  itsallsuccess: 2804
-  tinyurl.com/dawndh: 987
-  ? !binary "6L+Z5aSn5qaC5Y+v5Lul6Kej6YeK6KW/5pS/5Zyo57q/5Li65LuA5LmI6ICB\n\
-    5piv\n"
-  : 1353
-
-  convert: 2065
-  ? !binary "5p6X5r+B5rC0\n"
-  : 1253
-
-  grobertson: 2859
-  responsibility: 248
-  citrix: 1645
-  resistance: 2707
-  nadiatanya: 2070
-  ? !binary "44OP44O844OJ\n"
-  : 1377
-
-  wakestock: 1018
-  potential: 1573
-  far: 838
-  praising: 2773
-  eg: 2126
-  oregon: 1638
-  awesome: 1759
-  simple: 599
-  ? !binary "5qiC5aSa5pel6KqM\n"
-  : 1254
-
-  "\xB6\xE5\xA0\xB11065.95": 973
-  ? !binary "zrHPg8+GzqzOu861zrnOsc+C\n"
-  : 1428
-
-  dilemmas: 577
-  kitten: 1331
-  invested: 2929
-  requests: 1929
-  seeks: 1078
-  lucasfilm: 655
-  seemed: 337
-  ? !binary "44GL44Gk44Gm44Gu5a2Q5b2544Gn54++5Zyo5aWz5a2Q5aSn55Sf\n"
-  : 935
-
-  administrator: 3240
-  systematic: 13
-  confident: 2423
-  right: 146
-  pumped: 537
-  had: 118
-  em: 2277
-  arrest: 167
-  "m\xE1\xBB\x9Bi": 2301
-  headache: 1751
-  en: 181
-  person: 292
-  savvy: 1517
-  half: 3295
-  faz: 2349
-  katepurdy: 1513
-  prime: 3015
-  hire: 612
-  consumer: 2508
-  let: 1766
-  www.seek.c: 1902
-  salespeople: 676
-  ? !binary "z4TPic69\n"
-  : 1454
-
-  cammack: 1587
-  tinyurl.com/byhhl9: 1337
-  ? !binary "6Iqx5peX6ZmN5Lit5rW35YyW5a246KmV57Sa6Iez5rK95ZSu\n"
-  : 1116
-
-  hai: 2003
-  charlie: 3319
-  nec: 997
-  luck: 803
-  "off": 60
-  benched: 3285
-  ? !binary "5oiQ6YO95ZyL6Zqb5qmf5aC05pio5pma5pu+55m855Sf5Yqr5oyB5Lq66LOq\n\
-    5LqL5Lu2\n"
-  : 1147
-
-  bit.ly/hvwry: 2079
-  "h\xE1\xBA\xA3y": 2269
-  agency: 695
-  eu: 2341
-  including: 2499
-  ? !binary "0LrQvtC80LzQtdC90YLQsNGA0LjQtdCy\n"
-  : 1312
-
-  strong: 1776
-  "60": 3016
-  halo: 3216
-  they're: 2563
-  many: 2514
-  "bi\xE1\xBA\xBFt": 2035
-  ca: 844
-  decided: 2081
-  b2b: 1683
-  "349": 1835
-  built: 1897
-  program: 495
-  soul: 390
-  b2c: 1684
-  decide: 3222
-  tinyurl.com/b2n9fg: 1388
-  ? !binary "6Ieq55Sx6Zu75a2Q5aCx\n"
-  : 1073
-
-  has: 54
-  ? !binary "0L/QvtGH0LXQvNGD\n"
-  : 1302
-
-  portrait: 3128
-  cc: 29
-  "gold\xE3\x82\x92\xE6\x8D\x9C\xE3\x81\x97\xE5\x87\xBA\xE3\x81\x97\xE3\x81\xBE\xE3\x81\x97\xE3\x81\x9F": 889
-  hat: 528
-  "and\xE3\x81\xAF": 890
-  "h\xE1\xBA\xA1i": 1977
-  source: 3131
-  football: 61
-  soup: 684
-  hellas: 1417
-  ? !binary "z4TPgc6sz4DOtc62zrXPgg==\n"
-  : 1458
-
-  attorney: 1547
-  vital: 675
-  complicated: 1863
-  shower: 3182
-  ch: 651
-  "\xE5\x85\xB6\xE4\xB8\xAD2\xE4\xBA\xBA\xE9\x87\x8D\xE5\x82\xB7": 1142
-  lefty: 2950
-  sous: 2584
-  parking: 3337
-  til: 482
-  hay: 1963
-  laughing: 3366
-  ? !binary "4LiZ4Liy4Lii4LiB\n"
-  : 1501
-
-  net: 645
-  said: 2494
-  haven't: 210
-  casting: 2598
-  ride: 2781
-  impossible: 627
-  applications: 1784
-  tinyurl.com/br9omf: 1597
-  and/or: 3122
-  new: 38
-  stockaapl: 2786
-  co: 2612
-  tinyurl.com/b3ty9n: 903
-  keen: 1798
-  viewing: 2528
-  state: 169
-  via: 2509
-  keep: 2410
-  easier: 1881
-  allowed: 2763
-  mba: 2446
-  tinyurl.com/bwcrfb: 256
-  bean: 682
-  tinyurl.com/ajqhme: 995
-  "40": 1643
-  greetings: 2062
-  "100": 2764
-  ? !binary "4Lij4Lix4Lia4Liq4Lih4Lix4LiE4Lij4LiV4Lix4Lin4LmB4LiX4LiZ4LiI\n\
-    4Liz4Lir4LiZ4LmI4Liy4Lii\n"
-  : 1237
-
-  "41": 1266
-  preferably: 2445
-  proof: 2461
-  alohaarleen: 2832
-  ? !binary "55yL5Yiw\n"
-  : 1276
-
-  japanese: 2477
-  even: 179
-  johnroquemore: 2922
-  further: 279
-  until: 1837
-  different: 1709
-  ? !binary "5LiN5pe25byV57uP5o2u5YW4\n"
-  : 1274
-
-  contest: 3244
-  respect: 2
-  "m\xE1\xBB\x99t": 2040
-  per: 2417
-  "104": 2137
-  beat: 2904
-  clientside: 1931
-  subscription: 3089
-  jay: 428
-  ever: 314
-  "45": 860
-  pet: 3243
-  ? !binary "0L3QtQ==\n"
-  : 1306
-
-  ? !binary "5Yiw5bqV6LCB5Zyo5oqY6IW+\n"
-  : 1347
-
-  steve: 668
-  ? !binary "5ZGo5pif6amw5Lyg5ouS5Ye65bit\n"
-  : 1423
-
-  scie: 2139
-  tinyurl.com/az23xb: 1037
-  these: 2363
-  descriptions: 674
-  tinyurl.com/djmxmx: 1024
-  execs: 2875
-  25k: 1871
-  baseless: 503
-  rockstar: 1757
-  exec: 2583
-  states: 2613
-  pretty: 1640
-  ah: 576
-  campaigns: 3152
-  "b\xC3\xA1n": 2372
-  saturday: 3044
-  cavalry: 1038
-  series: 883
-  username: 2843
-  "b\xC3\xA1o": 1987
-  collapse: 2878
-  fame: 115
-  native: 832
-  electronic: 688
-  ? !binary "z4TOt8+C\n"
-  : 1415
-
-  consulting: 2628
-  calling: 2971
-  lap: 493
-  "b\xC3\xA1r": 2284
-  muuuuyyyy: 189
-  useful: 130
-  am: 523
-  fish: 769
-  ? !binary "44Gg44GL44KJ5ruF44Gz44Gf44Gu44GL\n"
-  : 1235
-
-  tinyurl.com/aad2y8: 1400
-  help: 377
-  an: 55
-  stinking: 3183
-  today: 252
-  las: 2534
-  ? !binary "zrXOvc6vz4PPh8+Fz4POtw==\n"
-  : 1427
-
-  stare: 2669
-  tinyurl.com/axbyek: 1058
-  "\xC4\x91\xE1\xBA\xABm": 2010
-  "s\xE1\xBB\xAFa": 2393
-  belgium: 2532
-  oooh: 753
-  rep: 1524
-  bldg: 3018
-  as: 564
-  law: 1544
-  ? !binary "5L2g5Zyo\n"
-  : 1299
-
-  at: 96
-  lazy: 2697
-  designs: 2206
-  wildlife: 770
-  "20": 300
-  tea: 3251
-  you're: 1739
-  "t\xC4\x83ng": 2245
-  "21": 2734
-  kellan: 3330
-  rutabaga: 359
-  xin: 250
-  ? !binary "5pS557yW55qE5Y6G5Y+y\n"
-  : 1289
-
-  nashv: 1596
-  ? !binary "5L+h44GY44KL\n"
-  : 956
-
-  "1.2": 1911
-  amazon: 2965
-  45k: 1849
-  internship: 746
-  window: 3308
-  tinyurl.com/cn4vca: 2012
-  az: 2114
-  references: 829
-  truck: 3345
-  everyone: 366
-  "24": 882
-  ? !binary "6Iqx5qC35omL57uY5Y2h6YCa576O55S35a2Q5omL5py65Zu+54mH\n"
-  : 1153
-
-  "25": 2838
-  sussex: 1634
-  who: 117
-  recovered: 3115
-  unemployed: 2176
-  passed: 1578
-  latte: 3316
-  "27": 3207
-  mode: 3186
-  ? !binary "6b6Z54+g\n"
-  : 1424
-
-  pressure: 2821
-  ? !binary "54Of54Gw57y4\n"
-  : 343
-
-  editors: 2426
-  boyfriend: 2661
-  hint: 1832
-  news: 213
-  start: 748
-  drink: 2899
-  recession: 214
-  however: 834
-  ? !binary "0L/Qvg==\n"
-  : 1309
-
-  politicians: 413
-  ? !binary "5LiN5oqY6IW+\n"
-  : 1344
-
-  fellinis: 2182
-  student: 2164
-  zig: 2723
-  tinyurl.com/as2y7s: 1031
-  geotagging: 2076
-  worker: 2866
-  "to\xC3\xA0n": 2015
-  ? !binary "5aW96I6x5Z2e55qE5aSn5Zy66Z2i\n"
-  : 1288
-
-  garbage: 458
-  ? !binary "44Km44Kn44OW44Gu5piO5pel44KS6KaL44Gb44Gm44GP44KM44KL44Gu44Gv\n\
-    6Kqw44Gg\n"
-  : 1380
-
-  thinking: 3130
-  tinyurl.com/bkggdw: 1463
-  why: 173
-  budurl.com/sdevent: 2975
-  "29.93": 2822
-  nay: 2390
-  yarmong: 2141
-  "th\xE1\xBB\xA9c": 2253
-  ? !binary "5a626YeM5Y+I5aSa5LqG5LiA5Y+j5ZCD6aWt55qE\n"
-  : 1165
-
-  scrapbook: 2568
-  "c\xE1\xBB\x99i": 2052
-  ? !binary "5YCU5by655qE6JCd5Y2c\n"
-  : 1389
-
-  ? !binary "4LiB4Lil4Li54LiV4LmJ4Liy4LmE4LiY4LmC4Lit4LiZ\n"
-  : 1209
-
-  "t\xE1\xBA\xA1": 2313
-  former: 2432
-  tinyurl.com/cpargo: 3283
-  believe: 953
-  impact: 2721
-  done: 671
-  cats: 3313
-  deciding: 3253
-  "\xE5\x8A\xA0\xE6\x8B\xBF\xE5\xA4\xA7\xE4\xBB\x8A\xE5\xA4\xA9\xE5\x85\xAC\xE5\xB8\x832010\xE5\xB9\xB4\xE5\x86\xAC\xE5\xAD\xA3\xE5\xA5\xA7\xE9\x81\x8B\xE5\xAE\x89\xE5\x85\xA8\xE9\xA0\x90\xE7\xAE\x97\xE9\xA1\xAF\xE7\xA4\xBA": 1195
-  ? !binary "55yf55qE5oy65LqM55qE\n"
-  : 1293
-
-  hope: 2668
-  junior: 797
-  hill: 2219
-  benefits: 2419
-  smash: 3346
-  verdict: 3276
-  layton: 2986
-  kick: 291
-  ? !binary "5a6d6Ii544Gv\n"
-  : 888
-
-  queen: 410
-  werbemitteln: 1023
-  ? !binary "5Y+w54Gj6ZaL5ouT56mG5pav5p6X5peF6YGK5biC5aC0\n"
-  : 1228
-
-  "\xB0\xE7\x81\xA3\xE5\x8A\xA0\xE6\xAC\x8A\xE8\x82\xA1\xE5\x83\xB9\xE6\x8C\x87\xE6\x95\xB8\xE4\xBB\x8A\xE6\x97\xA5\xE6\x94\xB6\xE7\x9B\xA4\xE4\xB8\x8B\xE8\xB7\x8C91.93": 1004
-  dads: 2753
-  serial: 1057
-  thursday: 549
-  cara: 2346
-  amazing: 2750
-  spiralling: 2988
-  soon: 478
-  defi: 3271
-  i-1: 2336
-  bit.ly/spv4: 2637
-  sooo: 3119
-  developper: 794
-  card: 993
-  zeinobia: 3090
-  ? !binary "44Kz44Og44K544Kz44Ki6Kq/5p+7\n"
-  : 1465
-
-  care: 1605
-  rad: 2960
-  called: 2991
-  bother: 1933
-  motley: 1648
-  can't: 147
-  snack: 1028
-  opportunities: 1644
-  tweeting: 2675
-  occl: 1543
-  12/02/2008: 2133
-  dont: 3178
-  pay: 1665
-  bekende: 441
-  mobiletrends: 3035
-  ? !binary "6Iux55qH5L2O6LCD5Yqe5pil6IyX5pif5YWJ5pqX5reh6Zi/5aiH6LCi6ZyG\n\
-    6ZSL5pyq5Ye65bit\n"
-  : 1336
-
-  hopefully: 297
-  shoulders: 2680
-  2/15: 1328
-  cambridge: 639
-  handle: 1927
-  "1014.4": 2823
-  lottery: 2225
-  review: 2674
-  stimulus: 511
-  reveal: 539
-  citizens: 166
-  only: 234
-  southampton: 857
-  "ch\xC3\xA1u": 1990
-  0494: 1086
-  stand: 1854
-  soma: 2200
-  ? !binary "5YGP6KaL44KE5beu5Yil5oSP6K2Y44Gv44GE44Gk44GL5raI44GI44KL44Go\n\
-    5oCd44GE44Gf44GE\n"
-  : 1362
-
-  "vi\xE1\xBB\x87c": 2244
-  traffic: 2511
-  haveing: 1791
-  cplusplus: 2782
-  some: 106
-  model: 2502
-  awaited: 3059
-  accepted: 3369
-  "2009\xE6\x96\xB0\xE6\x98\xA5\xE5\xBF\xAB\xE4\xB9\x90": 1338
-  lunch: 2967
-  drop: 1737
-  seed: 3099
-  commonly: 2471
-  fair: 2812
-  joomla: 2058
-  "t\xE1\xBA\xBF": 2329
-  david: 3047
-  late: 870
-  replying: 3355
-  prosperity: 3307
-  ? !binary "z4PPhM6xzrjOvM+Ozr0=\n"
-  : 1446
-
-  "\xC4\x91\xE1\xBA\xA7u": 2386
-  boxers: 3321
-  totally: 3162
-  ? !binary "44Op566h6YCj44Oc44OJ44Ky6YOo44Gu5qih5qeY\n"
-  : 1329
-
-  30k: 1890
-  point: 2693
-  drupal: 2531
-  made: 1619
-  www.realwebjobs.com/view/367.php: 1512
-  ? !binary "5LiN6YCB5LqG\n"
-  : 1341
-
-  pangea: 2787
-  rubbish: 673
-  solutions.we: 2713
-  seem: 21
-  online: 2173
-  expert: 603
-  seen: 2995
-  malarkey: 17
-  ? !binary "5ZCN5Y+k5bGL5riv44Gn5oq85Y+O\n"
-  : 1403
-
-  asp.net: 1806
-  jobs.rubynow.com/jobs/show/2875: 1848
-  "2007": 1055
-  "tr\xC6\xB0\xE1\xBB\x9Bc": 1956
-  "2008": 1339
-  "\xE7\xA5\x9E\xE8\x88\x9F\xE7\x94\xB5\xE8\x84\x91\xE6\x8A\xA51998\xE5\x85\x83\xE6\x9C\x80\xE4\xBD\x8E\xE4\xBB\xB7": 1177
-  jobs.rubynow.com/jobs/show/2877: 1626
-  "2009": 80
-  vcu: 3279
-  before: 298
-  ? !binary "55+l5oG16KKL\n"
-  : 1190
-
-  boards: 2470
-  sees: 3265
-  "th\xE1\xBB\xA7y": 1947
-  develop: 2098
-  ? !binary "44K344Kv44Ot44OR44OT44Oq44Kq44Oz44Gu5q2j56K644Gq5L2P5omA44GM\n\
-    5YiG44GL44Gj44Gf44Gu44Gn\n"
-  : 1472
-
-  grind: 308
-  browsing: 125
-  price: 2576
-  consider: 2747
-  secrets: 2730
-  about: 7
-  ? !binary "55S16ISR5LiL5Lmh5byA5qCH57qq5b2V\n"
-  : 1176
-
-  ? !binary "zrPPgc6xz4bOtc6vzrE=\n"
-  : 1414
-
-  tinyurl.com/btlho6: 1891
-  mikeprasad: 543
-  logo/website: 3164
-  mobile/sms: 2214
-  seattle: 1720
-  sfdc: 2678
-  tinyurl.com/bdwp7k: 919
-  account: 744
-  steps: 2885
-  "t\xC3\xACnh": 2302
-  drmn: 3017
-  mikaflyymommy: 2911
-  ? !binary "44OP44OD44K544Or\n"
-  : 1202
-
-  product: 854
-  adopt: 2847
-  sign: 3108
-  norfolk: 1870
-  tinyurl.com/bykh4n: 1704
-  caps: 2703
-  spring: 3353
-  tay: 2399
-  wedding: 3069
-  outside: 1522
-  "\xE5\x89\x8A\xE7\x9B\xAE\xE6\xA8\x99\xE5\x83\xB947": 1121
-  "\xE8\x8F\xB2\xE5\x9C\x8B\xE9\xA3\x9B\xE6\x97\xA5\xE5\xAE\xA2\xE6\xA9\x9F\xE9\x81\x87\xE6\xB0\xA3\xE6\xB5\x8130\xE5\x82\xB7": 1139
-  cairo: 3093
-  "d\xE1\xBA\xA7u": 1969
-  vai: 2009
-  collabs: 2962
-  ? !binary "15LXldeS15w=\n"
-  : 1479
-
-  update: 57
-  "\xA0\xE6\xAC\x8A\xE8\x82\xA1\xE5\x83\xB9\xE6\x8C\x87\xE6\x95\xB8\xE5\xA0\xB14436.94": 1110
-  cisco: 3236
-  name: 19
-  ? !binary "44OR44Oz44K544OI44KS6KKr44KK44Gq44GM44KJ44OT44O844Or44KS6aOy\n\
-    44KA5pa55rOV\n"
-  : 1189
-
-  tinyurl.com/cxeooz: 2314
-  screen/my: 492
-  tagging: 2078
-  goal: 678
-  allstars: 2751
-  tinyurl.com/al645u: 1042
-  van: 195
-  tinyurl.com/bvmar7: 920
-  tinyurl.com/cwvtgk: 1324
-  layoff: 2880
-  gaojiamin: 947
-  upcoming: 1628
-  multi: 3060
-  projector: 2920
-  ? !binary "zrHPgM6/zrrOu861zrnPg868z4zPgg==\n"
-  : 1443
-
-  coaching: 3095
-  beatles: 670
-  ? !binary "5YSE5YWD\n"
-  : 1112
-
-  bageltechnews: 373
-  cancer: 3057
-  secrettweet: 380
-  heroes: 138
-  ? !binary "44Oe44OL44Op55m65oiQ55Sw6KGM44GN44OO44O844K544Km44Ko44K544OI\n"
-  : 925
-
-  juliebanderas: 155
-  debs: 2946
-  "m\xE1\xBA\xB7c": 2397
-  back: 109
-  ? !binary "57SZ6Z2i44Gn44Gv\n"
-  : 1065
-
-  directors: 703
-  sieh: 2790
-  ? !binary "5a2Z5bCa6aaZ5pS+6bi95a2Q5Zue5Lic5ZC05oql5L+h\n"
-  : 1295
-
-  employment: 1646
-  "c\xC3\xB2n": 2039
-  close: 3190
-  ontario: 1505
-  letters: 2408
-  chris_reed: 752
-  wordpress: 2609
-  dishes: 2232
-  ? !binary "5YOF5Y+w5aGR6Ziy56am5oCn6LyD6auY\n"
-  : 985
-
-  tinyurl.com/bqc8zy: 989
-  jonas: 1742
-  ? !binary "5ouS57WV772D772F772D772B5YWs5oqV\n"
-  : 1226
-
-  www.sophiasgalaxy.net: 3067
-  liverpool: 1887
-  companies: 1713
-  vietnamese: 2315
-  dannymacrant: 3209
-  i've: 2167
-  ? !binary "5LiN5Yqo5pGH\n"
-  : 1342
-
-  "v\xE1\xBB\x81": 2045
-  valley: 1536
-  para: 1102
-  bunch: 2180
-  reward: 247
-  "hi\xE1\xBB\x83m": 2304
-  west: 2413
-  oscar: 470
-  interviews: 3173
-  fool: 1649
-  "ph\xC3\xADa": 1955
-  ? !binary "5LiN5oeI5oCg\n"
-  : 1343
-
-  live: 159
-  blog.com: 3068
-  birthday: 2486
-  "\xE6\xB1\x82\xE8\x81\xB7\xE3\x82\xB5\xE3\x82\xA4\xE3\x83\x88\xE3\x81\xAE\xE3\x83\xA6\xE3\x83\x8B\xE3\x83\xBC\xE3\x82\xAF\xE3\x83\x93\xE3\x82\xB8\xE3\x82\xBF\xE3\x83\xBC\xE6\x95\xB0\xE3\x81\x8C1\xE6\x9C\x88\xE3\x81\xAB\xE6\x80\xA5\xE5\xA2\x97": 1464
-  ? !binary "5LiK572R5Lmg5oOv55qE5LiA5Liq5bCP6LCD5p+l\n"
-  : 1358
-
-  destination: 3117
-  dolphins: 2429
-  workshop: 2974
-  minute: 1844
-  handyman: 827
-  ease: 97
-  agua: 1101
-  serwei: 140
-  ? !binary "4LiC4Liy4Lin4LmD4Liq4LiU4Lix4LiH4LmD4LiI4LmA4Lir4Lih4Li34Lit\n\
-    4LiZ4LiU4Liy4Lij4Liy\n"
-  : 1216
-
-  apache: 1867
-  facebook: 2143
-  howard: 2489
-  speedy: 122
-  "t\xE1\xBA\xADp": 1967
-  ? !binary "4LmB4Lil4Liw4Lit4Li44Lib4LiB4Lij4LiT4LmM4LiV4LmI4Lit4Lie4LmI\n\
-    4Lin4LiH4LiX4Li44LiB4LiK4LiZ4Li04LiU\n"
-  : 1239
-
-  "2600": 3022
-  begin: 309
-  face: 1553
-  positive: 2577
-  ? !binary "z4TPgc6/zrzOv866z4HOsc+Ez47OvQ==\n"
-  : 1455
-
-  "ngu\xE1\xBB\x93n": 2051
-  watching: 2542
-  maddison: 2102
-  dallas: 775
-  call: 2594
-  intraday: 281
-  super: 1799
-  action: 785
-  guilty: 3358
-  "n\xC6\xB0\xE1\xBB\x9Bc": 1998
-  html: 2553
-  fighter: 433
-  article: 3150
-  tinyurl.com/bakh8a: 1082
-  moneta: 538
-  hired: 694
-  their: 119
-  www.marty-collins.com: 2623
-  240x320: 1154
-  venture: 590
-  tutorial: 2537
-  possibilities: 2714
-  east: 1633
-  prospects: 750
-  feed: 3055
-  beach: 2202
-  rails/web: 1845
-  ruby: 1622
-  storage: 856
-  needs: 3230
-  rachel: 686
-  papa: 2665
-  house: 619
-  phase: 460
-  eye: 2671
-  "\xC4\x91\xE1\xBA\xA1t": 2266
-  store: 1630
-  wish: 802
-  tinyurl.com/ca2twn: 1333
-  activity: 3370
-  "n\xE1\xBA\xA1n": 2370
-  could: 2439
-  smartstreet: 1516
-  "s\xC3\xA1t": 1944
-  magpie: 2996
-  available: 1514
-  laptop: 3185
-  twitpic.com/1lx87: 2406
-  purchase: 2981
-  market: 705
-  google: 1919
-  feel: 233
-  shivering: 3107
-  spinweb: 2466
-  hires: 1588
-  career: 1614
-  "cora\xC3\xA7\xC3\xA3o": 2355
-  "http://lKFod\xD7\x7F": 219
-  thrashers: 1497
-  tinyurl.com/b5rpnf: 2858
-  arrogance: 1855
-  abuse: 16
-  "c\xC3\xB4ng": 2254
-  "\xC4\x91i": 2016
-  tinyurl.com/ambd9r: 1965
-  "v\xE1\xBB\xA5": 2305
-  tinyurl.com/anwmab: 1372
-  "\xE4\xB9\xB1\xE6\xB0\x97\xE6\xB5\x81\xE3\x81\xA7\xE9\x87\x8D\xE7\x97\x8710\xE4\xBA\xBA": 922
-  francisco: 866
-  tickets: 2704
-  retweet: 814
-  "\xC3\xA9rzem": 2294
-  listed: 2677
-  www.edwpub.com/contest: 3248
-  ? !binary "44Oa44Oz5YWl44KM44G544Gf5YWl44KM57e057+S\n"
-  : 1355
-
-  "c\xC3\xB3": 1959
-  winds: 2818
-  "ng\xC6\xB0\xE1\xBB\x9Di": 2019
-  mobile: 580
-  beltzner: 3326
-  polio: 1745
-  contact: 811
-  developed: 1744
-  letter: 378
-  f&b: 2586
-  services: 721
-  ? !binary "5aSn6LOA5a6555aR6ICF\n"
-  : 1398
-
-  york: 850
-  taking: 2662
-  ? !binary "44Gu44Kv44Op44Kk44Oe44OD44Kv44K544K344O844Oz\n"
-  : 1367
-
-  designers: 1800
-  fukui: 1383
-  staff: 1661
-  humble: 358
-  tinyurl.com/byyxxv: 1778
-  "d\xE1\xBA\xA1o": 2013
-  attempt: 1882
-  resigning: 1657
-  story: 3144
-  candidate: 2618
-  analysts: 719
-  holly: 3118
-  related: 2064
-  levels/details: 1686
-  "r\xE1\xBA\xB1ng": 2324
-  ? !binary "6LWk44Gv44KE44Gj44Gx44KK44Kw44Os44O844Gr44GX44KI44GG\n"
-  : 1356
-
-  okay: 2807
-  weary: 2854
-  ? !binary "5ZaC\n"
-  : 1298
-
-  animations: 1332
-  perm: 1734
-  nature: 1052
-  temecula: 843
-  ? !binary "16jXpw==\n"
-  : 1487
-
-  still: 99
-  ? !binary "5a6e5Zyo5piv5aSq6ZW/5LqG\n"
-  : 1271
-
-  "20728": 381
-  pound: 3062
-  circulated: 520
-  cli.gs/q3ttgv: 2469
-  cell: 2743
-  ? !binary "6Z2S56m644Gu44Or44O844Os44OD44OI\n"
-  : 1366
-
-  ? !binary "5piv5ZWK\n"
-  : 344
-
-  developer: 581
-  money: 200
-  followed: 2670
-  tinyurl.com/avwefm: 2558
-  vaccine: 1746
-  i'd: 203
-  tinyurl.com/d6nnoj: 1466
-  "n\xC4\x83m": 2281
-  00place: 2136
-  love: 134
-  movie: 2491
-  night: 416
-  intern: 2468
-  "\xE9\x80\x99\xE5\xA0\xB4\xE9\xAB\x94\xE5\xA3\x87\xE7\x9B\x9B\xE4\xBA\x8B\xE7\x9A\x84\xE5\xAE\x89\xE5\x85\xA8\xE6\x8E\xAA\xE6\x96\xBD\xE8\xB2\xBB\xE7\x94\xA8\xE5\xB7\xB2\xE6\x9A\xB4\xE5\xA2\x9E5\xE5\x80\x8D": 1196
-  lakes: 767
-  circle: 3234
-  intective: 605
-  ? !binary "55S35a2Q5oiQ6YO95qmf5aC05Yqr5oyB5Lq66LOq6KKr5o2V\n"
-  : 1145
-
-  ? !binary "6KW/5pS/5Zyo57q/5Y+I6KKr5Li05pe25YWz6Zet5LqG\n"
-  : 1348
-
-  parked: 3335
-  tinyurl.com/cswaaopl: 1224
-  better: 2365
-  entire: 168
-  required: 1534
-  global: 586
-  "h\xC6\xA1n": 2368
-  ? !binary "44Gq44KT44GL6Ium44GX44GE\n"
-  : 262
-
-  choke: 2862
-  i'm: 5
-  maand: 437
-  "\xE4\xBE\x86\xE5\x88\xB09\xE5\x84\x84\xE5\x8A\xA0\xE5\xB9\xA3": 1197
-  tinyurl.com/cnrp9c: 1282
-  minded: 3274
-  tinyurl.com/d7r9aq: 2520
-  "g\xC3\xAC": 2036
-  ask: 315
-  degrees: 2813
-  letting: 2896
-  calms: 92
-  tinyurl.com/94kzto: 1007
-  upandcoming: 2462
-  "di\xE1\xBB\x87n": 1954
-  classic: 1807
-  "th\xC3\xAC": 2268
-  ? !binary "z4PPhM+Mz4fOv865\n"
-  : 1453
-
-  frontend: 1732
-  tinyurl.com/depkoc: 1321
-  ? !binary "6Kej5rG657aT5r+f5Y2x5qmf\n"
-  : 980
-
-  straighttalklmb: 3199
-  tinyurl.com/corryh: 1114
-  wordspit1: 2732
-  asp: 1808
-  "tr\xE1\xBB\x99m": 2018
-  resource: 3163
-  able: 2692
-  idiot: 172
-  tinyurl.com/cu3w7o: 1014
-  corn: 683
-  tinyurl.com/b4ako7: 1026
-  check: 879
-  duff: 3302
-  cuz: 2736
-  salespeopl: 679
-  ? !binary "5LqM5ZGi\n"
-  : 1292
-
-  sustainaiblty: 2456
-  ? !binary "6KmV57Sa\n"
-  : 1087
-
-  length: 2989
-  haciendo: 188
-  transformation: 1694
-  cafe: 2902
-  tremendous: 2573
-  just: 163
-  myself: 2485
-  artists: 2602
-  ? !binary "5p2l5oiR5a625LmL5YmN5bCx5pyJ5LqG5ZCN5a2X\n"
-  : 1172
-
-  trends: 3036
-  ? !binary "56mN5qW16ZaL5ouT56mG5pav5p6X5peF6YGK5biC5aC0\n"
-  : 1230
-
-  plus: 1810
-  ? !binary "44GI44GN44Gt44Gj44Go44Oq44OL44Ol44O844Ki44Or44Gn44K344O844OI\n\
-    44Oe44OD44OX44Gv44GG44KM44GX44GE44GR44Gp5omL5pWw5paZ44GM55eb\n\
-    44GE44Gq44GB\n"
-  : 988
-
-  guarantee: 1641
-  marismith: 2970
-  "gi\xE1\xBA\xA3i": 1940
-  exposure: 2574
-  tinyurl.com/b9amxo: 1035
-  contribution: 3123
-  firefox: 126
-  airport: 2817
-  relocation: 2616
-  composite: 230
-  ? !binary "z4DOtc+BzrnPg8+Dz4zPhM61z4HOtc+C\n"
-  : 1434
-
-  tinyurl.com/cc2zfh: 1357
-  administration: 1674
-  "m\xC3\xACnh": 2396
-  treadmill: 1755
-  ? !binary "5L2g5Zyo5ZOq\n"
-  : 346
-
-  ? !binary "4LmB4LiW4Lih4Lin4Li04LiV4LiL4Li1\n"
-  : 1214
-
-  contract: 1521
-  "b\xE1\xBB\x9Fi": 2263
-  development: 593
-  absolute: 191
-  bit.ly/rhfes: 3080
-  senate: 1660
-  georgie: 2959
-  overnight: 473
-  longterm: 2234
-  www.watchyourincome.com/executivesearch/webinar: 2187
-  kansas: 3325
-  mummy: 3007
-  beginning: 689
-  css: 1381
-  skills: 2551
-  skinny: 2600
-  ? !binary "5aeR5aeR5a6255qE54uX5LiA6IOO55Sf5LqG5Zub5Liq5bCP5bS95a2Q\n"
-  : 1166
-
-  fico: 3076
-  tinyurl.com/c2nevq: 909
-  spanish: 1558
-  battery: 3332
-  extremely: 3187
-  lots: 2752
-  tinyurl.com/cmskk6: 1439
-  enemy: 1715
-  "t\xC3\xB4i": 2044
-  cute: 2479
-  tinyurl.com/b5pvgk: 1255
-  brr: 3110
-  findin: 3227
-  florida: 133
-  tinyurl.com/dn9ffy: 1346
-  profit: 589
-  ? !binary "5pig55S744Go5aSc44Go6Z+z5qW944Go\n"
-  : 1360
-
-  line: 1824
-  sculpted: 1050
-  "1156": 3039
-  production: 1678
-  tinyurl.com/c562xj: 1422
-  blackberry: 1769
-  stancollymore: 405
-  management: 1894
-  culture: 9
-  disorder: 328
-  gun: 1590
-  ? !binary "5L+h5b+1\n"
-  : 958
-
-  www.realwebjobs.com/development/368.php: 2109
-  weird: 730
-  registers: 2925
-  clearly: 2683
-  found: 1668
-  sports: 1528
-  hooded: 1314
-  cheap: 2658
-  tinyurl.com/aq86y9: 2072
-  styledev.com: 2978
-  owes: 3363
-  county: 1548
-  progress: 2949
-  link: 2650
-  "m\xE1\xBA\xAFt": 1999
-  xe: 2307
-  pclp: 2083
-  ? !binary "4LmA4Lit4Lif4Lia4Li14LmE4Lit4LmA4LiI4Lit4LiV4Lix4Lin4LiZ4Lix\n\
-    4LiB4LiB4Liy4Lij4LmA4LiH4Li04LiZ4LiC4Li14LmJ4LmC4LiB4LiH4LmA\n\
-    4LiI4LmJ4Liy4LiC4Lit4LiH4LiY\n"
-  : 1475
-
-  joke: 3114
-  ? !binary "5pyq5YWN56iN5b6u5pyJ5Lqb5b+r5oSP\n"
-  : 1280
-
-  ? !binary "4LmA4Lie4Li34LmI4Lit\n"
-  : 1211
-
-  ? !binary "zrvOuc68zrHOvc65z47OvQ==\n"
-  : 1444
-
-  flash: 2106
-  decision: 383
-  website: 1898
-  shoots: 3256
-  copy: 1698
-  tinyurl.com/cys65o: 1149
-  tinyurl.com/ccr5tn: 934
-  making: 384
-  calendar: 2633
-  ? !binary "44G+44Go44KB44Gf\n"
-  : 1257
-
-  tinyurl.com/dln9km: 617
-  lexington: 3204
-  "m\xC3\xA0": 2033
-  tempo: 2351
-  envy: 2562
-  ? !binary "5omL5qeN\n"
-  : 1135
-
-  chick: 2865
-  intent: 379
-  tinyurl.com/cnlk5r: 981
-  ? !binary "5LqM\n"
-  : 1286
-
-  guy: 135
-  term: 1520
-  "\xE8\xAF\x81\xE6\x8D\xAE1": 1294
-  ? !binary "6ICM6Zue6JuL5qqU5Li75Lqm5oyH\n"
-  : 1161
-
-  bands: 3121
-  need: 475
-  cocoa/iphone: 2519
-  ? !binary "44GC44G744GM44Kw44Kw44KM\n"
-  : 1323
-
-  "t\xC3\xADch": 2028
-  almightyduff: 1820
-  terrible: 2168
-  kareem: 1761
-  mysql: 1868
-  tinyurl.com/ca6efj: 867
-  "8217": 560
-  economy: 628
-  reduce: 3003
-  anyone: 1729
-  j2ee: 2116
-  someone: 1763
-  e_squarespace: 3161
-  "\xB0\xE5\x8C\x97\xE8\x82\xA1\xE5\xB8\x82\xE6\x94\xB6\xE5\xB8\x82\xE8\xB7\x8C91.93": 1108
-  gilbert: 2983
-  ofwat: 1787
-  tinyurl.com/adb5kh: 1068
-  holiday: 477
-  donaldmcmillan: 2074
-  ? !binary "6YeM5piC\n"
-  : 982
-
-  research/anal: 851
-  twurl.nl/yzoljv: 852
-  recording: 542
-  fri: 2917
-  tinyurl.com/awghyx: 1359
-  unix: 2093
-  va: 611
-  "m\xE1\xBB\x9D": 2007
-  vb: 646
-  "x\xE1\xBA\xA1": 1952
-  i'll: 1753
-  such: 171
-  putting: 2160
-  adobe: 489
-  nossa: 2345
-  ? !binary "5L2G5ouS57WV5bCx6Zu755uI5YaN5qyh5YKz5Ye66KOB5ZOh5L2c5Ye66KmV\n\
-    6KuW\n"
-  : 1127
-
-  clean: 2441
-  techtalk: 2131
-  ? !binary "44GL44Gk44Gm44Gu5a2Q5b25\n"
-  : 938
-
-  suck: 2731
-  ? !binary "15HXpNeV16DXmNeZ150=\n"
-  : 1482
-
-  amc: 1584
-  ? !binary "5YiG44Gr5oiQ55Sw56m65riv44Gr5Yiw552A44GX44Gf44GM\n"
-  : 929
-
-  based: 501
-  tinyurl.com/ajext4: 846
-  ? !binary "44Go44GE44GG5paH56ug44KS\n"
-  : 1371
-
-  homes: 3296
-  vi: 1680
-  rankings: 84
-  beta: 3087
-  hiring: 701
-  23k-33k: 2416
-  cover: 540
-  appear: 3318
-  ? !binary "5LiL\n"
-  : 1290
-
-  experienced: 1834
-  townhouse: 3043
-  "\xE5\x8F\xB0\xE8\x82\xA1\xE6\x94\xB6\xE5\xB8\x82\xE8\xB7\x8C91\xE9\xBB\x9E": 1107
-  hank_dog: 2936
-  ? !binary "5aSn5YWJ5LqL5Lu2\n"
-  : 1396
-
-  basically: 535
-  ? !binary "5paw6IGe\n"
-  : 1083
-
-  would: 351
-  manual: 1880
-  barcamp: 3262
-  andr8a: 3249
-  unpacking: 3225
-  ? !binary "562J6LSq5a6Y6Ieq5q+Z55qE6Lev\n"
-  : 1270
-
-  con: 2118
-  internet: 2467
-  arts: 1664
-  click: 2427
-  coo: 2627
-  ? !binary "5q235Y+y5YqH5aC0\n"
-  : 1251
-
-  prblog: 3154
-  vp: 2212
-  reasons: 1653
-  join: 1777
-  twitpic.com/238e3: 3054
-  woot: 2492
-  tinyurl.com/b2dnha: 1326
-  ? !binary "0LI=\n"
-  : 1303
-
-  around: 12
-  ? !binary "5pio5pel44Gu44GG44Ga44KJ5a215YyW44Gu5b6M5pel6KuH\n"
-  : 1030
-
-  tinyurl.com/cvy26o: 1236
-  means: 3011
-  working: 318
-  lily: 194
-  ? !binary "5L2/6YCU44KS5L6b6L+w\n"
-  : 1399
-
-  "tr\xC3\xACnh": 2326
-  singapore: 657
-  amo: 2342
-  section: 2654
-  wendytimmons: 2575
-  cooking: 681
-  clouds: 2708
-  ? !binary "0L7QsdC90L7QstC70Y/RjtGC0YHRjw==\n"
-  : 1307
-
-  talk: 2842
-  tinyurl.com/c63ccv: 1899
-  kcarruthers: 2510
-  subsequent: 1747
-  3rd: 2951
-  "t\xE1\xBA\xA1i": 2257
-  growth: 2888
-  major: 3143
-  reflecting: 2634
-  wack: 2770
-  hampshire: 858
-  ltd: 2104
-  tinyurl.com/bhuoqw: 566
-  america: 471
-  "tr\xC3\xA0": 2392
-  creative: 2712
-  own: 2855
-  because: 1716
-  libbyander: 700
-  released: 2075
-  ? !binary "5r6z6ZaA5LuN5Zyo5YyW6amX5rWB5Ye65biC6Z2i55qE5oe355aR5YGH6JuL\n"
-  : 1158
-
-  something: 35
-  ashamed: 367
-  ? !binary "77yV5raI6Ziy5pys6YOo\n"
-  : 1260
-
-  "m\xE1\xBB\xB9": 1966
-  "t\xC6\xB0": 1984
-  te: 2358
-  although: 2881
-  "1869": 1054
-  donald: 2184
-  happy: 2154
-  lawsuit: 2192
-  debugging: 2067
-  long: 1519
-  photog: 2912
-  ? !binary "z4DOtc+BzrnPgM6/zrvOr861z4I=\n"
-  : 1436
-
-  th: 821
-  tokyo: 3261
-  twitterberry: 3177
-  tinyurl.com/dnxqjr: 1495
-  java/j2ee: 2110
-  concrete5: 1892
-  ? !binary "5Y2H6Iez\n"
-  : 1090
-
-  "l\xE1\xBB\xA5y": 2242
-  twitpic.com/1mgc4: 2640
-  chef: 2585
-  packing: 295
-  tinyurl.com/byad87: 3341
-  xoxo: 3198
-  wellicht: 430
-  smoking: 88
-  week: 555
-  jobsurl.com/21e4: 1872
-  "ph\xC3\xA1p": 1985
-  "\xEF\xBC\x92\xE4\xBE\xBF\xE3\x81\x8C20\xE6\x97\xA5": 926
-  doodlebuzz.com: 2932
-  rest: 450
-  god: 352
-  everything: 2883
-  to: 22
-  give: 1793
-  sheets: 2638
-  ? !binary "6bue\n"
-  : 974
-
-  curious: 6
-  rockets: 506
-  answer: 669
-  "ph\xC3\xA1t": 2320
-  lady: 2939
-  ? !binary "6Iul44GE44Gj44Gm6Imv44GE44Gq\n"
-  : 1317
-
-  searching: 2935
-  never: 313
-  apps: 2149
-  essa: 2343
-  funny: 270
-  reviewing: 2495
-  topgrossing: 1675
-  photos: 905
-  urgh: 3159
-  ? !binary "5Y6f5p2l\n"
-  : 1281
-
-  tinyurl.com/ydk697: 116
-  "kh\xC3\xAD": 1970
-  "tr\xC3\xA0o": 2000
-  u.mavrev.com/1lvt: 1988
-  archives: 1053
-  ? !binary "zrc=\n"
-  : 1451
-
-  tv: 422
-  technologies: 277
-  phoenix: 2112
-  tinyurl.com/db9od6: 1223
-  karl: 3361
-  tx: 3239
-  "hdd\xE3\x81\x8C\xE6\xAC\xA1\xE3\x80\x85\xE3\x81\xA8\xE3\x81\x94\xE8\x87\xA8\xE7\xB5\x82": 1374
-  elvis: 2756
-  msg: 1738
-  days: 2906
-  tibet: 2649
-  research/analysis: 848
-  ra: 2001
-  left: 236
-  partners: 718
-  nice: 1818
-  music: 624
-  near: 1749
-  gop: 693
-  traumatic: 326
-  rhode: 2430
-  tinyurl.com/c5bwjt: 1012
-  waialua: 1625
-  fuel: 2107
-  702.453.3332: 2536
-  yellowknife: 893
-  re: 521
-  neat: 3001
-  "s\xC3\xAD": 2367
-  ? !binary "zr8=\n"
-  : 1429
-
-  tips: 123
-  our: 44
-  whenever: 1554
-  responding: 496
-  overbooked: 3287
-  qua: 2310
-  got: 152
-  appointments: 2474
-  which: 3254
-  out: 880
-  coffee: 2759
-  tinyurl.com/d8zzzv: 3024
-  highly: 1833
-  isn't: 2547
-  engine: 83
-  gov: 3032
-  shows: 268
-  emergency: 2851
-  "\xE8\xBF\xBD\xE5\x8A\xA0\xE8\x87\xB3\xE6\x96\xB0\xE5\x8F\xB0\xE5\xB9\xA3\xE7\xB4\x84250\xE5\x84\x84": 1193
-  aig: 2871
-  chandler: 2982
-  bread: 685
-  hello: 257
-  tell: 756
-  sacto: 3101
-  database: 642
-  labs: 638
-  que: 2356
-  technician: 1599
-  jessicahamby: 2452
-  ? !binary "6L+Z5Liq6K665pat\n"
-  : 1279
-
-  loll: 2768
-  bit.ly/2wwk3: 1878
-  ? !binary "44Ki44Or44OV44Kh44Or44OV44Kh44Oi44K244Kk44Kv\n"
-  : 1245
-
-  uncontrollably: 2767
-  joel: 3340
-  brandcenter: 3280
-  knows: 1564
-  skaters: 2601
-  tinyurl.com/ctyspd: 1477
-  professionals: 1606
-  twitpic.com/1lx0t: 2340
-  groups: 3096
-  flowi: 2071
-  flavor: 354
-  "quy\xE1\xBA\xBFt": 2249
-  into: 46
-  blue: 1043
-  accountant: 2228
-  browns: 3146
-  journalist: 630
-  ? !binary "5LiA5ZCN5oyB5qeN55S35a2Q6KKr5o2V\n"
-  : 1148
-
-  accused: 569
-  rs: 283
-  "thu\xE1\xBA\xADn": 1973
-  omfgepicwinplz: 1635
-  rt: 804
-  bigger: 1712
-  tinyurl.com/bgbpk9: 2198
-  jobfeedr: 1612
-  air: 1792
-  wouldn't: 690
-  graphic: 2590
-  life: 2722
-  prod: 2125
-  unprecedented: 3266
-  loophole: 107
-  tinyurl.com/c35yda: 1081
-  mistakes: 2472
-  ? !binary "5Y+w54Gj54K65o6o5YuV5peF6YGK5qWt\n"
-  : 1229
-
-  summer: 782
-  fucking: 2544
-  somerset: 2415
-  december: 3212
-  seeing: 3034
-  nickjackson: 1
-  sincere: 2719
-  jimmyfallon: 3215
-  "138886": 1618
-  couple: 1874
-  ? !binary "44Gv44Gm44Gq5pu05paw\n"
-  : 1327
-
-  grapevine: 2827
-  ? !binary "5ZKM5a6D5aa55aa55ZCI5Y+r\n"
-  : 1173
-
-  each: 3356
-  "\x90\xE4\xBA\xA4\xE5\x80\xBC\xE6\x96\xB0\xE5\x8F\xB0\xE5\xB9\xA3598.50": 1111
-  knowledgeable: 1857
-  ideas: 2968
-  conference: 2144
-  picture: 388
-  tinyurl.com/cdbgdr: 2193
-  age: 2603
-  worried: 749
-  pty: 2103
-  auction: 468
-  shout: 2758
-  doubleonemedia.com: 1762
-  flu: 225
-  tinyurl.com/cvsdtr: 1248
-  macdiva: 573
-  oath: 409
-  tinyurl.com/cgmcew: 1471
-  slapping: 3259
-  pm: 1518
-  tiny: 835
-  sum: 1499
-  stress: 327
-  "th\xC3\xB4i": 2389
-  "v\xE1\xBB\x9Bi": 2394
-  shining: 3311
-  fly: 3300
-  sun: 869
-  thisgoodlife: 1325
-  pre: 2580
-  blogger: 2571
-  nonprofit: 587
-  poll: 3033
-  tinyurl.com/ckrjwu: 912
-  "nh\xE1\xBB\x8Dn": 1962
-  prominent: 1594
-  angst: 996
-  tinyurl.com/az4c7p: 1448
-  media: 1589
-  trong: 1945
-  "\xE3\x82\xA6\xE3\x82\xA7\xE3\x83\x96\xE6\xA5\xAD\xE7\x95\x8C\xE3\x81\xAE\xE5\x90\x84\xE6\x96\xB9\xE9\x9D\xA2\xE3\x81\xA7\xE6\xB4\xBB\xE8\xBA\x8D\xE3\x81\x99\xE3\x82\x8B\xE3\x82\xAF\xE3\x83\xAA\xE3\x82\xA8\xE3\x83\xBC\xE3\x82\xBF\xE3\x83\xBC\xE7\xB7\x8F\xE5\x8B\xA212\xE5\x90\x8D\xE3\x81\x8C\xE9\x9B\x86\xE7\xB5\x90": 1385
-  int'l: 1815
-  ? !binary "44OO44O844K544Km44Ko44K544OI5qmf\n"
-  : 921
-
-  pr: 762
-  ctia: 1771
-  freeze: 1582
-  tinyurl.com/6nfw6k: 1008
-  ps: 232
-  "\xE4\xBD\x93\xE9\xAA\x8C1": 1152
-  wear: 400
-  t.hawk: 429
-  another: 2589
-  ? !binary "zrzPgM67z4zOus6x\n"
-  : 1440
-
-  peeps: 2567
-  ecommerce: 1904
-  tinyurl.com/cmq9ad: 2238
-  girl: 199
-  chat: 3322
-  ? !binary "5pWZ44GI44Gm44GC44GS44Gf44KJ44GE44GL44Gj44Gf44GL44Gu\n"
-  : 112
-
-  kma: 3046
-  pro: 2059
-  "false": 330
-  south: 2201
-  living: 578
-  tinyurl.com/d2lb7m: 1105
-  deutsche: 800
-  vegas: 2535
-  17/2: 2256
-  nytimes: 847
-  1timstreet: 3172
-  huxley: 2119
-  laurakennedy: 2954
-  "100\xE4\xBA\xBA\xE3\x81\xAE\xE6\xAD\xBB\xE8\x80\x85\xE3\x81\xAB\xE8\xBF\x91\xE3\x81\xA5\xE3\x81\x8D\xE3\x81\xBE\xE3\x81\x99": 1002
-  tinyurl.com/apqxkr: 1490
-  hardcore: 3025
-  "m\xE1\xBA\xA5t": 1994
-  plip: 729
-  little: 534
-  business: 592
-  management/marketing: 868
-  learning: 831
-  is.gd/klhg: 2476
-  unitedhealth: 2113
-  episode: 885
-  ? !binary "5q+O5pel772K772Q\n"
-  : 1394
-
-  stuff: 1727
-  "\xC4\x91\xE1\xBB\x8Bnh": 2250
-  youritgirl: 2738
-  system: 1895
-  "n\xC6\xB0\xE1\xBB\x9B": 2381
-  ? !binary "4Lin4Li04LiV4Lit4Li1\n"
-  : 1215
-
-  jobangels: 723
-  ? !binary "5rqr5ZOl6I+v5Yas6YGL5a6J5YWo6aCQ566X\n"
-  : 1192
-
-  deborah91473: 2687
-  tinyurl.com/caqkau: 1243
-  tiredddd: 3273
-  tinyurl.com/bmeppb: 887
-  client: 717
-  simplyhired: 1537
-  3/20: 2973
-  listening: 264
-  wasnt: 2762
-  vechtgameserie: 442
-  eatthecakenyc.viewbook.com: 2914
-  interactive: 841
-  gia: 2376
-  neareradication: 1748
-  buzz: 1829
-  nl: 1786
-  applied: 622
-  tto: 1980
-  code: 1920
-  ? !binary "zrrPjM66zrrOuc69zr8=\n"
-  : 1450
-
-  bethanie: 1805
-  johnalexhall: 312
-  tinyurl.com/aazwkz: 915
-  "b\xE1\xBB\x93i": 1974
-  govt: 509
-  pune: 781
-  aws/ec2: 808
-  comscore: 78
-  stomach: 3219
-  "142198": 2422
-  explosion: 355
-  mov: 941
-  "meg\xC3\xA9rinti": 2298
-  "no": 144
-  mindjet: 864
-  3/27: 2918
-  strategy: 2496
-  "l\xE1\xBB\x9Di": 2260
-  careerbuilder.com: 715
-  gotta: 2596
-  bit.ly/1146xs: 2459
-  birds: 3309
-  annoying: 2407
-  rose: 1048
-  observation: 2833
-  sexy: 2178
-  kymarch: 3205
-  most: 2641
-  ? !binary "44Gn44GK6aGY44GE44GX44G+44GZ\n"
-  : 939
-
-  usa: 1624
-  create: 2237
-  asked: 662
-  "\xE6\xA9\x9F\xE4\xB8\x8A\xE6\x9C\x89\xE8\xBF\x9130\xE4\xBA\xBA\xE5\x8F\x97\xE5\x82\xB7": 1141
-  is.gd/kc8x: 1813
-  tinyurl.com/ba3jhx: 2239
-  usb: 1041
-  london: 1839
-  ppl: 2597
-  ? !binary "5biw44KK44Gr5bel5LqL54++5aC044KS44Gu44Ge44GE44Gm44GT44KI44GG\n"
-  : 1473
-
-  tinyurl.com/amejjm: 2886
-  ook: 431
-  "\xC3\xA9s": 2286
-  "th\xE1\xBA\xBF": 1943
-  decor: 2903
-  bind: 2128
-  use: 72
-  should: 666
-  tinyurl.com/caa6nf: 1354
-  assistant: 1655
-  la: 182
-  place: 2774
-  7nr: 1908
-  ny: 596
-  pirateruth: 419
-  jayspear: 2438
-  02/20: 1264
-  apresentador: 943
-  creating: 556
-  catch: 158
-  drigers: 2741
-  tri: 2556
-  "l\xC3\xA0ng": 2049
-  ? !binary "5pud5paZ5piv55yf5LqL\n"
-  : 1033
-
-  address: 2841
-  ? !binary "5bqD5Z+f5YyW5Zuw6Zuj44Gr\n"
-  : 1262
-
-  ? !binary "5oKo6LWw5aW9\n"
-  : 1340
-
-  failing: 570
-  kiruba: 2151
-  ? !binary "z4TOvM6uzrzOsc+EzrE=\n"
-  : 1457
-
-  header: 2593
-  "3983": 1118
-  this: 335
-  sticky: 2162
-  tinyurl.com/4hppty: 714
-  "c\xE1\xBA\xA7u": 2317
-  concern: 3226
-  kiddos: 3155
-  palms: 2897
-  gonna: 480
-  unsigned: 3120
-  erica: 3009
-  sql: 643
-  building: 2138
-  ? !binary "44Oe44Kv44Ot44K544Gu5ZGq44GE\n"
-  : 263
-
-  convention: 525
-  straf: 999
-  ceo: 2473
-  ? !binary "z4TOvw==\n"
-  : 1433
-
-  spinning: 2550
-  turn: 222
-  www.realwebjobs.com/view/369.php: 1506
-  ? !binary "576O5p6X6Kq/6auY5Yip6LGQ\n"
-  : 1085
-
-  ? !binary "5ZKM6K6v572R\n"
-  : 964
-
-  laaaaargaaaa: 190
-  rocking: 393
-  ? !binary "6aGU44Go6aGU44KS56qB44GN5ZCI44KP44Gb44KL\n"
-  : 1062
-
-  paycheck: 2411
-  annoyed: 2893
-  visit: 2457
-  blog: 101
-  ls: 2335
-  loft: 3102
-  lt: 2339
-  19-2: 1982
-  casino: 3210
-  riskyaj: 3193
-  lu: 251
-  "h\xE1\xBB\x87": 2241
-  lucky: 2908
-  try: 157
-  told: 1671
-  "th\xC3\xB4ng": 1986
-  pull: 2772
-  vancouver: 902
-  ? !binary "5L+h5Luw44Go44GL44Gd44GG44GE44GG44KI44GG44Gq5oSf44GY44Gu5oSP\n\
-    5ZGz44Gv44Gq44GE\n"
-  : 960
-
-  nurse: 2453
-  creators: 2207
-  soccer: 62
-  kendal: 795
-  ? !binary "5YyF5ous6L+r5pOK54Ku5b2I\n"
-  : 1133
-
-  ly: 1993
-  ? !binary "6Zu3566h562J\n"
-  : 1136
-
-  public: 3367
-  assist: 1873
-  "h\xE1\xBB\x8D": 2025
-  kid: 3158
-  country: 411
-  wales: 3348
-  hast: 2793
-  ? !binary "zrHPgM+M\n"
-  : 1441
-
-  bbc: 2543
-  ricky: 265
-  desk: 160
-  trot: 2504
-  "\xE7\xB4\x84\xE6\x96\xB0\xE5\x8F\xB0\xE5\xB9\xA3248\xE5\x84\x848400\xE8\x90\xAC\xE5\x85\x83": 1198
-  swerve: 2766
-  "\xE5\x90\x8C\xE4\xBE\xBF\xE3\x81\xAF\xE5\x8D\x88\xE5\xBE\x8C\xE9\x9B\xB6\xE6\x99\x8219": 928
-  wrong: 36
-  "h\xE1\xBB\x91": 2004
-  yummymummyclub: 3008
-  tinyurl.com/aqzuox: 1259
-  swore: 408
-  tinyurl.com/bsggv6: 1191
-  hispanic: 704
-  atheistium: 290
-  davejmatthews: 272
-  maturity: 2501
-  understands: 2684
-  ? !binary "4YCE\n"
-  : 1492
-
-  shoot: 667
-  flood: 698
-  pla: 709
-  wakeboarding: 1016
-  fundo: 2353
-  ? !binary "5a+r57Wm5Y+w54Gj55qE5oOF5pu4\n"
-  : 1250
-
-  jk: 3324
-  aerosolme: 2789
-  tinyurl.com/c3znos: 1316
-  handy: 153
-  tinyurl.com/bgcx6v: 680
-  openended: 2933
-  email: 512
-  tinyurl.com/dg7ydq: 1300
-  funds: 3360
-  drinking: 3250
-  mentor: 2688
-  tinyurl.com/cnvl5g: 1144
-  ? !binary "5Lqk5rWB44Kk44OZ44Oz\n"
-  : 1387
-
-  nickhac: 2506
-  "hj\xC3\xA4rtedagen": 1099
-  hire/permanent: 708
-  kind: 353
-  mmmm: 3315
-  rizzi: 2436
-  js: 1812
-  inspiration: 1740
-  g.clear: 2334
-  ? !binary "xJHhu4M=\n"
-  : 2041
-
-  sound: 2961
-  didn't: 100
-  opieradio: 2405
-  recruiter: 707
-  kinh: 2328
-  unless: 2642
-  negotiable: 2451
-  mid: 614
-  beautiful: 1935
-  application: 606
-  ? !binary "5Yia5oqx5Zue5a6255qE5pe25YCZ\n"
-  : 1169
-
-  ? !binary "5YWz6Zet5LiN5L2z5Lia5Yqh5peg57uf5LiA5qCH5YeG\n"
-  : 963
-
-  ladies: 2909
-  tinyurl.com/cva63e: 1283
-  tinyurl.com/bueor2: 1391
-  floor: 3175
-  mamikaze: 2424
-  computer: 289
-  ha: 317
-  geo: 2077
-  ? !binary "6ZmN6Iez\n"
-  : 1119
-
-  ? !binary "4YCV\n"
-  : 1493
-
-  ? !binary "zrXPhs6/zrTOv8+C\n"
-  : 1406
-
-  must: 174
-  them: 696
-  cities: 3255
-  pls: 2150
-  www.fictitiousnonsense.com/archives/42: 1925
-  websites: 2361
-  hd: 898
-  then: 3126
-  "th\xE1\xBA\xB3m": 2006
-  agent: 725
-  might: 1562
-  he: 356
-  holicost: 2648
-  allocation: 456
-  coordinator: 2624
-  internships: 740
-  get: 108
-  min: 301
-  changes: 1884
-  copywriter/creative: 702
-  hojbak: 2735
-  quirk: 2554
-  ? !binary "5aSn5biC\n"
-  : 1106
-
-  tinyurl.com/dljrvt: 946
-  zombie: 223
-  tinyurl.com/cpykpp: 1903
-  hi: 365
-  sapient: 2156
-  teaching: 2557
-  ? !binary "57i957Wx5be05Z+66IC25aSr5bey6Zqo5Y2z57C9572y5rOV5Luk\n"
-  : 1222
-
-  30-50k: 1841
-  tired: 1670
-  race: 1592
-  site: 820
-  griffinstenger: 2931
-  ramses: 3094
-  can: 697
-  "nh\xC3\xA2n": 2371
-  bark: 2941
-  sang: 137
-  mit: 1021
-  uientaart: 950
-  hm: 1862
-  crap: 2867
-  other: 731
-  3months: 2215
-  loveableme510: 2679
-  reach: 3293
-  healthcare: 1603
-  spain: 2944
-  become: 1718
-  shader: 1728
-  they: 665
-  car: 3336
-  gives: 218
-  posttraumatic: 324
-  kellyokeefe: 3278
-  cat: 2848
-  ? !binary "6IiH5omB55qE5Y2B5a2X5p62\n"
-  : 1252
-
-  agenda: 1785
-  andrewwindham: 2831
-  ? !binary "44Kt44Ok44OO44Oz5qCq6LO85YWl\n"
-  : 1397
-
-  cclicensed: 28
-  leader: 387
-  ? !binary "5Y2O56GV5ZKM5a6P56KB55qE5Lqn5ZOB5Lmf\n"
-  : 1183
-
-  hourly: 2449
-  ? !binary "zrzOvM61\n"
-  : 1459
-
-  vision.when: 2709
-  advice: 826
-  gervais: 266
-  "150": 1408
-  miami.craigslist.org/pbc/eng/1036057384.html: 1939
-  ssig33: 1205
-  greets: 453
-  meet: 2686
-  ? !binary "157XkNek16nXqNeq\n"
-  : 1480
-
-  kill: 3109
-  dehli: 904
-  "th\xC6\xB0\xE1\xBB\x9Dng": 1975
-  shanki: 2235
-  plan: 245
-  jamievaron: 3148
-  cocoa: 1912
-  pjs: 3104
-  down: 2806
-  1bd: 3023
-  kiddin: 2869
-  alandruslesene: 2760
-  citizen: 3260
-  usual: 1811
-  tinyurl.com/btjhq6: 658
-  mnbvcxz: 3079
-  "ch\xE1\xBA\xAFc": 2383
-  strategists: 2503
-  tinyurl.com/c63n3r: 3002
-  sounds: 754
-  government: 515
-  monolithic: 226
-  ff.im/18xt2: 691
-  moearora: 98
-  ski: 1527
-  quote: 2725
-  ear: 2785
-  voor: 998
-  administrativeandsupportservicesjobs: 1613
-  wow: 139
-  change: 3303
-  eat: 3223
-  learn: 2142
-  "l\xC3\xA1bam": 2299
-  industries: 2108
-  woodsen: 197
-  "\xE6\x84\x9B\xE7\x9A\x84\xE5\x88\xA5\xE9\x87\x9Dxd": 220
-  knowledge: 2091
-  confirmation: 3145
-  ronanmckee: 2907
-  mpls: 1515
-  serverside: 1932
-  salk: 1743
-  gag: 2861
-  "\xE4\xB8\xA6\xE4\xB8\x8A\xE8\xAA\xBF\xE7\x9B\xAE\xE6\xA8\x99\xE5\x83\xB948": 1092
-  "mu\xE1\xBB\x91n": 2031
-  "\xC3\xA1o": 2398
-  tinyurl.com/c9ogsj: 1313
-  actionscript: 815
-  office: 303
-  gah: 550
-  ailments: 1608
-  scams: 513
-  gartner: 2890
-  effect: 131
-  "th\xC3\xADch": 2327
-  accept: 2710
-  tinyurl.com/cgqflg: 3192
-  java: 734
-  know: 551
-  tinyurl.com/dbsnhg: 751
-  send: 2651
-  ? !binary "zrTOuc66zrHPg8+EzrnOus6/zq8=\n"
-  : 1419
-
-  www.macupdate.com/info.php/id/30504/spike: 2530
-  lisagj: 2840
-  illinois: 3191
-  php: 792
-  systems: 2090
-  tinyurl.com/ckvzya: 2533
-  trip: 3169
-  tinyurl.com/d96jn6: 583
-  dc: 2522
-  thanks: 66
-  technology: 2117
-  tinyurl.com/crz6zr: 2073
-  19m5l: 1853
-  hungry: 342
-  you: 151
-  ? !binary "5oiR5Lul5Li65a6D5Y+r\n"
-  : 1291
-
-  than: 1864
-  profitable: 2199
-  ? !binary "44Go44GT44KN44Gu44G744KT44Go44Gu44Go44GT44KN\n"
-  : 1375
-
-  ? !binary "44Go44GL44Gr44Gv\n"
-  : 959
-
-  institutionalized: 15
-  de: 440
-  gas: 361
-  ? !binary "44OL44Ol44O844K56YCf5aCx\n"
-  : 1392
-
-  rd2: 1802
-  bonuses: 2874
-  realised: 2656
-  singing: 3310
-  semana: 185
-  spike: 2524
-  ? !binary "5aGR5YyW6IKh6aaW6YG4\n"
-  : 986
-
-  grow: 1858
-  ? !binary "4LiB4Lil4Li54LiV4Liy4LmE4LiY4LmC4Lit4LiZ\n"
-  : 1210
-
-  parties: 2487
-  "\xE4\xB8\xAD\xE5\x9B\xBDpc\xE4\xBB\xB7\xE6\xA0\xBC\xE5\xB1\xA0\xE5\xA4\xAB\xE7\xA5\x9E\xE8\x88\x9F\xE7\x94\xB5\xE8\x84\x91\xE6\x8A\xA5\xE5\x87\xBA\xE4\xBA\x86\xE5\x8F\xB0\xE5\xBC\x8F\xE6\x9C\xBA\xE7\x9A\x84\xE6\x9C\x80\xE4\xBD\x8E\xE4\xBB\xB71998\xE5\x85\x83": 1178
-  million: 3061
-  ? !binary "5YGa5LuA5LmI\n"
-  : 347
-
-  shadows: 2740
-  g20: 3357
-  thas: 2769
-  search: 82
-  ? !binary "5Yid5Zue5aSn5Lya44Gu6IiI5aWu44GM5YaN44Gz\n"
-  : 1203
-
-  tinyurl.com/bllmvz: 2437
-  that: 71
-  ? !binary "5pig55S75YyW44GV44KM44Gf\n"
-  : 1365
-
-  month: 1772
-  five: 1636
-  tinyurl.com/d3p6p4: 2088
-  weight: 1731
-  somebody: 1551
-  dm: 810
-  tinyurl.com/dkgcc3: 951
-  reply: 809
-  bank: 801
-  met: 2940
-  sent: 505
-  meu: 2354
-  amazon.com: 623
-  do: 34
-  tinyurl.com/cwj48y: 1184
-  cakephp: 2780
-  info: 1723
-  shoe: 2611
-  myspace: 241
-  needed: 2060
-  march: 747
-  ? !binary "5pOs6IiH5Zue5pWZ5Y2U5pyD5ZCI5L2c\n"
-  : 1231
-
-  tinyurl.com/cc9vrh: 1909
-  "\xE6\xB3\x95\xE6\x96\xB0\xE7\xA4\xBE\xE6\xBA\xAB\xE5\x93\xA5\xE8\x8F\xAF19\xE6\x97\xA5\xE9\x9B\xBB": 1194
-  feedback: 2080
-  loves: 348
-  ds: 2569
-  vesuvio: 2901
-  mca: 779
-  "ch\xE1\xBA\xB3ng": 2034
-  watch: 2784
-  mean: 548
-  register: 571
-  brooksbayne: 805
-  sanity: 3364
-  deserve: 3306
-  slides: 375
-  ? !binary "5o6o5buj5Zue5pWZ6KqN6K2J6aSQ5buz\n"
-  : 1232
-
-  "50": 1469
-  retail: 1629
-  ff.im/1vrht: 3074
-  bothered: 415
-  read: 1741
-  focus: 1781
-  tinyurl.com/cozwxm: 1651
-  sharks: 3135
-  social: 370
-  ba: 1992
-  manager: 594
-  self: 1697
-  flight: 3288
-  10-20: 3201
-  "000": 862
-  1.0.9: 2525
-  girlgamer: 546
-  sleep: 76
-  the: 8
-  zzzz: 449
-  "55": 2765
-  ? !binary "5Li75YKs6ICF5oOF5aCx\n"
-  : 1384
-
-  similar: 69
-  "56": 1103
-  make: 164
-  tinyurl.com/co3s8y: 2140
-  demand: 3220
-  be: 23
-  industrial: 777
-  "750": 2607
-  ? !binary "4KSq\n"
-  : 932
-
-  tinyurl.com/c99fcj: 940
-  4am: 465
-  april: 484
-  shot: 3030
-  real: 1545
-  space: 507
-  sell: 369
-  favor: 2748
-  gurus: 2465
-  potrero: 2218
-  ? !binary "5peg5aWI5Y+I5peg6K+t\n"
-  : 1350
-
-  navi: 1200
-  asap: 2850
-  "16\xE4\xBA\xBA\xE3\x81\x8C\xE8\xBB\xBD\xE7\x97\x87\xE3\x82\x92\xE8\xB2\xA0\xE3\x81\xA3": 931
-  show: 207
-  attraction: 552
-  tinyurl.com/bk7ywl: 2123
-  ? !binary "zrrOsc65\n"
-  : 1420
-
-  tinyurl.com/cr6amv: 1006
-  lolapps: 2203
-  chicago: 170
-  ? !binary "4KSv\n"
-  : 916
-
-  offered: 2617
-  "m\xC3\xA1r": 2293
-  match: 3026
-  ? !binary "4KSw\n"
-  : 917
-
-  bryan: 3066
-  tinyurl.com/d47abv: 1138
-  tobacco: 364
-  hour: 103
-  tinyurl.com/aqo9cr: 444
-  chance: 481
-  rice: 774
-  tonight: 1029
-  tho: 2148
-  "b\xC3\xACnh": 2261
-  tinyurl.com/cpnwuz: 1199
-  bm: 1059
-  ? !binary "6ZmI5Yag5biM6Zi/5aiH5aSN5Ye65LmL6Lev5LiA5Liq6aG65LiA5Liq6Zq+\n"
-  : 1036
-
-  ? !binary "zrPOuc6x\n"
-  : 1407
-
-  airlines: 1693
-  100k: 648
-  boring: 426
-  is.gd/k53z: 598
-  hilary: 3301
-  street: 432
-  vision_brzee: 65
-  sinh: 2279
-  first: 1620
-  thr: 2595
-  surry: 2099
-  100m: 2873
-  coming: 2463
-  gubernatorial: 1591
-  items: 469
-  bp: 1971
-  disqus: 1305
-  structures: 227
-  ? !binary "15HXmdeg16rXmdeZ150=\n"
-  : 1486
-
-  "ph\xE1\xBA\xA7n": 1948
-  community: 2985
-  tinyurl.com/cys7rv: 3064
-  reading: 1249
-  speed: 2803
-  suspicious: 2700
-  "200": 2332
-  ? !binary "4KS5\n"
-  : 918
-
-  "\x97\xE9\x9F\x93KOSPI\xE6\x8C\x87\xE6\x95\xB8\xE4\xBB\x8A\xE6\x97\xA5\xE6\x94\xB6\xE7\x9B\xA4\xE5\xA4\xA7\xE8\xB7\x8C41.15": 968
-  international: 1773
-  menthol: 362
-  tragedies: 334
-  mac: 661
-  indu: 783
-  1vub3: 2953
-  tinyurl.com/cdzqat: 1204
-  thx: 1767
-  programmers: 735
-  paper: 404
-  100s: 2835
-  "30": 284
-  lovely: 761
-  "s\xE1\xBA\xAFc": 2029
-  "32": 2798
-  by: 249
-  hills: 2100
-  vermont: 3116
-  1/2: 2183
-  "tr\xE1\xBA\xA7m": 2022
-  android: 1770
-  cursing: 491
-  "34": 3247
-  win: 1044
-  smeykunz: 2454
-  rasley: 3203
-  pds: 2409
-  35k: 1888
-  hair: 2482
-  "t\xE1\xBB\x91": 2282
-  "b\xC3\xA0i": 2300
-  beliefcan.blogspot.com: 2513
-  ? !binary "55Sf5oSP5Zq06YeN5Y+X5pCN\n"
-  : 1162
-
-  hosting: 3299
-  pdt: 2539
-  ? !binary "zrXOuw==\n"
-  : 1431
-
-  see: 391
-  "\xC4\x91\xC6\xB0a": 2043
-  there: 530
-  khen: 2024
-  imac: 39
-  lotay: 2852
-  "b\xE1\xBA\xAFt": 2385
-  corporation: 711
-  hanazukin: 1066
-  next: 2809
-  man: 2145
-  columbia: 1700
-  ? !binary "6LCI6K666LSq5a6Y5ZG955+t55qE6K+d6aKY\n"
-  : 1275
-
-  ? !binary "6aG65Yip5YWz5py66buE5rik6buE5aWV6IGU6KKC5pCe56yR\n"
-  : 1390
-
-  ? !binary "6YCy\n"
-  : 1364
-
-  "tr\xE1\xBB\x93": 2023
-  map: 3252
-  testing: 1914
-  sort: 2172
-  view: 2630
-  prepare: 562
-  standard: 664
-  suggestions: 3257
-  mail: 736
-  safe: 1009
-  laptops: 2921
-  fire: 3091
-  chadselph: 2493
-  ? !binary "5rGf5Yil44Gv55+z54up5YyX6YOo44Go5qSc6KiO\n"
-  : 1263
-
-  contract/freelance: 2507
-  incase: 2205
-  sem: 763
-  forever: 1585
-  autopostr.com: 3084
-  tinyurl.com/bpak46: 1051
-  engineering: 2213
-  supremacist: 2360
-  location: 1639
-  language: 499
-  "uppm\xC3\xA4rksammar": 1098
-  fall: 176
-  island: 2431
-  may: 2691
-  latest: 1901
-  tinyurl.com/b89z3r: 742
-  "nh\xC3\xA0": 1958
-  firm: 722
-  doesnt: 3211
-  opening: 2581
-  ? !binary "6KKr5a2Z5Y+U6LSi5Y+R546w\n"
-  : 1296
-
-  brighton: 1632
-  set: 208
-  amanda: 2660
-  grim: 2884
-  tinyurl.com/9kvgvd: 2115
-  "2589": 1373
-  "10": 2819
-  tinyurl.com/aegxbp: 1378
-  iphone: 600
-  ohio: 2846
-  ? !binary "5oeJ5o6h5Y+W5Lu75L2V5Y+v6IO96L6m5rOV\n"
-  : 979
-
-  thank: 3082
-  s60: 833
-  shoundn't: 3027
-  "t\xE1\xBB\xA5": 2374
-  "409": 1361
-  heaven: 3314
-  remarkably: 1934
-  "251\xE5\x9B\x9E\xE3\x81\xAE\xE3\x81\xA8\xE3\x81\x8D\xE3\x81\xAB": 1369
-  womens: 2653
-  showing: 24
-  g2p: 2979
-  ? !binary "5a6j5Lyg5rqQ5LqO5a+554mH5pa55LiN5ruh\n"
-  : 1425
-
-  "12": 1376
-  sex: 567
-  ? !binary "4Lit4Li44Lib4LiB4Lij4LiT4LmM4LiE4Lit4Lih4Lie4Li04Lin4LmA4LiV\n\
-    4Lit4Lij4LmM\n"
-  : 1238
-
-  covina: 3157
-  1-3: 3038
-  tinyurl.com/6ep622: 823
-  yorknew: 2121
-  lorton: 1615
-  credit: 992
-  "14": 1265
-  "est\xC3\xA1": 187
-  bit.ly/rpbxv: 1790
-  "15": 113
-  young: 2464
-  blankets: 3106
-  "16": 407
-  "t\xE1\xBB\xAB": 2002
-  "17": 886
-  ? !binary "15zXnteV15PXoteV16o=\n"
-  : 1488
-
-  away: 1752
+  hard: 362
+  animation: 647
+  xfm: 266
+  kareem: 1400
+  position: 1180
+  leon: 2722
+  shirt: 2512
+  tinyurl.com/aegxb: 1121
+  tinyurl.com/ccr5t: 904
+  creativity: 2191
+  gotta: 2061
+  miami.craigslist.org/pbc/eng/1036057384.htm: 1572
+  them: 688
+  faster: 123
+  near-eradication: 1390
+  back: 110
+  then: 2586
+  caps: 2169
+  teaching: 2022
+  haveing: 1430
+  "40": 1284
+  0rz.tw/lkfo: 221
+  southwest: 2740
+  beliefcan.blogspot.com.: 1979
+  sapient: 1708
+  aids: 781
+  evening: 1304
+  because: 1359
+  had: 117
+  news: 215
+  "41": 1082
+  sign: 2569
+  direction: 2161
+  tinyurl.com/b2dnh: 1101
+  learning: 826
+  autopostr.com: 2545
+  "@alohaarleen": 2295
+  donald: 1735
+  minnepy: 1556
+  experiencing: 1349
+  plus: 1450
+  attraction: 547
+  unprecedented: 2724
+  pjs: 2565
+  fukui: 1124
+  uk: 1540
+  doodlebuzz.com: 2394
+  "@jacquelinestone": 2172
+  somerset: 1883
+  apache: 1503
+  slips: 279
+  ha: 319
+  developer-new: 1521
+  "@antonkovalyov": 1089
   finished: 260
-  master: 3241
-  chewing: 363
-  "18": 2733
-  ? !binary "55Sa5piv5py654G15Y+v54ix\n"
-  : 1171
-
-  case: 2082
-  "19": 2134
-  languages: 1561
-  ? !binary "zrHPhc6+zrfOvM6tzr3Otw==\n"
-  : 1437
-
-  kids: 2483
-  tinyurl.com/b4v6eq: 2211
-  friend: 1717
-  twitpic: 2894
-  "tr\xE1\xBB\xAB": 1941
-  tinyurl.com/cdqz34: 1405
-  logged: 287
-  ? !binary "54++5Zyo44Gn44KC5aWz5YSq44Go44GX44Gm5rS76LqN44GV44KM44Gm44GE\n\
-    44KL5pa544Gn44Gv44Gq44GP\n"
-  : 937
-
-  ca-temecula-92590: 842
-  "qu\xC3\xA1": 2032
-  tinyurl.com/c758eu: 1097
-  "ph\xE1\xBA\xA3i": 2384
-  nbsp: 2132
-  bit.ly/q3ipv: 522
-  connect: 1768
-  orange: 1549
-  verify: 3088
-  trempt: 3081
-  center: 2639
-  poodle: 2938
-  changing: 2226
-  bobzimmerman: 716
-  provides: 386
-  twurl.nl/q2nm7d: 2330
-  member: 1595
-  indispensable: 2799
-  web: 793
-  apsoft1: 602
-  tinyurl.com/anjwh7: 776
-  ? !binary "5ZCJ54i+5ZCJ5pav6Zec6ZaJ576O6LuN5Z+65Zyw\n"
-  : 1219
-
-  "u\xE1\xBB\x91ng": 2391
-  snow: 575
-  ? !binary "4LmA4Lii4Li34Lit4LiZ4Lit4Li04LiZ4LmC4LiU4LiZ4Li14LmA4LiL4Li1\n\
-    4Lii4LmA4Lib4LmH4LiZ4LiX4Liy4LiH4LiB4Liy4Lij4LmB4Lil4LmJ4Lin\n"
-  : 1502
-
-  conver: 2210
-  pays: 2606
-  poodlelady: 2937
-  maybe: 311
-  jobsurl.com/17c7: 2420
-  details: 2458
-  ? !binary "5omL5py65Zu+54mH\n"
-  : 1155
-
-  "qu\xC3\xAA": 2047
-  "c\xC3\xA9lkit\xC5\xB1z\xC3\xA9snek": 2292
-  ping.fm/jixns: 1580
-  http: 1928
-  blah: 3160
-  dome: 2667
-  haunted: 3189
-  tinyurl.com/dep3u7: 2625
-  song: 541
-  finishes: 3020
-  "\x97\xE4\xBA\xAC\xE5\x9C\xB0\xE9\x90\xB5\xE5\x8E\xBB\xE5\xB9\xB4\xE6\x9F\xA5\xE5\x87\xBA3.7": 1131
-  pluck: 2728
-  tinyurl.com/cxbvac: 1175
-  becoming: 2958
-  inching: 1823
-  xfm: 267
-  virtual: 1654
-  ? !binary "zrHPhc+Ezr/Ous65zr3Ot8+EzrnPg8+Ezq3Pgg==\n"
-  : 1447
-
-  www.crowdspring.com: 3165
-  speak: 1560
-  rock: 1821
-  sure: 414
-  images: 1917
-  animal: 881
-  ? !binary "6aOb5qmf6ZmN6JC95YmN5pu+6YGH5rCj5rWB\n"
-  : 1143
-
-  ship: 474
-  content: 1893
-  surf: 574
-  windows: 558
-  always: 175
-  ? !binary "15jXldeV15nXmNek15XXodeY\n"
-  : 1478
-
-  capcom: 439
-  foto: 2344
-  candidates: 1574
-  contracttoperm: 2217
-  funding: 3031
-  yea: 1926
-  "zen\xC3\xA9sz\xC3\xA9nek": 2288
-  ? !binary "zq3Ous6xzr3Osc69\n"
-  : 1418
-
-  ? !binary "0LrQvtC7\n"
-  : 1310
-
-  group: 1924
-  ? !binary "4LmE4LiU4LmJ4LmA4Lij4Li04LmI4Lih4Liq4LmI4LiH4LiI4LiU4Lir4Lih\n\
-    4Liy4Lii4LmA4LiV4Li34Lit4LiZ4LmD4Lir4LmJ4Lic4Li54LmJ4Lic\n"
-  : 876
-
-  evening: 1662
-  find: 105
-  ? !binary "zrHPg8+Ez4U=\n"
-  : 1438
-
-  syntax: 502
-  smart: 2910
-  catalinzima: 1724
-  voted: 545
-  sales: 1523
-  woolly: 527
-  pokol: 2287
-  seedstarting: 3098
-  tinyurl.com/b6utww: 1246
-  theyll: 2771
-  zi.ma/2658c8: 2620
-  coach: 2434
-  san: 865
-  eclipse: 2538
-  selfridges: 2655
-  front: 1733
-  sap: 3075
-  models: 3050
-  masseuse: 2560
-  commu: 845
-  where: 3136
-  "c\xE1\xBB\xA5": 2275
-  "ch\xE1\xBA\xA5p": 1972
-  tinyurl.com/b6hzuq: 901
-  route: 3124
-  ward: 1593
+  stuck: 2742
+  "@dannymacrant": 2667
+  jobsurl.com/c5: 858
+  hai: 1604
+  "45": 856
+  cli.gs/q3ttg: 1935
+  comscore: 79
+  otoplasty: 322
+  late: 865
+  jus: 2192
+  hiring: 693
+  "41.15": 922
+  hd: 888
+  "47": 1031
+  available: 1161
+  he: 350
+  tinyurl.com/aqzuo: 1079
+  "48": 1011
+  freeze: 1227
+  up: 26
+  circulated: 515
+  password: 1312
+  treadmill: 1395
+  "@johnroquemore": 2383
+  log: 1991
+  money: 202
+  items: 464
+  finally: 287
+  tutorial: 2002
+  seattle: 1363
+  abuse: 17
+  brought: 2337
+  "@minervity": 2262
+  self: 1340
+  vars: 1684
+  strong: 1415
+  us: 82
+  they: 656
+  related: 1622
+  tinyurl.com/db9od: 1067
+  change: 2761
+  realised: 2123
+  weird: 723
+  hint: 1473
+  b2b: 1324
+  frisbee: 953
+  illinois: 2651
+  south: 1750
+  hi: 359
+  boring: 420
+  b2c: 1325
+  hj: 1016
+  lol: 492
+  town: 2553
+  annum: 1886
+  offers: 1315
+  has: 54
+  organisation: 1413
+  pleeease: 1495
+  gubernatorial: 1236
+  homes: 2754
+  "@firetown": 2594
+  poll: 2496
+  fellow: 1982
+  dashboard: 1342
+  "3500": 1049
+  hat: 523
+  valley: 1183
+  lexington: 2664
+  tinyurl.com/cys7r: 2525
+  hm: 1498
+  sell: 363
+  silence: 12
+  touched: 281
+  rockstar: 1397
+  kellan: 2789
+  series: 875
+  approved: 1466
+  "@laurakennedy": 2414
+  "@2ndomo": 2205
+  f-secure: 1216
+  projects: 1419
+  finishes: 2483
+  references: 824
+  san: 860
+  truck: 2804
+  upper: 2484
+  open: 2029
+  virtualassistantadvantage.blogspot.com: 1298
+  www.macupdate.com/info.php/id/30345/submarin: 1548
+  soon: 473
+  trong: 1575
+  tinyurl.com/bpak4: 988
+  concern: 2684
+  sooo: 2580
+  sap: 2536
+  ohio: 2310
+  "@itsallsuccess": 2269
+  situation: 2177
+  merseyside: 1524
+  quickbooks: 934
+  lot: 75
+  hay: 1584
+  "@stancollymore": 399
+  tinyurl.com/d6bar: 1087
+  tinyurl.com/bbju8: 325
+  wasnt: 2228
+  snek: 1813
+  "@alandruslesene": 2226
+  number: 1775
+  opportunities: 1285
+  fleece: 2564
+  styledev.com: 2439
+  premises: 2376
+  rksammar: 1015
+  neuen: 964
+  tinyurl.com/bhrgo: 1054
+  into: 45
+  still: 100
+  "@iamruinous": 2513
+  words: 2185
+  roland: 1300
+  even: 181
+  esta: 186
+  ":(": 148
+  question: 2538
+  envy: 2027
+  sau: 1788
+  panama: 1457
+  tinyurl.com/d2qqp: 920
+  tinyurl.com/corry: 1028
+  ":)": 296
+  while: 395
+  govt: 504
+  latte: 2774
+  looking: 577
+  "off": 60
+  pumped: 532
+  review: 2141
+  boards: 1936
+  scams: 508
+  arrest: 169
+  tinyurl.com/ddt6s: 1197
+  ever: 316
+  "!": 48
+  smell: 2641
+  spiralling: 2449
+  ppl: 2062
+  death: 1283
+  say: 143
+  tokyo: 2719
+  replied: 2403
+  "@aerosolme": 2254
+  unless: 2108
+  japanese: 1943
+  file: 1992
+  tinyurl.com/cdbgd: 1742
+  cravat: 388
+  inching: 1464
+  pound: 2523
+  "1014.4": 2287
+  years: 2112
+  tinyurl.com/bueor: 1127
+  wow: 138
+  went: 443
+  tinyurl.com/ydk69: 115
+  don't: 180
+  tinyurl.com/dljrv: 911
+  tinyurl.com/cys65: 1040
+  "@myfirstpaycheck": 1711
+  production: 1319
+  header: 2058
+  "@int23": 1743
+  tinyurl.com/b89z3: 735
+  tinyurl.com/az4c7: 1136
+  rasley: 2663
+  talk: 2306
+  female: 2065
+  traffic: 1977
+  databasedevelopment: 1433
+  hawaiian: 1334
+  mortgage: 244
+  maturity: 1967
+  tinyurl.com/cdbgk: 1070
+  tinyurl.com/bgcx6: 672
+  packing: 297
+  free: 1309
+  "2007": 992
+  live: 160
+  tinyurl.com/awp5t: 1102
+  f&b: 2050
+  "2008": 1109
+  affiliate: 1179
+  storage: 852
+  letting: 2357
+  film: 2243
+  "2009": 81
+  database: 633
+  technology: 1673
+  be..: 2463
+  ide: 2005
+  jobfeedr.com: 1258
+  wear: 394
+  wikipedia: 1095
+  bushaw: 2438
+  "@girlgamer": 541
+  "@etanowitz": 2630
+  celebrate: 2454
+  control: 2343
+  thing: 1351
+  kind: 347
+  face: 1200
+  maybe: 313
+  "409": 1114
+  "0": 155
+  ng: 1592
+  probation: 1224
+  shader: 1371
+  high: 283
+  "1": 876
+  curious: 7
+  maand: 432
+  turn: 224
+  nh: 1583
+  bonuses: 2335
+  www.quirk.biz/career/opportunity/23: 2020
+  especially: 2014
+  online: 1725
+  str: 438
+  tinyurl.com/cnlk5: 929
+  career: 1255
+  "2": 1038
+  several: 800
+  loko: 910
+  hollywood: 2593
+  magazine: 2011
+  "3": 811
+  eve: 2781
+  blah: 2619
+  kinh: 1829
+  tinyurl.com/6ep62: 818
+  lakes: 761
+  think: 474
+  front-end: 1375
+  when: 650
+  "4": 1115
+  different: 1352
+  health: 2469
+  dads: 2219
+  bed: 2165
+  come: 2031
+  motley: 1289
+  "5": 120
+  nl: 1425
+  curler: 2786
+  "6": 2386
+  "@applewha1": 2308
+  tinyurl.com/bmepp: 879
+  transformation: 1337
+  reed: 746
+  local: 2703
+  track: 2631
+  bit.ly/1146x: 1926
+  friday: 1707
+  results: 1354
+  check: 871
+  tqp: 907
+  sounds: 748
+  http: 1562
+  hanazukin: 998
+  "7": 255
+  wakestock: 960
+  oscar: 465
+  tinyurl.com/dln9k: 608
+  decisions: 2671
+  brr: 2571
+  francisco: 861
+  tinyurl.com/c5bwj: 954
+  "8": 1294
+  dreaming&nbsp: 2833
+  karl: 2820
+  coach: 1903
+  tanto: 1849
+  winning: 1772
+  joomla: 1616
+  soul: 384
+  mid-to-sr: 606
+  "9": 1058
+  tinyurl.com/bkggd: 1137
+  website: 1532
+  "no": 144
+  spanish: 1205
+  casino: 2668
+  bit.ly/rhfe: 2541
+  attacks: 2467
+  "@bethanie": 1445
+  com: 1292
+  plan: 245
+  session: 2377
+  con: 1674
+  tinyurl.com/bc7df: 943
+  march: 740
+  coo: 2093
+  reading: 1076
+  london: 1479
+  good: 339
+  www.realwebjobs.com/view/367.ph: 1159
+  developers: 801
+  suggestions: 2715
+  soup: 676
+  ah: 571
+  weberp: 1514
+  changes: 1519
+  campaigns: 2611
+  part-time: 1330
+  bem: 909
+  social: 364
+  uncontrollably: 2232
+  "?": 5
+  "3.72": 923
+  chasing: 2602
+  lazy: 2164
+  wordpress: 2075
+  sous: 2047
+  these: 1862
+  creator: 2592
+  meg: 1818
+  long-term: 1782
+  meatballs: 1699
+  tinyurl.com/anwma: 1117
+  tinyurl.com/9kvgv: 1672
+  old: 263
+  lamp: 1504
+  django: 1436
+  woodsen: 199
+  coachposted: 1345
+  am: 518
+  looks: 2810
+  exec: 2046
+  foto: 1844
+  terrible: 1721
+  chinese: 503
+  an: 55
+  seem: 22
+  bit.ly/2wwk: 1513
+  treating: 1248
+  ny: 589
+  multi: 2521
+  seen: 2456
+  interesting: 1418
+  "2.500": 1866
+  tinyurl.com/c3exl: 1794
+  iphone: 593
+  americans: 499
+  fire: 2552
+  archives: 990
+  advance: 2202
+  walked: 2119
+  appointments: 1940
+  as: 559
+  solutions.we: 2178
+  rinti: 1819
+  useful: 129
+  www.asksaurabh.com/listings/3: 1497
+  omniti: 819
+  at: 97
+  sees: 2723
+  poet: 2366
+  syntax: 497
+  york: 846
+  not: 52
+  jay: 422
+  cammack: 1232
+  dehli: 894
+  page: 242
+  lucky: 2369
+  kiddin: 2330
+  away: 1392
+  who: 116
+  marketing: 588
+  "30273": 1650
+  already: 68
+  help: 371
+  lefty: 2410
+  sampler: 2289
+  bother: 1567
+  commu: 840
+  muuuuyyyy: 191
+  london-london-w1w: 1542
+  2pm: 2506
+  1st: 2043
+  might: 1209
+  cursing: 486
+  bit.ly/rpbx: 1429
+  now: 207
+  becoming: 2419
+  met: 2400
+  voor: 941
+  administrator: 2698
+  meu: 1853
+  server: 635
+  must: 176
+  tinyurl.com/b99ou: 896
+  content: 1528
+  az: 1671
+  sussex: 1275
+  firm: 715
+  "@reply": 804
+  david: 2508
+  ziglar: 2189
+  maddison: 1659
+  uientaart: 915
+  decided: 1637
+  ship: 469
+  developper: 788
+  and: 15
+  surfs: 2598
+  te: 1857
+  continue: 1856
+  pim: 1422
+  lead: 643
+  coldfusion: 1501
+  tried: 832
+  monster: 834
+  methods: 230
+  joel: 2799
+  answer: 660
+  "30": 285
+  you: 152
+  th: 816
+  jobfeedr: 1253
+  party: 2561
+  "32": 2263
+  microsoft: 627
+  ti: 1614
+  baseless: 498
+  minute: 1484
+  "@libbyander": 692
+  twitpic.com/1mgc: 2106
+  werbemitteln: 965
+  why: 175
+  chat: 2780
+  "34": 2705
+  cairo: 2554
+  tinyurl.com/d8zzz: 2487
+  growth: 2349
+  ga: 705
+  waialua: 1266
+  newest: 1186
+  video: 620
+  special: 390
+  dreaming: 2830
+  hosting: 2757
+  overbooked: 2745
+  two: 2417
+  twurl.nl/hdkpv: 2320
+  "20728": 375
+  buzz: 1470
+  mode: 2646
+  "@epatientdave": 2329
+  former: 1901
+  orange: 1196
+  holiday: 472
+  vancouver: 892
+  "@zeinobia": 2551
+  august: 2501
+  "@kcarruthers": 1976
+  tinyurl.com/bdwp7: 900
+  tiny: 830
+  cha: 1615
+  to: 23
+  hired: 686
+  "@stockaapl": 2251
+  fucking: 2009
+  menu: 1897
+  tinyurl.com/bsggv: 1055
+  walk: 1394
+  event: 467
+  handle: 1561
+  100k: 639
+  close: 2650
+  consulting: 2094
+  tinyurl.com/bllmv: 1906
+  paycheck: 1880
+  zzzz: 444
+  done: 662
+  perfect: 1443
+  tragedies: 333
+  100m: 2334
+  nashv: 1241
+  trainee: 736
+  advice: 821
+  tr: 1574
+  analysis: 844
+  "@wefollow": 2244
+  tinyurl.com/c3zno: 1094
+  tinyurl.com/cgmce: 1141
+  bit.ly/hmfi: 2448
+  spinning: 2015
+  scala: 1648
+  such: 173
+  subscription: 2550
+  fair: 2278
+  tinyurl.com/avwef: 2023
+  html: 2018
+  sms: 1763
+  gi: 1573
+  counseling: 782
+  tinyurl.com/aad2y: 1128
+  mean: 543
+  song: 536
+  notes: 1640
+  here: 548
+  tinyurl.com/b3ty9: 893
+  tinyurl.com/adx7h: 881
+  suck: 2196
+  tinyurl.com/cpykp: 1538
+  a: 74
+  tv: 416
+  eatthecakenyc.viewbook.com: 2375
+  everything: 2344
+  chi: 1793
+  outside: 1169
+  upcoming: 1269
+  b: 1585
+  convention: 520
+  tx: 2697
+  100s: 2298
+  vision.wh: 2175
+  listed: 2144
+  c: 638
+  unbelievably: 1398
+  tinyurl.com/ckrjw: 898
+  anal: 847
+  menthol: 356
+  d: 1107
+  prod: 1680
+  any: 214
+  test: 2824
+  sacto: 2562
+  strategists: 1969
+  sexy: 1730
+  wednesday: 414
+  "91.93": 946
+  go: 528
+  right: 146
+  capcom: 434
+  e: 1189
+  dee: 421
+  action: 779
+  circle: 2692
+  shoe: 2077
+  f: 2052
+  senate: 1302
+  asked: 653
+  drinking: 2708
+  reduce: 2465
+  photog: 2373
+  intern: 1934
+  potrero: 1766
+  exists: 1570
+  "@tamronhall": 684
+  perez: 1004
+  g: 1611
+  last: 1483
+  requests: 1563
+  cuz: 2201
+  responding: 491
+  gr: 1084
+  "250": 1056
+  7nr: 1543
+  cho: 1613
+  h: 1594
+  hires: 1233
+  wedding: 2530
+  twttr: 2300
+  "251": 1116
+  citizens: 168
+  i: 32
+  haciendo: 190
+  dont: 2638
+  match: 2489
+  "@chadselph": 1959
+  gia: 1868
+  j: 1833
+  gt: 590
+  level: 1571
+  shadows: 2206
+  k: 1827
+  fixing: 1626
+  systems: 1646
+  house: 610
+  nhi: 1595
+  joke: 2575
+  address: 2305
+  essa: 1843
+  media: 1234
+  l: 1602
+  ailments: 1249
+  williams: 2388
+  anymore: 53
+  "@megyay": 49
+  "@johnalexhall": 314
+  m: 1587
+  careerbuilder.com: 708
+  "@grobertson": 2323
+  ahogy: 1815
+  phone: 719
+  super: 1439
+  n: 1220
+  "@beltzner": 2784
+  durham: 2756
+  o: 64
+  entire: 170
+  lap: 488
+  deciding: 2711
+  programming: 493
+  phong: 1576
+  p: 1588
+  israel: 758
+  hour: 104
+  kiddos: 2614
+  many: 1980
+  las: 1998
+  tinyurl.com/cdqz3: 1129
+  r: 1221
+  der: 198
+  recruiter: 700
+  problem: 2211
+  teacher: 1944
+  speedy: 121
+  s: 556
+  take: 471
+  application: 599
+  status: 412
+  tinyurl.com/cwj48: 1050
+  tinyurl.com/cc2zf: 1112
+  prospects: 743
+  t: 111
+  photos: 895
+  very: 128
+  soccer: 62
+  appear: 2776
+  shot: 2493
+  lkit: 1811
+  ward: 1238
+  "598.50": 1027
+  "91": 1025
+  race: 1237
+  u: 442
+  wine: 2778
+  fellinis: 1734
+  info: 1366
+  19-2: 1597
+  tweets: 1477
+  v: 1579
+  portland: 2273
+  w: 1831
+  beatles: 661
+  native: 827
+  agua: 1019
+  digital: 39
+  law: 1191
+  sunday: 2223
+  show: 209
+  x: 1581
+  cambridge: 630
+  flu: 227
+  tinyurl.com/cg53e: 1769
+  ma: 631
+  intraday: 282
+  tinyurl.com/awghy: 1113
+  listening: 262
+  y: 1577
+  avoid: 2340
+  mb: 2288
+  z: 1812
+  ltd: 1661
+  rails: 1264
+  thrashers-coyotes: 1147
+  twurl.nl/dcfuf: 849
+  attention: 2309
+  tinyurl.com/crz6z: 1631
+  occl: 1190
+  fly: 2758
+  md: 2503
+  obama: 243
+  tinyurl.com/c9qq3: 1065
+  spent: 103
+  computer: 290
+  was: 50
+  arrogance: 1491
+  "@e": 2620
+  age: 2069
+  exposure: 2039
+  me: 96
+  copywriter: 694
+  mxm03: 1643
+  spinweb: 1932
+  racists: 1863
+  once: 306
+  speak: 1207
+  warm: 2574
+  tragic: 1053
+  mh: 2476
+  bristol: 1882
+  specific: 1746
+  kospi: 921
+  tinyurl.com/cu3w7: 956
+  zen: 1801
+  ingbo: 887
+  www.realwebjobs.com/development/368.ph: 1666
+  tinyurl.com/d47ab: 1037
+  vechtgameserie: 437
+  way: 335
+  "@donaldmcmillan": 1632
+  "@thisgoodlife": 1100
+  however: 829
+  tinyurl.com/bvmar: 901
+  closer: 1007
+  steps: 2346
+  massage: 2026
+  "@l": 1791
+  yahoo: 962
+  scare: 1950
+  wars: 495
+  praise: 386
+  oxf: 2524
+  great: 760
+  mn: 1485
+  pre-opening: 2044
+  pretty: 1281
+  "@myfabolouslife": 2636
+  length: 2450
+  "@debs": 2406
+  using: 1551
+  hunters: 1454
+  tinyurl.com/bfuuk: 2730
+  cnn: 2609
+  insult: 338
+  auction: 463
+  doing: 1441
+  jobsearch: 1488
+  since: 2546
+  erstmal: 2256
+  tr.im/hns: 2253
+  skinny: 2066
+  sites: 1964
+  lolapps: 1752
+  tell: 750
+  rockets: 501
+  "@vojha": 149
+  columbia: 1343
+  mr: 343
+  howard: 1955
+  tinyurl.com/aatpl: 1078
+  took: 1212
+  android: 1409
+  theyll: 2236
+  sustainaiblty: 1924
+  mt: 1838
+  tool: 1368
+  fri: 2378
+  poloroid: 2242
+  politics: 691
+  developments: 1459
+  tinyurl.com/ajext: 841
+  should: 657
+  "@serwei": 140
+  mu: 1608
+  nice: 1458
+  brandcenter: 2738
+  browns: 2606
+  "@susanwilke": 2087
+  supremacist: 1859
+  profitable: 1748
+  cards: 1006
+  there: 525
+  someone: 1402
+  "@visualcv": 1291
+  benched: 2743
+  tooo: 2660
+  just: 165
+  tinyurl.com/arhrs: 928
+  god: 346
+  anytime: 2785
+  planning: 2559
+  young: 1930
+  tumblr.com/xt01bsbq: 1873
+  kiruba: 1703
+  composite: 232
+  bean: 674
+  watch: 2250
+  ofwat: 1426
+  energy: 851
+  my: 19
+  full-time: 1262
+  shining: 2769
+  feb: 1346
+  airlines: 1335
+  moment: 2182
+  needed: 1618
+  fed: 2679
+  observation: 2296
+  experiance: 1722
+  www.fictitiousnonsense.com/archives/4: 1559
+  bank: 795
+  time: 78
+  it'd: 392
+  sculpted: 987
+  can: 689
+  summer: 776
+  ecommerce: 1539
+  fee: 2478
+  corporation: 704
+  tinyurl.com/caa6n: 1111
+  didn't: 101
+  myspace: 241
+  died: 2806
+  ehm: 2474
+  beat: 2365
+  chick: 2326
+  west: 1881
+  websites: 1860
+  easier: 1516
+  honest: 2733
+  belgium: 1996
+  cute: 1945
+  tinyurl.com/d8d2h: 1322
+  designers: 1440
+  steve: 659
+  connect: 1407
+  salespeopl: 671
+  car: 2795
+  scary: 2648
+  calling: 2433
+  drigers: 2207
+  parties: 1953
+  brooksbayne: 1463
+  "1869": 991
+  "@hank": 2397
+  winds: 2283
+  amazing: 2216
+  jobsurl.com/17c: 1888
+  letters: 1877
+  create: 1785
+  "3000": 1048
+  letter: 372
+  tinyurl.com/dd235: 1033
+  "@straighttalklmb": 2659
+  beta: 2548
+  "@mikaflyymommy": 2372
+  photo: 2356
+  cat: 2312
+  boyfriend: 2128
+  forward: 1971
+  said: 1960
+  sticky: 1715
+  zombie: 225
+  surry: 1656
+  savvy: 1164
+  wanted: 1512
+  tinyurl.com/auedz: 784
+  consider: 2213
+  colleagues: 1981
+  sa: 1806
+  with: 239
+  absolute: 193
+  overnight: 468
+  put: 95
+  carter: 272
+  onofre: 2599
+  awaited: 2520
+  calendar: 2099
+  fel: 1804
+  begin: 311
+  standard: 655
+  gop: 685
+  sieh: 2255
+  sincere: 2184
+  sc: 2081
+  also: 2053
+  hourly: 1917
+  amc: 1229
+  without: 823
+  decision: 377
+  cover: 535
+  sd: 2597
+  watchin: 2114
+  fundo: 1852
+  nerves: 94
+  goal: 670
+  virtual: 1296
+  internships: 733
+  yeah: 150
+  replying: 2814
+  mp3: 2531
+  "@youritgirl": 2204
+  tinyurl.com/aqo9c: 439
+  se: 188
+  sf: 2361
+  usa: 1265
+  got: 153
+  unpacking: 2683
+  swerve: 2231
+  pcamp09: 2140
+  price: 2041
+  cora: 1854
+  tinyurl.com/cpnwu: 1061
+  rogers: 344
+  usb: 978
+  "20": 302
+  funds: 2819
+  gov: 2495
+  "21": 2199
+  php: 786
+  shyouhei: 1652
+  "4633.94": 947
+  affili: 1188
+  object: 204
+  tinyurl.com/ajqhm: 938
+  you'd: 2675
+  december: 2670
+  live-ma: 2260
+  ron: 1954
+  pull: 2237
+  "@deborah91473": 2154
+  nasty: 2126
+  25k: 1506
+  use: 73
+  tinyurl.com/c4prn: 1083
+  positions: 2037
+  tinyurl.com/bwbbv: 1621
+  twitter: 59
+  global: 581
+  fund: 580
+  tough: 1641
+  thanks: 67
+  ??: 2277
+  pluck: 2193
+  bridal: 2076
+  hill: 1767
+  keen: 1438
+  windsurfing: 884
+  "24": 874
+  moneta: 533
+  cocoa: 1547
+  gag-choke-puke: 2324
+  "25": 2301
+  degrees: 2279
+  few: 2183
+  line: 1465
+  year: 2628
+  keep: 1879
+  april: 479
+  "@jimmyjimjoes": 2809
+  called: 2452
+  "@roxxx": 2384
+  "27": 2379
+  nay: 1871
+  industries: 1665
+  ashamed: 361
+  ping.fm/jixn: 1225
+  so: 268
+  mind: 2763
+  ramses: 2555
+  mastercards: 2428
+  amo: 1842
+  soma: 1749
+  "@laerwen": 2676
+  erica: 2473
+  dome: 2134
+  dealt: 2109
+  manufacture: 231
+  located: 1272
+  sq: 790
+  mine: 273
+  relocation: 2082
+  over: 549
+  sr: 1336
+  link: 2117
+  vegas: 1999
+  basically: 530
+  probably: 417
+  coffee: 2225
+  training: 63
+  waiting: 308
+  slr: 40
+  nation: 261
+  some: 107
+  hoax: 512
+  term: 1167
+  member: 1240
+  tinyurl.com/b2olj: 1043
+  window: 2766
+  resource: 2623
+  st: 2556
+  grapevine: 2290
+  scrapbook: 2033
+  whole: 1731
+  end: 526
+  til: 477
+  corn: 675
+  tinyurl.com/af2ql: 2808
+  rates: 2057
+  insurance: 41
+  public: 2826
+  windows: 553
+  name: 20
+  hackernews: 2831
+  sw: 2755
+  vote: 2704
+  funding: 2494
+  ceos: 1941
+  internship: 739
+  politicians: 407
+  warned: 511
+  yay: 539
+  womens: 2120
+  "@bageltechnews": 367
+  stand: 1490
+  tinyurl.com/bwcrf: 256
+  "2600": 2485
+  up-and-coming: 1929
+  tinyurl.com/cowt7: 1753
+  professionals: 1247
+  tinyurl.com/bzffq: 983
+  sz: 1802
+  wal-mart: 1739
+  making: 378
+  idol: 135
+  tinyurl.com/b9amx: 973
+  asp.ne: 1446
+  girth: 2451
+  www.realwebjobs.com/view/369.ph: 1153
+  article: 2610
+  "@aceconcierge": 2180
+  gurus: 1931
+  practicing: 1771
+  forever: 1230
+  "@macdiva": 568
+  mins: 2735
+  workshop: 2435
+  consumer: 1974
+  important: 1404
+  worker: 2327
+  peeps: 2032
+  tuned: 1469
+  ruby: 1263
+  love: 133
+  temecula: 838
+  tinyurl.com/bfbel: 1052
+  3rd: 2411
+  sxsw: 2293
+  pizza: 2166
+  language: 494
+  intuit: 933
+  well: 457
+  rocking: 387
+  gun: 1235
+  240x320: 1042
+  based: 496
+  place: 2239
+  pays: 2072
+  jonas: 1384
+  lunch: 2429
+  emergency: 2315
+  adding: 2097
+  dishes: 1780
+  singapore: 648
+  lengths: 527
+  "@cosmocatalano": 211
+  ease: 98
+  contest: 2702
+  "248": 1059
+  company: 602
+  highway: 2803
+  things: 2686
+  ngo: 1867
+  lottery: 1773
+  hire: 605
+  "1998": 1046
+  stomach: 2677
+  minneapolis-st: 2280
+  www.marty-collins.com: 2089
+  have: 69
+  knowledge: 1647
+  cats: 2771
+  "@andr8a": 2707
+  wants: 370
+  senior: 624
+  tinyurl.com/bcyuu: 1018
+  girl: 201
+  atlanta: 706
+  urgh: 2618
+  "@carogonza": 2572
+  significant: 2348
+  cakephp: 2246
+  after: 2111
+  tinyurl.com/bakh8: 1009
+  run: 2459
+  woot: 1958
+  "@ssig33": 1064
+  "@malarkey": 18
+  christmas: 46
+  vcu: 2737
+  lounge: 2634
+  jojo: 2533
+  purchase: 2442
+  paper: 398
+  salespeople: 668
+  less: 337
+  twurl.nl/m62qn: 1329
+  ngu: 1612
+  "@bobzimmerman": 709
+  store: 1271
+  guy: 134
+  nytimes: 842
+  ask: 317
+  comforce: 703
+  tremendous: 2038
+  ear: 1835
+  engineering: 1762
+  la: 184
+  tinyurl.com/apqxk: 1144
+  this: 334
+  hours: 219
+  laptops: 2382
+  experience: 1326
+  tinyurl.com/cnuo2: 961
+  eat: 2681
+  accept: 2176
+  reporters: 2013
+  education: 324
+  developed: 1386
+  grind: 310
+  everybody: 2510
+  click: 1896
+  crime: 1492
+  scie: 1692
+  culture: 10
+  progress: 2409
+  recruitment: 717
+  rose: 985
+  asp: 1448
+  "@trempt": 2542
+  friends: 2416
+  tinyurl.com/dcn7w: 1029
+  tinyurl.com/c2nev: 897
+  east: 1274
+  reynir@hugsmidjan.is: 730
+  cisco: 2694
+  kid: 2617
+  yr: 2424
+  drupal: 1995
+  humble: 352
+  junior: 791
+  see: 385
+  creators: 1756
+  apresentador: 908
+  issues: 1654
+  reply: 2056
+  tinyurl.com/cklmd: 1150
+  etc: 825
+  bca: 772
+  capital: 584
+  flavor: 348
+  three: 2491
+  strategy: 1962
+  her: 1865
+  tinyurl.com/c99fc: 905
+  tinyurl.com/dazn2: 126
+  flash: 1663
+  holly: 2579
+  "@andrewwindham": 2294
+  message: 2210
+  sheets: 2104
+  direct: 376
+  tinyurl.com/cnvl5: 1039
+  having: 481
+  left: 238
+  "@secrettweet": 374
+  concrete5: 1527
+  10-20: 2661
+  via: 1975
+  45k: 1487
+  too: 669
+  agent: 718
+  engineers: 1206
+  recession: 216
+  lake: 2445
+  sonoma: 2389
+  mph: 2284
+  lm: 1805
+  top: 489
+  tired: 1313
+  kill: 2570
+  delayed: 2517
+  state: 171
+  "@gaojiamin": 912
+  salesforce.com: 1403
+  sem: 757
+  talented: 726
+  students: 2739
+  source: 2591
+  twurl.nl/tfe7b: 1870
+  sen: 1808
+  later: 1396
+  were: 203
+  deutsche: 794
+  nature: 989
+  tinyurl.com/c2gyc: 2006
+  "@primaryposition": 1927
+  tinyurl.com/b4v6e: 1760
+  tinyurl.com/bykh4: 1347
+  tinyurl.com/b5pvg: 1077
+  would: 345
+  "@juliebanderas": 156
+  manual: 1515
+  siemens: 1131
+  according: 2350
+  mca: 773
+  developer: 576
+  hey: 441
+  para: 1020
+  pay: 1308
+  tinyurl.com/cswaaop: 1068
+  ff.im/-19m5: 1489
+  cheap: 2125
+  consultants: 1963
+  hair: 1948
+  cheaper: 1204
+  kenya: 783
+  story: 2604
+  nossa: 1845
+  ls: 1836
+  offender: 563
+  bind: 1683
+  neat: 2462
+  lt: 1839
+  tinyurl.com/cayhs: 1134
+  sterling: 1257
+  county: 1195
+  "@parnellk63": 2748
+  months: 2418
+  is.gd/klh: 1942
+  tinyurl.com/cxeoo: 1825
+  lu: 251
+  expert: 596
+  instead: 1213
+  ontario: 1152
+  programmers: 728
+  seemed: 336
+  itms: 1202
+  parking: 2796
+  own: 2319
+  view: 2096
+  "100": 944
+  set: 210
+  providing: 2690
+  wolff: 2509
+  shoundn't: 2490
+  engineerin: 1768
+  "@pirateruth": 413
+  middle: 1373
+  home: 785
+  favorite: 194
+  january: 80
+  editors: 1895
+  g.cl: 1834
+  california: 574
+  imac: 38
+  www.se: 1536
+  tinyurl.com/b5fff: 1149
+  front: 2049
+  associates: 1676
+  tinyurl.com/d5vpy: 870
+  ly: 1601
+  argh: 1228
+  "104": 1690
+  design: 623
+  tinyurl.com/ca6ef: 862
+  deadline: 304
+  arts: 1307
+  sex: 562
+  wihtin: 1472
+  errors: 1627
+  searching: 2396
+  invested: 2391
+  viewing: 1993
+  "@kevincupp": 1712
+  ready: 298
+  visual: 625
+  really: 246
+  i'll: 1393
+  market: 698
+  ride: 2247
+  flowi: 1629
+  tinyurl.com/axbye: 995
+  companies: 1356
+  fanta: 2168
+  other: 724
+  management: 863
+  ctia: 1410
+  stick: 721
+  verdict: 2734
+  aint: 2644
+  airport: 2282
+  "@loveableme510": 2146
+  tinyurl.com/ak2lj: 869
+  norfolk: 1505
+  week: 550
+  screen: 487
+  shoulders: 2147
+  nurse: 1921
+  twurl.nl/ixtff: 1790
+  tinyurl.com/d6mxa: 1142
+  tinyurl.com/bhuoq: 561
+  mcknight: 2534
+  side: 365
+  guarantee: 1282
+  mnbvcxz: 2540
+  "@roblanning": 2085
+  international: 1412
+  wish: 796
+  "5397611": 233
+  ra: 1603
+  sanity: 2823
+  "@fweez": 2682
+  round: 2412
+  customer: 2143
+  mistakes: 1938
+  pokol: 1800
+  about: 8
+  cities: 2713
+  tinyurl.com/b5rpn: 2322
+  coordinator: 2090
+  meglehet: 1807
+  process: 725
+  contracts: 1471
+  ruby19: 447
+  sales: 1170
+  tinyurl.com/afq3r: 2835
+  pilkington: 2821
+  which: 2712
+  needs: 2688
+  tinyurl.com/cmq9a: 1786
+  nadiatanya: 1628
+  assistant: 1297
+  tinyurl.com/aazwk: 899
+  look: 1203
+  deserve: 2764
+  orlando: 2380
+  gah: 545
+  30-50k: 1481
+  re: 516
+  around: 13
+  dewey: 2437
+  pty: 1660
+  voted: 540
+  browsing: 124
+  analysts: 712
+  "10": 902
+  suspicious: 2167
+  including: 1965
+  tinyurl.com/anjwh: 770
+  creative: 695
+  it&: 554
+  php4: 1624
+  wife: 142
+  tiredddd: 2731
+  rad: 2421
+  skills: 2016
+  hoping: 223
+  reveal: 534
+  "12": 1120
+  old-school: 240
+  adopt: 2311
+  "3332": 2001
+  ski: 1174
+  "13": 1125
+  hungry: 341
+  tinyurl.com/al645: 979
+  featured: 2626
+  users: 1557
+  "14": 1081
+  person: 293
+  pclp: 1639
+  twitpic: 2355
+  all: 295
+  complicated: 1499
+  "15": 112
+  bit.ly/hvwr: 1635
+  parked: 2794
+  keith: 2749
+  tinyurl.com/bxfjn: 817
+  "16": 401
+  the: 9
+  ed: 2131
+  "@jayspear": 1907
+  big: 289
+  "17": 878
+  hilary: 2759
+  shower: 2642
+  "@adesoji": 2415
+  "18": 2198
+  taught: 1727
+  role: 1377
+  "@catalinzima": 1367
+  gas: 355
+  looked: 1369
+  tinyurl.com/bbgn4: 1001
+  fico: 2537
+  projector: 2381
+  tobacco: 358
+  "19": 903
+  seems: 2297
+  passed: 1223
+  smartstreet: 1163
+  thi: 1593
+  drive: 2502
+  disclosure: 2390
+  possibilities: 2179
+  male: 2064
+  eg: 1681
+  tinyurl.com/bo74h: 883
+  logged: 288
+  adversity: 379
+  bit.ly/ndui: 2266
+  gfudolobxywx: 1051
+  tinyurl.com/dkgcc: 916
+  best: 831
+  rs: 284
+  oath: 403
+  apartments: 2249
+  rt: 798
+  administrativeandsupportservicesjobs: 1254
+  hello: 257
+  tinyurl.com/c63cc: 1533
+  through: 2770
+  alicia: 2662
+  subscribing: 2544
+  roll: 2139
+  www.macupdate.com/info.php/id/30504/spik: 1994
+  trump: 1736
+  ek: 1537
+  code: 1554
+  beautiful: 1569
+  warns: 505
+  css: 1122
+  "@yummymummyclub": 2472
+  tho: 1700
+  mpls: 1162
+  shows: 267
+  "@chrisilluminati": 2813
+  em: 1796
+  catch: 159
+  "@griffinstenger": 2393
+  clouds: 2174
+  sports: 1175
+  "163": 855
+  en: 183
+  tinyurl.com/cvy26: 1071
+  snack: 970
+  onewho: 2313
+  thr: 2060
+  celebrity: 2010
+  greetings: 1620
+  hispanic: 697
+  "@brooksbayne": 799
+  case: 1638
+  techtalk: 1686
+  bit: 482
+  brighton: 1273
+  krupuk: 813
+  conference: 1696
+  yellowknife: 882
+  desiging: 1421
+  follow: 366
+  laughing: 2825
+  extras: 2171
+  economy: 619
+  five: 1277
+  sitting: 609
+  geektopeak: 2441
+  e-mail: 2304
+  tinyurl.com/br9om: 1242
+  thu: 1591
+  min: 303
+  praising: 2238
+  chef: 2048
+  tinyurl.com/c758e: 1013
+  snow: 570
+  battery: 2791
+  whoa: 2607
+  budurl.com/sdeven: 2436
+  eu: 1841
+  "false": 330
+  "@1timstreet": 2632
+  thx: 1406
+  "1983": 654
+  "@atheistium": 291
+  tomorrow.qu: 162
+  heard: 213
+  eind: 430
+  tinyurl.com/djmxm: 966
+  "@tikkers": 2405
+  model: 1968
+  clean: 1910
+  though: 480
+  anybody: 1333
+  djhenry123: 1619
+  nsw: 1658
+  cavalry: 975
+  www.tweetluck.org: 2408
+  office: 305
+  mit: 963
+  facebook: 1332
+  route: 2584
+  cafe: 2363
+  tinyurl.com/amejj: 2347
+  candidate: 2084
+  another: 2054
+  hopefully: 299
+  sleep: 77
+  firefox: 125
+  angst: 939
+  sang: 136
+  accused: 564
+  irre: 1809
+  tinyurl.com/ba3jh: 1787
+  xd: 222
+  arrested: 1956
+  xe: 1821
+  jobsurl.com/29b: 1482
+  director: 1155
+  xin: 250
+  int'l: 1455
+  are: 560
+  dann: 2257
+  rhode: 1899
+  kiruba.com: 1704
+  enemy: 1358
+  government: 510
+  ultimate: 952
+  tinyurl.com/bv9zz: 885
+  doesnt: 2669
+  point: 2160
+  fame: 114
+  mysql: 1362
+  "@plip": 722
+  tinyurl.com/ae52e: 86
+  i-1: 1837
+  20-2: 1824
+  vital: 667
+  omfgepicwinplz: 1276
+  hdd: 1119
+  "71": 1036
+  stuff: 1370
+  wild: 767
+  birmingham: 1428
+  morning: 47
+  wont: 2672
+  gamer: 2245
+  "@lizzeann": 2156
+  masseuse: 2025
+  bothered: 409
+  shall: 749
+  "@memoryline": 1098
+  army: 400
+  join: 1416
+  tinyurl.com/bsxrw: 2612
+  games: 645
+  from: 208
+  tinyurl.com/d2lb7: 1024
+  whom: 4
+  agenda: 1424
+  building: 1691
+  cooking: 673
+  wearing: 521
+  tinyurl.com/cr6am: 948
+  ff.im/1vrh: 2535
+  kc: 2532
+  00place: 1689
+  tinyurl.com/caqka: 1072
+  sql: 634
+  estion-can: 163
+  killed: 2802
+  nyc: 2374
+  indu: 777
+  remarkably: 1568
+  ricky: 264
+  birthday: 1952
+  "@fijiwater": 1923
+  twurl.nl/q2nm7: 1830
+  ginger: 751
+  location: 1280
+  will: 157
+  guess: 226
+  tinyurl.com/impsoljo: 1365
+  pervy: 2797
+  heart: 2466
+  guest: 2035
+  least: 478
+  reviewing: 1961
+  cause: 340
+  confident: 1892
+  kh: 1589
+  shivering: 2568
+  china: 2045
+  ki: 1828
+  rankings: 85
+  tinyurl.com/cv4nz: 997
+  unsigned: 2581
+  layoff: 2341
+  every: 449
+  art: 1154
+  reach: 2751
+  cutest: 2700
+  bbc: 2008
+  bookmarklets: 2265
+  memories: 331
+  tinyurl.com/6nfw6: 950
+  educational: 1320
+  khi: 1599
+  sydney: 1378
+  book: 2627
+  ow.ly/vk: 2194
+  life: 2187
+  systematic: 14
+  prominent: 1239
+  heroes: 137
+  apsoft1: 595
+  geeky: 1698
+  president: 253
+  did: 31
+  tinyurl.com/cvsdt: 1075
+  i'd: 205
+  weight: 1374
+  ca-temecula-92590: 837
+  simple: 592
+  patient: 323
+  hampshire: 854
+  bldg***condo: 2482
+  wack: 2235
+  meet: 2153
+  ripa: 1172
+  jobangels: 716
+  4am: 460
+  excellent: 1534
+  blog.com: 2529
+  resistance: 2173
+  tinyurl.com/dep3u: 2091
+  "@seattlegirl": 2088
+  health-care: 1246
+  can't: 147
+  tinyurl.com/az23x: 974
+  list: 28
+  "2589": 1118
+  mba: 1915
+  smoking: 89
+  dig: 993
+  hbaaagosodbyzhayk: 1074
+  estate: 1193
+  tinyurl.com/byad8: 2800
+  hahaha: 2455
+  blogger: 2036
+  poor: 1682
+  gold: 880
+  tonight: 971
+  pgolubwordpress: 2832
+  haunted: 2649
+  pangea: 2252
+  rate: 1918
+  rtedagen: 1017
+  web: 787
+  tinyurl.com/d6nno: 1138
+  war-time: 332
+  respect: 2
+  dream: 617
+  spring: 2812
+  vesuvio: 2362
+  friend: 1360
+  "8217": 555
+  dvds: 1733
+  unemployed: 1728
+  sort: 1724
+  i'm: 6
+  findin: 2685
+  zi.ma/2658c: 2086
+  share: 1002
+  brand: 36
+  charity: 462
+  honey: 2654
+  jobs.rubynow.com/jobs/show/287: 1267
+  essential: 1449
+  monolithic: 228
+  found: 1311
+  calms: 93
+  certain: 2098
+  est: 189
+  talking: 1316
+  15-ti: 1580
+  "@marismith": 2432
+  levis: 2071
+  mov: 906
+  staff: 1303
+  master: 2699
+  clearly: 2150
+  cleaning: 1912
+  commission: 765
+  dir: 713
+  ny-new: 845
+  failing: 565
+  "@jeffkang": 440
+  outsource: 2055
+  let: 1405
+  cplusplus: 2248
+  does: 1709
+  rice: 768
+  submarine: 1545
+  being: 514
+  gallery: 754
+  portrait: 2588
+  intective: 598
+  never: 315
+  testing: 1549
+  s60: 828
+  speed: 2268
+  call: 2059
+  rzem: 1814
+  tinyurl.com/cnrp9: 1085
+  british: 415
+  chatting: 2270
+  palladium: 1966
+  tay: 1872
+  group: 1558
+  employment: 1287
+  long: 1166
+  zig: 2188
+  myself: 1951
+  shanki: 1783
+  luck: 797
+  simplyhired: 1184
+  under: 2566
+  meanings: 2101
+  daily: 309
+  much: 418
+  thought: 391
+  wales: 2807
+  "1156": 2500
+  diego: 2434
+  bug: 450
+  twitterberry: 2637
+  class.go: 2589
+  daylife: 2392
+  tinyurl.com/d7r9a: 1985
+  mong: 1792
+  laaaaargaaaa: 192
+  hand: 986
+  dolphins: 1898
+  graphic: 1157
+  0494: 1010
+  squarespace: 2621
+  server-side: 1566
+  "@katepurdy": 1160
+  adobe: 484
+  library: 552
+  magpie: 2457
+  green: 2321
+  www.getaplumjob.net: 1178
+  tinyurl.com/b3tjo: 1662
+  rachel: 678
+  animal: 873
+  its: 90
+  than: 1500
+  crap: 2328
+  tinyurl.com/94kzt: 949
+  collabs: 2423
+  vietnamese: 1826
+  "@davejmatthews": 271
+  "02": 1080
+  eye: 2138
+  better: 1864
+  client: 710
+  nite: 1123
+  anything: 2656
+  "4436.94": 1026
+  perm: 1376
+  falls: 1344
+  "@kellan": 2788
+  "@lgriffen": 2359
+  thas: 2234
+  favor: 2214
+  bleep: 294
+  tto: 1596
+  tinyurl.com/cdzqa: 1063
+  dc: 1987
+  jobs: 622
+  tinyurl.com/bvxel: 925
+  that: 72
+  first: 1261
+  amazon: 2426
+  ff.im/-1vub: 2413
+  doe: 640
+  night: 410
+  dog: 2398
+  they're: 2028
+  "141952": 1988
+  could: 1908
+  typeamom: 1894
+  tinyurl.com/aexvs: 1069
+  de: 435
+  30k: 1525
+  09: 927
+  but: 127
+  dilemmas: 572
+  tomorrow: 542
+  colleges: 2573
+  ideas: 2430
+  serial: 994
+  full: 1176
+  tinyurl.com/ctysp: 1143
+  make: 166
+  chance: 476
+  decide: 2680
+  created: 2539
+  gonna: 475
+  huge: 167
+  di: 1582
+  framework: 1530
+  almost: 1467
+  reasons: 1295
+  "@kvanh": 2113
+  liverpool: 1522
+  update: 57
+  breaking: 519
+  wakeboarding: 958
+  buy: 206
+  qu: 1609
+  medical: 1243
+  tinyurl.com/cozwx: 1293
+  starbucks: 2585
+  commonly: 1937
+  afford: 1909
+  cara: 1846
+  "150": 1130
+  twurl.nl/yzolj: 848
+  interview: 793
+  month: 1411
+  "@mdowney": 601
+  officially: 2163
+  robbery: 44
+  music: 615
+  lges: 1214
+  been: 406
+  dm: 805
+  tinyurl.com/btjhq: 649
+  required: 1181
+  tinyurl.com/d8emf: 1798
+  tech: 1744
+  idiot: 174
+  whenever: 1201
+  plenty: 1564
+  card: 936
+  care: 2470
+  collapse: 2339
+  nec: 940
+  tinyurl.com/d96jn: 578
+  do: 33
+  bit.ly/q3ip: 517
+  yummy: 969
+  ottawa: 1151
+  inspiration: 1382
+  animations: 1104
+  g20: 2816
+  indispensable: 2264
+  "702.453": 2000
+  contract-to-perm: 1765
+  pla: 702
+  please: 808
+  beer: 2793
+  destination: 2578
+  bark: 2401
+  cry: 2149
+  teachingjobs: 1889
+  "2.23": 926
+  announced: 254
+  doubleonemedia.com: 1401
+  "@chris": 745
+  playing: 1984
+  ceo: 1939
+  designer: 626
+  magically: 2775
+  mobile-trends: 2498
+  ds: 2034
+  schemers: 1983
+  greets: 448
+  ook: 426
+  dallas: 769
+  brzee: 66
+  timelines: 2461
+  tinyurl.com/cxbva: 1045
+  vai: 1605
+  thursday: 544
+  tinyurl.com/54ccs: 1106
+  copy: 1341
+  contribution: 2583
+  granddaughter: 1946
+  straf: 942
+  contact: 806
+  c&: 1480
+  kids: 1949
+  burris: 1301
+  lily: 196
+  yea: 1560
+  portal: 1668
+  nek: 1803
+  www.watchyourincome.com/executivesearch/webina: 1738
+  business: 585
+  nela: 1847
+  val: 1816
+  "@dehora": 1679
+  description: 1177
+  credit: 935
+  same: 1350
+  slides: 369
+  flood: 690
+  tinyurl.com/b6hzu: 891
+  enthralled: 1947
+  drop: 1379
+  van: 197
+  tinyurl.com/d2kxp: 1770
+  focus: 1420
+  tinyurl.com/bk7yw: 1678
+  vermont: 2577
+  hate: 131
+  your: 141
+  we: 164
+  account: 737
+  tweetluck: 2407
+  pressure: 2285
+  "@tefflox": 1645
+  program: 490
+  tinyurl.com/ddkye: 600
+  startup: 628
+  prosperity: 2765
+  "60": 2480
+  tinyurl.com/c63n3: 2464
+  weary: 2318
+  "@opieradio": 1874
+  school: 1306
+  linux: 1502
+  tinyurl.com/dkoj5: 1096
+  tinyurl.com/d6qxz: 1041
+  details: 1328
+  maddow: 679
+  prepare: 557
+  knowledgeable: 1493
+  mmmm: 2773
+  offline: 2752
+  tibet: 2116
+  "!!!!": 1890
+  services: 714
+  tinyurl.com/adb5k: 999
+  john: 612
+  net: 636
+  engine: 84
+  anniversary: 145
+  resigning: 1299
+  wi-milwaukee: 1245
+  tinyurl.com/at8jd: 2292
+  asking: 720
+  50th: 56
+  fit: 1444
+  psion: 868
+  pls: 1702
+  pffft: 890
+  wk: 424
+  learn: 1695
+  million: 2522
+  erst: 2259
+  3-months: 1764
+  working: 320
+  tinyurl.com/cc9vr: 1544
+  tinyurl.com/c35yd: 1008
+  their: 118
+  austin: 2696
+  stillwater: 2241
+  lots: 2218
+  interested: 2074
+  new: 37
+  effect: 130
+  anywhere: 389
+  collection: 454
+  camera: 2790
+  duff: 2760
+  centre: 2519
+  fall: 178
+  tinyurl.com/cwvtg: 1099
+  wrong: 35
+  "@dmbsfgirl": 270
+  tinyurl.com/dx5bx: 1511
+  starting: 458
+  experts: 1331
+  grim: 2345
+  yep: 2162
+  undergrad: 1916
+  resources: 1726
+  bit.ly/spv: 2103
+  tinyurl.com/b4ako: 968
+  allocation: 451
+  tinyurl.com/cb9np: 1288
+  add: 1653
+  know: 546
+  email: 507
+  floor: 2635
+  preventitive: 2468
+  times: 2317
+  send: 2118
+  accountant: 1776
+  sweater: 217
+  tinyurl.com/dg7yd: 1088
+  saturday: 2505
+  tweeting: 2142
+  minutes: 113
+  "yes": 51
+  yet: 2458
+  "@breakingnewson": 2331
+  states: 2079
+  benefits: 1887
+  artist: 644
+  simpl: 1187
+  tinyurl.com/b2n9f: 1126
+  actionscript: 810
+  logo: 2624
+  groups: 2558
+  provides: 380
+  tinyurl.com/cba95: 1338
+  creating: 551
+  recording: 537
+  billion: 2725
+  "@lisagj": 2303
+  headache: 1391
+  contribute: 485
+  coding: 812
+  images: 1552
+  loophole: 108
+  fran: 1323
+  socially: 2827
+  jk: 2782
+  thank: 2543
+  section: 2121
+  partners: 711
+  ff.im/18xt: 683
+  tinyurl.com/ambd9: 1586
+  "@hooded": 1092
+  america: 466
+  bad: 91
+  ww: 2352
+  spv: 2102
+  read: 1383
+  told: 1314
+  "@mikeprasad": 538
+  flight: 2746
+  dirty: 1779
+  throwing: 1778
+  tinyurl.com/dnxqj: 1146
+  tinyurl.com/byyxx: 1417
+  stare: 2136
+  interactive: 836
+  administrationjobs: 1434
+  meds: 1251
+  couple: 1509
+  datacenter: 2695
+  opening: 2110
+  tinyurl.com/aq86y: 1630
+  technician: 1244
+  during: 452
+  tinyurl.com/b6utw: 1073
+  sorry: 2655
+  allowed: 2229
+  rens: 2208
+  proof: 1928
+  disorder: 328
+  "@kellyokeefe": 2736
+  rent: 2477
+  papa: 2132
+  sysadmin: 1305
+  space: 502
+  until: 1478
+  industry: 1353
+  what: 88
+  movie: 1957
+  fuel: 1664
+  personas: 1022
+  made: 1260
+  is.gd/kc8: 1453
+  boquete: 1456
+  ads: 2460
+  js: 1452
+  mac: 652
+  area: 1364
+  btech: 774
+  little: 529
+  pre: 2427
+  bam: 1820
+  real: 1192
+  post-traumatic: 326
+  utterli: 967
+  officer: 1427
+  embody: 1758
+  sent: 500
+  beginning: 681
+  woolly: 522
+  "@georgie": 2420
+  "1.0": 1990
+  ":)))": 276
+  communications: 835
+  manager: 587
+  editor: 616
+  give: 1432
+  agency: 687
+  drink: 2360
+  shoot: 658
+  tinyurl.com/cva63: 1086
+  "1.2": 1546
+  tumblr.com/xsm1bk7d: 1520
+  black: 984
+  execs: 2336
+  gossip: 200
+  somebody: 1198
+  twitterers: 30
+  phoenix: 1669
+  tinyurl.com/btlho: 1526
+  extremely: 2647
+  handy: 154
+  apple: 1268
+  our: 43
+  project: 738
+  surveying: 766
+  center: 2105
+  assist: 1508
+  "@prblog": 2613
+  find: 106
+  tinyurl.com/ad9ra: 866
+  lucasfilm: 646
+  attorney: 1194
+  out: 872
+  awesome: 1399
+  institutionalized: 16
+  yuck: 2747
+  townhouse: 2504
+  prime: 2479
+  kitten: 1103
+  become: 1361
+  setting: 1518
+  specialized: 2689
+  annapolis: 2499
+  1bd: 2486
+  impact: 2186
+  amanda: 2127
+  student: 1717
+  man: 1697
+  start: 741
+  knows: 1211
+  pro: 1617
+  for: 3
+  finish: 397
+  tinyurl.com/as2y7: 972
+  map: 2710
+  bryan: 2527
+  visit: 1925
+  mississauga: 1158
+  latest: 1535
+  "@niphal": 1718
+  safe: 951
+  tinyurl.com/b9tl5: 641
+  convert: 1623
+  tinyurl.com/bhhtg: 778
+  solution: 2691
+  "@jimmyfallon": 2673
+  rizzi: 1905
+  kma: 2507
+  stimulus: 506
+  funny: 269
+  citrix: 1286
+  pc: 1047
+  j2ee: 1667
+  need: 470
+  administering: 1250
+  mindjet: 859
+  structures: 229
+  brengt: 433
+  woman: 2801
+  wellicht: 425
+  phase: 455
+  smash: 2805
+  shoots: 2714
+  tinyurl.com/d973u: 2666
+  him: 275
+  tinyurl.com/csxmd: 1000
+  gervais: 265
+  alcohol: 2212
+  world: 258
+  t.ha: 423
+  may: 2158
+  negotiable: 1919
+  search: 83
+  built: 1531
+  aws: 802
+  ph: 1578
+  wide: 2762
+  wondering: 2750
+  jobsurl.com/21e: 1507
+  florida: 132
+  midnight: 301
+  per: 1885
+  stop: 368
+  ???: 1710
+  pet: 2701
+  his: 383
+  aaron: 318
+  ca: 839
+  package: 461
+  settled: 2687
+  g2p: 2440
+  hit: 1199
+  handyman: 822
+  like: 218
+  languages: 1208
+  debugging: 1625
+  apply: 663
+  pm: 1165
+  mdash: 2834
+  minded: 2732
+  ky-march: 2665
+  wwf: 2385
+  "@yarmong": 1694
+  tinyurl.com/c562x: 1133
+  tinyurl.com/bavfa: 959
+  indian: 762
+  intelligent: 1541
+  grow: 1494
+  stinking: 2643
+  down: 2271
+  23k-33k: 1884
+  hiv: 780
+  episode: 877
+  rtjobs: 807
+  mummy: 2471
+  teams: 2220
+  marketer: 1745
+  believe: 917
+  faces: 2798
+  "@lotay": 2316
+  cell: 2209
+  "@wendytimmons": 2040
+  tinyurl.com/cmskk: 1135
+  queen: 404
+  doesn't: 21
+  seeks: 1005
+  bread: 677
+  unitedhealth: 1670
+  stress: 327
+  experienced: 1475
+  retail: 1270
+  non-profit: 582
+  pr: 756
+  property: 2726
+  ch: 642
+  wouldn't: 682
+  ps: 234
+  "@jamievaron": 2608
+  disqus: 1090
+  haven't: 212
+  18-million: 2728
+  ":-)": 2203
+  internet: 1933
+  "@mamikaze": 1893
+  exp: 1173
+  geo-tagging: 1634
+  boxers: 2779
+  covina: 2616
+  sfdc: 2145
+  qua: 1823
+  technologies: 278
+  wildlife: 764
+  birds: 2767
+  "29.93": 2286
+  ups: 1723
+  momif: 2275
+  shout: 2224
+  offered: 2083
+  white: 1858
+  talaja: 1817
+  types: 1784
+  everyone: 360
+  hexaware: 277
+  people: 179
+  "@radersrus": 87
+  one: 237
+  slapping: 2717
+  bands: 2582
+  www.realwebjobs.com/view/371.ph: 1156
+  kick: 292
+  seed-starting: 2560
+  spain: 2404
+  co: 2078
+  tinyurl.com/b9q5z: 945
+  fun: 393
+  induced: 329
+  totally: 2622
+  sharks: 2595
+  skaters: 2067
+  que: 1855
+  oregon: 1279
+  vaccine: 1388
+  designs: 1755
+  settles: 1740
+  "8400": 1060
+  singing: 2768
+  recovered: 2576
+  username: 2307
+  outsourcing: 2267
+  lexus: 1822
+  indoors: 524
+  slept: 2787
+  clemente: 2600
+  "@bmassey": 2526
+  means: 2475
+  isn't: 2012
+  preferably: 1914
+  responsibility: 248
+  tinyurl.com/c9ogs: 1091
+  paid: 731
+  valleyfield: 955
+  fashion: 2124
+  head: 1902
+  newspaper: 732
+  confirmation: 2605
+  16-33: 2070
+  system: 1529
+  hills: 1657
+  tinyurl.com/cswaao: 1093
+  turned: 42
+  days: 2367
+  freelance: 1973
+  island: 1900
+  intent: 373
+  "!!!!!": 139
+  gekarameliseerde: 914
+  java: 727
+  leader: 381
+  directors: 696
+  northern: 603
+  gilbert: 2444
+  tinyurl.com/alsue: 1044
+  va: 604
+  flex: 607
+  hairy: 1729
+  vb: 637
+  community: 2446
+  disgusted: 1861
+  writers: 1781
+  "@whiplashdesign": 1348
+  tinyurl.com/cn4vc: 1606
+  deze: 431
+  registers: 2387
+  says: 1737
+  tinyurl.com/bqc8z: 932
+  further: 280
+  english: 2402
+  sure: 408
+  labs: 629
+  trying: 105
+  "3.3": 1032
+  tinyurl.com/ccx74: 1414
+  reflecting: 2100
+  surf: 569
+  gymnatics: 2615
+  "50": 1140
+  salk: 1385
+  seeing: 2497
+  tips: 122
+  candidates: 1219
+  before: 300
+  revision: 321
+  www.crowdspring.com: 2625
+  next: 2274
+  gadgets.bo: 886
+  football: 61
+  "52": 1139
+  vi: 1321
+  "3.7": 1035
+  "@moearora": 99
+  api: 1553
+  barcamp: 2720
+  "@melissalmcinnis": 1705
+  tinyurl.com/apd4k: 1555
+  mobile: 575
+  coaching: 2557
+  excuse: 2453
+  tr.im/gzr: 632
+  tinyurl.com/depko: 1097
+  fighter: 428
+  ill: 2639
+  trip: 2629
+  hear: 2431
+  day: 459
+  "55": 2230
+  quy: 1789
+  reward: 247
+  swore: 402
+  federal: 509
+  accepted: 2828
+  www.rayandbarney.com: 2095
+  "56": 1021
+  usual: 1451
+  mentor: 2155
+  watching: 2007
+  "@vi": 1795
+  vp: 1761
+  how: 446
+  "@almightyduff": 1460
+  each: 2815
+  spike: 1989
+  get: 109
+  if: 151
+  35k: 1523
+  app: 594
+  we'll: 2514
+  most: 2107
+  greenville: 2080
+  eclipse: 2003
+  ig: 753
+  tinyurl.com/dawnd: 931
+  levels: 1327
+  showing: 25
+  hast: 2258
+  twitpic.com/1lx0: 1840
+  u.mavrev.com/1lv: 1598
+  guys: 1278
+  "@reneewiggins": 2092
+  intro: 1217
+  tinyurl.com/bbkgl: 1185
+  guilty: 2817
+  "@ethanbauley": 2693
+  katie: 2215
+  "@screamingeagle1": 2181
+  rep: 1171
+  small: 1435
+  hedge: 2818
+  laptop: 2645
+  edge: 2133
+  i've: 1720
+  "@rhymefest": 1357
+  something: 34
+  python: 1215
+  similar: 70
+  living: 573
+  explosion: 349
+  private: 2547
+  publications: 2291
+  is.gd/k53: 591
+  tinyurl.com/djsqf: 1252
+  tinyurl.com/dlzxp: 1003
+  getting: 531
+  im: 2640
+  loft: 2563
+  southampton: 853
+  want: 182
+  owes: 2822
+  tinyurl.com/bgbpk: 1747
+  in: 27
+  subsequent: 1389
+  client-side: 1565
+  only: 236
+  idea: 2030
+  "000": 857
+  nashville: 1231
+  "@nickjackson": 1
+  camcorders: 889
+  second: 759
+  major: 2603
+  ladies: 2370
+  goals: 2152
+  twitpic.com/1lx8: 1875
+  tempo: 1850
+  applied: 613
+  word: 820
+  chandler: 2443
+  poodle-lady: 2399
+  gartner: 2351
+  positive: 2042
+  darren: 1904
+  "142198": 1891
+  gown: 195
+  processing: 937
+  bright: 1496
+  tinyurl.com/byhhl: 1108
+  semana: 187
+  loves: 342
+  www.edwpub.com/contest/: 2706
+  artists: 2068
+  is: 259
+  classic: 1447
+  bunch: 1732
+  it: 92
+  worried: 742
+  tinyurl.com/ckvzy: 1997
+  gives: 220
+  kendal: 789
+  cancer: 2518
+  tinyurl.com/bfjdm: 2353
+  iv: 429
+  uppm: 1014
+  rock: 1461
+  development: 586
+  fool: 1290
+  work: 76
+  developing: 597
+  secrets: 2195
+  able: 2159
+  tinyurl.com/d7ewt: 913
+  klosayhtoo: 1145
+  charlie: 2777
+  tinyurl.com/co3s8: 1693
+  1-3: 930
+  huxley: 1675
+  mustard: 354
+  depressed: 1226
+  sinh: 1797
+  oficina: 185
+  holicost: 2115
+  "@smeykunz": 1922
+  electronic: 680
+  bigger: 1355
+  attempt: 1517
+  despise: 1911
+  "2010": 1057
+  contract: 1168
+  rd2: 1442
+  citizen: 2718
+  netbeans: 1550
+  tinyurl.com/d8h53: 567
+  layton: 2447
+  advocacy: 2157
+  note: 1339
+  tinyurl.com/4hppt: 707
+  docs: 1651
+  highly: 1474
+  heaven: 2772
+  "@nickhac": 1972
+  security: 1777
+  unix: 1649
+  job: 611
+  tinyurl.com/d86za: 792
+  tinyurl.com/cgqfl: 2652
+  quote: 2190
+  tinyurl.com/d3p6p: 1644
+  cc-licensed: 29
+  casting: 2063
+  tinyurl.com/camvw: 1066
+  00-21: 1688
+  tinyurl.com/c3khu: 1034
+  blog: 102
+  tinyurl.com/dbsnh: 744
+  "@ronanmckee": 2368
+  changing: 1774
+  register: 566
+  we're: 814
+  tinyurl.com/bufmo: 119
+  "349": 1476
+  arkansas: 734
+  bekende: 436
+  chicago: 172
+  "@jessicahamby": 1920
+  annoying: 1876
+  anyone: 1372
+  allstars: 2217
+  conver: 1759
+  research: 843
+  "@vision": 65
+  feedback: 1636
+  dressed: 2221
+  "@wordspit1": 2197
+  "20.44": 1012
+  yourself: 558
+  going: 351
+  grab: 2792
+  "@hojbak": 2200
+  salary: 2051
+  oooh: 747
+  sum: 1148
+  "!!": 1023
+  www.sophiasgalaxy.net: 2528
+  models: 2511
+  trot: 1970
+  sun: 864
+  tinyurl.com/ct7jl: 286
+  released: 1633
+  pelican: 976
+  half: 2753
+  loll: 2233
+  grad: 1913
+  of: 11
+  although: 2342
+  aig: 2332
+  stab: 2261
+  tri: 2021
+  activity: 2829
+  "@riskyaj": 2653
+  where: 2596
+  asap: 2314
+  "750": 2073
+  far: 833
+  32gb: 977
+  industrial: 771
+  applications: 1423
+  product: 850
+  oh: 456
+  pictures: 2811
+  driver: 2130
+  desk: 161
+  descriptions: 666
+  tea: 2709
+  jobfeedr.c: 1437
+  touch: 2657
+  pds: 1878
+  beach: 1751
+  discussion: 483
+  rutabaga: 353
+  "138886": 1259
+  ok: 396
+  thinking: 2590
+  ol: 1714
+  ba: 1600
+  polio: 1387
+  "1065.95": 924
+  pdt: 2004
+  msg: 1380
+  values: 2727
+  interviews: 2633
+  hardcore: 2488
+  followed: 2137
+  insomniacs: 1978
+  acumen: 579
+  "on": 58
+  tinyurl.com/cparg: 2741
+  halo: 2674
+  open-ended: 2395
+  taking: 2129
+  menny: 1799
+  lawsuit: 1741
+  housemate: 752
+  successfully: 1222
+  gorgeous: 2601
+  okay: 2272
+  faz: 1848
+  develop: 1655
+  navi: 1062
+  crawler: 411
+  always: 177
+  ec2: 803
+  tinyurl.com/ca2tw: 1105
+  "@nil17": 2716
+  sound: 2422
+  preparing: 2333
+  selfridges: 2122
+  be: 24
+  decor: 2364
+  palms: 2358
+  lovely: 755
+  rest: 445
+  dancers: 1210
+  defi: 2729
+  "@jeffbarr": 2425
+  smart: 2371
+  followe: 2302
+  quirk: 2019
+  tinyurl.com/4lqgq: 2017
+  air: 1431
+  or: 312
+  www.barcamp.org: 2721
+  000s: 2299
+  products: 1757
+  journalist: 621
+  kansas: 2783
+  verify: 2549
+  shoulder: 2148
+  tuition: 1310
+  bi: 1610
+  garbage: 453
+  ot: 982
+  venture: 583
+  tinyurl.com/dn9ff: 1110
+  you're: 1381
+  post: 665
+  khen: 1607
+  feed: 2516
+  try: 158
+  background: 699
+  rubbish: 664
+  star: 1462
+  ov: 1510
+  shots: 2492
+  hope: 2135
+  incase: 1754
+  apps: 1701
+  york-new: 1677
+  site: 815
+  retweet: 809
+  annoyed: 2354
+  permanent: 701
+  bm: 996
+  emails: 513
+  blackberry: 1408
+  picture: 382
+  lorton: 1256
+  top-grossing: 1318
+  mail: 729
+  "@brettdsharp": 2024
+  bp: 1590
+  tinyurl.com/bvhw4: 918
+  paul: 2281
+  lis: 1810
+  administration: 1317
+  software: 71
+  minneapolis: 1486
+  canceled: 2744
+  covington: 2587
+  twitpic.com/238e: 2515
+  elvis: 2222
+  tickets: 2170
+  "200": 1832
+  happy: 1706
+  nbsp: 1687
+  central: 1182
+  stay: 1468
+  brink: 2338
+  hellas: 1132
+  street: 427
+  blue: 980
+  team: 651
+  chewing: 357
+  xoxo: 2658
+  newton: 2240
+  netbook: 867
+  feel: 235
+  "!!!": 274
+  blankets: 2567
+  bu: 1869
+  win: 981
+  "3983": 1030
+  locales: 1642
+  fish: 763
+  tinyurl.com/amo67: 957
+  fundraiser: 2276
+  homepage: 1716
+  demand: 2678
+  understands: 2151
+  metro: 1986
+  today: 252
+  drmn: 2481
+  conducted: 2325
+  didnt: 2227
+  putting: 1713
+  again: 307
+  amazon.com: 614
+  google: 919
+  makes: 1719
+  pune: 775
+  more: 419
+  by: 249
+  potential: 1218
+  country: 405
+  glassfish: 1685
+  espero: 1851
+  impossible: 618

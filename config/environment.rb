@@ -31,8 +31,8 @@ Rails::Initializer.run do |config|
   config.gem "ar-extensions"
   config.gem 'mislav-will_paginate', :version => '~> 2.2.3', :lib => 'will_paginate', 
     :source => 'http://gems.github.com'
-  config.gem 'ferret'
   config.gem 'tomz-libsvm-ruby-swig', :lib => 'svm', :source => 'http://gems.github.com'
+  config.gem 'feedbackmine-tokenizer', :lib => 'tokenizer', :source => 'http://gems.github.com'
   config.gem 'feedbackmine-language_detector', :lib => 'language_detector', :source => 'http://gems.github.com'
 
   # Only load the plugins named here, in the order given. By default, all plugins 

@@ -62,6 +62,7 @@ vi /etc/cron.daily/tweetjobsearch
 #!/bin/sh
 cd /mnt/web/current
 RAILS_ENV=production rake ts:in
+touch /tmp/restart-crawler.txt
 
 chmod +x /etc/cron.daily/tweetjobsearch
 

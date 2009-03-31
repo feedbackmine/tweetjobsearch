@@ -62,6 +62,7 @@ class Crawler
       LAMPContracts
       MaddisonRecruit
       marketingjob
+      myitjobs
       nymarketingjobs
       NewYorkTechJobs
       phoenixtechjobs

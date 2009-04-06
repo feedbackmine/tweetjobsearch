@@ -1,8 +1,18 @@
+============= SERVER ====================
+passwd
+dpkg-reconfigure tzdata
+
 apt-get update
 apt-get upgrade
 apt-get install gcc g++ make libc6-dev zlib1g-dev libssl-dev libxml2-dev libxslt1-dev ruby1.8 ruby1.8-dev libreadline5-dev apache2 apache2-prefork-dev libapr1-dev git-core mysql-server libmysqlclient15-dev 
 
-dpkg-reconfigure tzdata
+wget http://sphinxsearch.com/downloads/sphinx-0.9.8.1.tar.gz
+tar zxvf sphinx-0.9.8.1.tar.gz
+cd sphinx-0.9.8.1
+./configure
+make
+make install
+cd ..
 
 ln -s /usr/bin/ruby1.8 /usr/bin/ruby
 wget http://rubyforge.org/frs/download.php/51100/ruby-enterprise-1.8.6-20090201.tar.gz
@@ -15,6 +25,9 @@ ln -s /opt/ruby-enterprise-1.8.6-20090201/bin/ruby /usr/bin/ruby
 ln -s /opt/ruby-enterprise-1.8.6-20090201/bin/gem /usr/bin/gem
 ln -s /opt/ruby-enterprise-1.8.6-20090201/bin/irb /usr/bin/irb
 ln -s /opt/ruby-enterprise-1.8.6-20090201/bin/rake /usr/bin/rake
+
+vi ./ruby-enterprise-1.8.6-20090201/lib/ruby/site_ruby/1.8/rubygems.rb
+#Apply this fix: http://rubyforge.org/tracker/index.php?func=detail&aid=23105&group_id=126&atid=577
 
 gem install passenger
 /opt/ruby-enterprise-1.8.6-20090201/bin/passenger-install-apache2-module
@@ -31,32 +44,21 @@ vi /etc/apache2/sites-available/tweetjobsearch
 rm /etc/apache2/sites-enabled/000-default
 ln -s /etc/apache2/sites-available/tweetjobsearch /etc/apache2/sites-enabled/000-default
 
-wget http://sphinxsearch.com/downloads/sphinx-0.9.8.1.tar.gz
-tar zxvf sphinx-0.9.8.1.tar.gz
-cd sphinx-0.9.8.1
-./configure
-make
-make install
-cd ..
-
-
-#on client!
+==============CLIENT ====================
 cap deploy:setup #do it only once
 cap deploy
 
-RAILS_ENV=production gems:install
-RAILS_ENV=production db:create
-RAILS_ENV=production db:migrate
+============= SERVER ====================
+cd /mnt/web/current
+RAILS_ENV=production rake gems:install
+RAILS_ENV=production rake db:create
+RAILS_ENV=production rake db:migrate
 RAILS_ENV=production jobs/crawler.rb &
 RAILS_ENV=production jobs/classifier.rb
 RAILS_ENV=production rake ts:in
 RAILS_ENV=production rake ts:start
 
-vi ./ruby-enterprise-1.8.6-20090201/lib/ruby/site_ruby/1.8/rubygems.rb
-#Apply this fix: http://rubyforge.org/tracker/index.php?func=detail&aid=23105&group_id=126&atid=577
-
 /etc/init.d/apache2 restart
-
 
 vi /etc/cron.daily/tweetjobsearch
 #!/bin/sh

@@ -12,11 +12,10 @@ role :web, 'www.tweetjobsearch.com'
 role :db,  'www.tweetjobsearch.com', :primary => true
 
 namespace :deploy do
-  desc "Restarting mod_rails/crawler/sphinx"
+  desc "Restarting mod_rails/crawler"
   task :restart, :roles => :app, :except => { :no_release => true } do
     run "touch #{current_path}/tmp/restart.txt"
     run "touch /tmp/restart-crawler.txt"
-    restart_sphinx
   end
 
   [:start, :stop].each do |t|

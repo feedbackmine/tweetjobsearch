@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20090304052542) do
+ActiveRecord::Schema.define(:version => 20090412024730) do
 
   create_table "job_tweets", :force => true do |t|
     t.integer  "status_id"
@@ -77,5 +77,20 @@ ActiveRecord::Schema.define(:version => 20090304052542) do
 
   add_index "tweets", ["created_at"], :name => "index_tweets_on_created_at"
   add_index "tweets", ["status_id"], :name => "index_tweets_on_status_id", :unique => true
+
+  create_table "users", :force => true do |t|
+    t.string   "login"
+    t.string   "crypted_password"
+    t.string   "password_salt"
+    t.string   "persistence_token"
+    t.integer  "login_count"
+    t.datetime "last_request_at"
+    t.datetime "last_login_at"
+    t.datetime "current_login_at"
+    t.string   "last_login_ip"
+    t.string   "current_login_ip"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end

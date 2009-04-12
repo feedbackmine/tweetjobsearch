@@ -1,4 +1,6 @@
 class TweetsController < ApplicationController
+  before_filter :require_user
+  
   def index
     if params[:q].blank?
       @tweets = Tweet.paginate :page => params[:page], :per_page => 50, :order => 'created_at DESC'

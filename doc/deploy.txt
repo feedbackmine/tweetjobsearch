@@ -63,7 +63,7 @@ RAILS_ENV=production rake ts:start
 vi /etc/cron.daily/tweetjobsearch
 #!/bin/sh
 cd /mnt/web/current
-jobs/delete_old_tweets.rb
+RAILS_ENV=production jobs/delete_old_tweets.rb
 RAILS_ENV=production rake ts:in
 touch /tmp/restart-crawler.txt
 

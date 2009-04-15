@@ -21,6 +21,7 @@ class Crawler
       ITJobsSydney
       JustTechJobs
       jobnoggin
+      jobs4bloggers
       jobs_at_Account
       jobs_at_retail
       jobs_sf_skilled
@@ -36,6 +37,7 @@ class Crawler
       jobs_DC_GL
       jobs_DC_skilled
       jobs_DC_NetAdmn
+      #jobs_in_media
       jobs_ny_edu
       jobs_NY_Legal
       jobs_NY_beauty
@@ -58,15 +60,21 @@ class Crawler
       jobs_NY_real
       JobMotel_Ruby
       Joblighted
+      journalism_jobs
       LAMPJobs
       LAMPContracts
       MaddisonRecruit
       marketingjob
+      media_jobs
+      MediaJobsNYC
+      MTLtweetjobs
+      mtvnetworksjobs
       myitjobs
       nymarketingjobs
       NewYorkTechJobs
       phoenixtechjobs
       phppositions
+      #publishingjobs
       RailsJobs
       ReddingJobs
       SocialMediaJob

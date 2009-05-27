@@ -138,8 +138,8 @@ class Crawler
       
       parse(status, job_tweets)
       
-      if job_tweets.size > 1000
-        JobTweet.import(JOB_COLUMNS, job_tweets, {:validate => false, :timestamps => false, :ignore => true}) unless job_tweets.empty?
+      unless job_tweets.empty?
+        JobTweet.import(JOB_COLUMNS, job_tweets, {:validate => false, :timestamps => false, :ignore => true})
         job_tweets = []
         exit_if_needed
         reload_classifier_if_needed

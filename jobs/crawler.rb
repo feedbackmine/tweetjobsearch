@@ -133,6 +133,8 @@ class Crawler
     job_tweets = []
     count = 0
     
+    @logger.info "#{Time.now.to_s} started"
+    
     uri = URI.parse("http://#{username}:#{password}@stream.twitter.com/spritzer.json")
     Yajl::HttpStream.get(uri) do |status|
       #puts status.inspect

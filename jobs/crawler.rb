@@ -131,20 +131,24 @@ class Crawler
   
   def run(username, password)
     job_tweets = []
+    count = 0
     
     uri = URI.parse("http://#{username}:#{password}@stream.twitter.com/spritzer.json")
     Yajl::HttpStream.get(uri) do |status|
       #puts status.inspect
-      
+      count += 1
       parse(status, job_tweets)
       
-      unless job_tweets.empty?
-        JobTweet.import(JOB_COLUMNS, job_tweets, {:validate => false, :timestamps => false, :ignore => true})
+      if count > 1000
+        @logger.info "#{Time.now.to_s} #{job_tweets.size} found"
+        JobTweet.import(JOB_COLUMNS, job_tweets, {:validate => false, :timestamps => false, :ignore => true}) unless job_tweets.empty?
         job_tweets = []
+        count = 0
+        
         exit_if_needed
         reload_classifier_if_needed
-        @logger.info Time.now.to_s  
       end
+      
     end
     
   rescue Exception => e

@@ -134,7 +134,7 @@ class Crawler
     
     uri = URI.parse("http://#{username}:#{password}@stream.twitter.com/spritzer.json")
     Yajl::HttpStream.get(uri) do |status|
-      puts status.inspect
+      #puts status.inspect
       
       parse(status, job_tweets)
       
@@ -249,5 +249,5 @@ private
 end
 
 crawler = Crawler.new
-crawler.run("tweetjobsearch", 'tweetjobsearchpassword')
+crawler.run("feedbackmine2", 'feedbackmine2password')
 

@@ -5,8 +5,8 @@ class CreateTweets < ActiveRecord::Migration
       t.text    :text
       t.string  :source
       t.boolean :truncated
-      t.integer :in_reply_to_status_id
-      t.integer :in_reply_to_user_id
+      t.integer :in_reply_to_status_id, :limit => 8
+      t.integer :in_reply_to_user_id, :limit => 8
       t.boolean :favorited
 
       t.integer :user_id
@@ -27,8 +27,8 @@ class CreateTweets < ActiveRecord::Migration
       t.text    :text
       t.string  :source
       t.boolean :truncated
-      t.integer :in_reply_to_status_id
-      t.integer :in_reply_to_user_id
+      t.integer :in_reply_to_status_id, :limit => 8
+      t.integer :in_reply_to_user_id, :limit => 8
       t.boolean :favorited
 
       t.integer :user_id

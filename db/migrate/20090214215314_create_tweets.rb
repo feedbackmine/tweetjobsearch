@@ -1,7 +1,7 @@
 class CreateTweets < ActiveRecord::Migration
   def self.up
     create_table :tweets do |t|
-      t.integer :status_id
+      t.integer :status_id, :limit => 8
       t.text    :text
       t.string  :source
       t.boolean :truncated
@@ -23,7 +23,7 @@ class CreateTweets < ActiveRecord::Migration
     end
     
     create_table :job_tweets do |t|
-      t.integer :status_id
+      t.integer :status_id, :limit => 8
       t.text    :text
       t.string  :source
       t.boolean :truncated
@@ -45,7 +45,7 @@ class CreateTweets < ActiveRecord::Migration
     end
     
     create_table :training_tweets do |t|
-      t.integer :status_id
+      t.integer :status_id, :limit => 8
       t.string  :screen_name
       t.text    :text
       t.integer :label

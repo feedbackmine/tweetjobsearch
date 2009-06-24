@@ -12,7 +12,7 @@
 ActiveRecord::Schema.define(:version => 20090412024730) do
 
   create_table "job_tweets", :force => true do |t|
-    t.integer  "status_id"
+    t.integer  "status_id",             :limit => 8
     t.text     "text"
     t.string   "source"
     t.boolean  "truncated"
@@ -39,7 +39,7 @@ ActiveRecord::Schema.define(:version => 20090412024730) do
   add_index "job_tweets", ["status_id"], :name => "index_job_tweets_on_status_id", :unique => true
 
   create_table "training_tweets", :force => true do |t|
-    t.integer  "status_id"
+    t.integer  "status_id",   :limit => 8
     t.string   "screen_name"
     t.text     "text"
     t.integer  "label"
@@ -53,7 +53,7 @@ ActiveRecord::Schema.define(:version => 20090412024730) do
   add_index "training_tweets", ["status_id"], :name => "index_training_tweets_on_status_id", :unique => true
 
   create_table "tweets", :force => true do |t|
-    t.integer  "status_id"
+    t.integer  "status_id",             :limit => 8
     t.text     "text"
     t.string   "source"
     t.boolean  "truncated"

@@ -201,6 +201,9 @@ private
   end
 
   def parse(status, job_tweets)
+    #http://groups.google.com/group/twitter-development-talk/browse_thread/thread/9e05fa281cc3afee/8df74b0597e95482?lnk=gst&q=deletion#8df74b0597e95482
+    return if status["created_at"].blank?
+    
     created_at = Time.zone.parse(status["created_at"])
     status_id = status["id"].to_i
     text = status["text"]

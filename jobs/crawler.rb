@@ -17,8 +17,10 @@ class Crawler
       computer_jobs 
       chicagowebjobs
       eComjobs
+      GetCasinoJobs
       ITJobsMelbourne
       ITJobsSydney
+      IsleCasinoJobs
       JustTechJobs
       jobnoggin
       jobs4bloggers
@@ -84,6 +86,7 @@ class Crawler
       wahm_job_leads
       Web_Design_Jobs
       WebJob
+      vegascasinojobs
   }
   
   UNTRUSTED_SOURCES = %w{
